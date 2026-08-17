@@ -1,5 +1,30 @@
-node_modules
-.next
-out
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# TypeScript
 *.tsbuildinfo
+next-env.d.ts
+
+# Environment
 .env
+.env.local
+.env*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Misc
+new changes/
