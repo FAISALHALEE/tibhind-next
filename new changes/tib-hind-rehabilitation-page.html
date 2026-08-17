@@ -1,0 +1,1474 @@
+<!DOCTYPE html>
+<!-- TIB HIND — /treatments/rehabilitation/ -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rehabilitation in India: Stroke and Spinal Cord Injury | TIB HIND</title>
+<meta name="description" content="Intensive stroke, spinal cord injury and post-surgical rehabilitation at Delhi NCR centres — daily therapy at a fraction of Western cost.">
+<link rel="canonical" href="https://tibhind.com/treatments/rehabilitation/">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#12332C;
+  --ink-soft:#274A42;
+  --paper:#FCFBF8;
+  --tone:#F1EFE8;
+  --rule:#DAD5C9;
+  --seal:#96692A;
+  --verified:#2F6E52;
+  --muted:#59635D;
+  --display:"Newsreader",Georgia,serif;
+  --body:"IBM Plex Sans",system-ui,sans-serif;
+  --data:"IBM Plex Mono",ui-monospace,monospace;
+  --wrap:1120px;
+  --rail:132px;
+  --gap:clamp(56px,7vw,104px);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--body);font-size:17px;line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+img{max-width:100%;display:block}
+a{color:inherit}
+
+/* ---------- shell ---------- */
+.wrap{max-width:var(--wrap);margin-inline:auto;padding-inline:24px}
+.band{padding-block:var(--gap)}
+.band--tone{background:var(--tone)}
+.band--ink{background:var(--ink);color:#EEF2EF}
+.band + .band--tone{border-block-start:1px solid var(--rule)}
+
+/* margin-rail: eyebrow label sits in the document margin */
+.rail{display:grid;grid-template-columns:var(--rail) minmax(0,1fr);gap:0 40px}
+.rail__label{
+  font-family:var(--data);font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--muted);padding-block-start:.7em;
+  border-inline-start:2px solid var(--seal);padding-inline-start:12px;
+}
+.band--ink .rail__label{color:#9DB3AB;border-color:#7E9A8F}
+@media(max-width:860px){
+  .rail{grid-template-columns:1fr;gap:18px}
+  .rail__label{padding-block-start:0}
+}
+
+/* ---------- type ---------- */
+h1,h2,h3{font-family:var(--display);font-weight:400;letter-spacing:-.015em;margin:0}
+h1{font-size:clamp(38px,5.6vw,66px);line-height:1.06}
+h2{font-size:clamp(28px,3.6vw,42px);line-height:1.14;margin-block-end:.55em}
+h3{font-size:20px;line-height:1.3}
+p{margin:0 0 1.15em}
+.lede{font-size:clamp(18px,2vw,21px);line-height:1.6;color:var(--ink-soft);max-width:60ch}
+.band--ink .lede{color:#C3D2CC}
+.prose{max-width:66ch}
+.prose p:last-child{margin-block-end:0}
+
+/* ---------- header ---------- */
+.top{
+  position:sticky;top:0;z-index:60;background:rgba(252,251,248,.94);
+  backdrop-filter:blur(8px);border-block-end:1px solid var(--rule);
+}
+.top__in{display:flex;align-items:center;gap:20px;height:66px}
+.mark{font-family:var(--display);font-size:22px;letter-spacing:.06em;text-decoration:none;font-weight:500}
+.mark span{color:var(--seal);padding-inline:2px}
+.top__nav{margin-inline-start:auto;display:flex;align-items:center;gap:22px}
+.top__nav a{font-size:14px;text-decoration:none;color:var(--ink-soft)}
+.top__nav a:hover{color:var(--seal)}
+.langs{display:flex;gap:8px;font-family:var(--data);font-size:12px}
+.langs a{padding:3px 7px;border:1px solid var(--rule);border-radius:2px;text-decoration:none}
+.langs a[aria-current]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+@media(max-width:900px){.top__nav a:not(.btn--wa){display:none}.langs{display:none}}
+
+/* ---------- buttons ---------- */
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;gap:9px;
+  font-family:var(--body);font-size:16px;font-weight:500;text-decoration:none;
+  padding:15px 26px;border-radius:2px;border:1px solid transparent;cursor:pointer;
+  transition:background .18s ease,color .18s ease,border-color .18s ease;
+}
+.btn--solid{background:var(--ink);color:var(--paper)}
+.btn--solid:hover{background:var(--seal)}
+.btn--line{border-color:var(--ink);color:var(--ink)}
+.btn--line:hover{background:var(--ink);color:var(--paper)}
+.band--ink .btn--solid{background:var(--paper);color:var(--ink)}
+.band--ink .btn--solid:hover{background:var(--seal);color:var(--paper)}
+.btn--wa{font-size:14px;padding:9px 16px;background:var(--verified);color:#fff}
+.btn--wa:hover{background:var(--ink)}
+.btns{display:flex;flex-wrap:wrap;gap:12px;margin-block:28px 14px}
+:focus-visible{outline:2.5px solid var(--seal);outline-offset:3px}
+
+/* ---------- hero ---------- */
+.hero{padding-block:clamp(48px,7vw,86px) 0}
+.hero__grid{display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:start}
+@media(max-width:940px){.hero__grid{grid-template-columns:1fr;gap:40px}}
+.hero__body{font-size:17px;line-height:1.65;color:var(--ink-soft);max-width:60ch;margin-block-start:1.1em}
+.hero__note{font-size:14px;color:var(--muted);max-width:44ch}
+
+/* SIGNATURE — the credential document */
+.cred{
+  background:#fff;border:1px solid var(--rule);
+  box-shadow:0 1px 0 var(--rule),0 18px 44px -32px rgba(18,51,44,.5);
+  position:relative;
+}
+.cred__head{
+  padding:16px 22px;border-block-end:1px solid var(--rule);
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+  font-family:var(--data);font-size:10.5px;letter-spacing:.17em;text-transform:uppercase;color:var(--muted);
+}
+.cred__body{padding:24px 22px 22px}
+.cred__name{font-family:var(--display);font-size:27px;line-height:1.15;margin-block-end:3px}
+.cred__role{font-size:14.5px;color:var(--muted);margin-block-end:20px}
+.cred__row{
+  display:grid;grid-template-columns:1fr auto;gap:10px;align-items:baseline;
+  padding-block:11px;border-block-start:1px dotted var(--rule);
+}
+.cred__k{font-family:var(--data);font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);display:block;margin-block-end:2px}
+.cred__v{font-size:15px;line-height:1.35}
+.cred__v b{font-family:var(--data);font-weight:500;letter-spacing:.01em}
+.cred__verify{
+  font-family:var(--data);font-size:11px;letter-spacing:.07em;text-transform:uppercase;
+  color:var(--verified);text-decoration:none;white-space:nowrap;border-block-end:1px solid currentColor;padding-block-end:1px;
+}
+.cred__verify:hover{color:var(--ink)}
+.cred__foot{
+  padding:14px 22px;background:var(--tone);border-block-start:1px solid var(--rule);
+  font-size:13.5px;color:var(--ink-soft);
+}
+.cred__foot a{color:var(--seal)}
+.seal{
+  display:inline-flex;align-items:center;gap:6px;color:var(--verified);
+  font-family:var(--data);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+}
+.seal svg{width:13px;height:13px}
+
+/* ---------- hero media ---------- */
+.hero__media{position:relative}
+.hero__img{
+  position:relative;aspect-ratio:4/3;border:1px solid var(--rule);border-radius:3px;
+  overflow:hidden;background:var(--tone);
+}
+.hero__img svg{position:absolute;inset:0;width:100%;height:100%}
+.hero__cap{
+  position:absolute;inset-inline:0;bottom:0;padding:16px 20px;
+  font-family:var(--data);font-size:10.5px;line-height:1.5;color:var(--muted);
+  background:linear-gradient(to top,rgba(241,239,232,.96) 55%,rgba(241,239,232,0));
+}
+.hero__cap b{display:block;letter-spacing:.14em;text-transform:uppercase;color:var(--seal);margin-block-end:5px;font-weight:500}
+.hero .cred{
+  margin-block-start:-64px;margin-inline-start:34px;position:relative;z-index:2;
+  border-radius:3px;
+}
+@media(max-width:940px){
+  .hero .cred{margin-block-start:-48px;margin-inline-start:18px;margin-inline-end:18px}
+}
+
+/* ---------- disclosure clauses ---------- */
+.clauses{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:#2C4F46;border:1px solid #2C4F46;margin-block:34px}
+.clause{background:var(--ink);padding:26px 24px}
+.clause__k{
+  font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;
+  color:#8FB3A6;display:block;margin-block-end:12px;
+}
+.clause p{font-size:15.5px;line-height:1.6;color:#D5E2DD;margin-block-end:0}
+@media(max-width:860px){.clauses{grid-template-columns:1fr}}
+
+/* ---------- trust strip ---------- */
+.strip{border-block:1px solid var(--rule);background:var(--tone)}
+.strip__grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--rule)}
+.strip__i{background:var(--tone);padding:24px 20px}
+.strip__n{font-family:var(--display);font-size:23px;line-height:1.15;margin-block-end:3px}
+.strip__d{font-size:13px;color:var(--muted);line-height:1.45}
+@media(max-width:1060px){.strip__grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:700px){.strip__grid{grid-template-columns:repeat(2,1fr)}}
+
+/* ---------- steps ---------- */
+
+
+/* ---------- cost comparison bars ---------- */
+.bars{margin-block:34px;border:1px solid var(--rule);background:#fff;padding:30px 32px}
+.bars__cap{
+  font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;
+  color:var(--muted);margin-block-end:22px;
+}
+.bar{margin-block-end:22px}
+.bar:last-of-type{margin-block-end:0}
+.bar__top{display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin-block-end:9px}
+.bar__name{font-size:16px}
+.bar__val{font-family:var(--data);font-size:13px;color:var(--seal)}
+.bar__track{height:12px;background:var(--tone);border:1px solid var(--rule)}
+.bar__fill{height:100%;background:var(--ink)}
+.bar--you .bar__fill{background:var(--seal)}
+.bars__note{margin-block-start:22px;padding-block-start:18px;border-block-start:1px dotted var(--rule);font-size:14px;color:var(--muted)}
+.bars__note:last-child{margin-block-end:0}
+
+/* ---------- cost factors ---------- */
+.factors{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule);margin-block:30px}
+.factor{background:var(--paper);padding:20px 18px}
+.factor__k{font-family:var(--data);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--seal);display:block;margin-block-end:8px}
+.factor p{font-size:14px;line-height:1.5;color:var(--ink-soft);margin-block-end:0}
+@media(max-width:900px){.factors{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.factors{grid-template-columns:1fr}}
+
+/* ---------- cost ledger ---------- */
+.ledger{border:1px solid var(--rule);background:#fff;margin-block-start:30px}
+.ledger__head{
+  display:flex;justify-content:space-between;padding:13px 22px;border-block-end:1px solid var(--rule);
+  font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);
+}
+.ledger a{
+  position:relative;display:flex;align-items:center;gap:16px;
+  padding:14px 22px;text-decoration:none;border-block-end:1px dotted var(--rule);
+  transition:background .2s ease;
+  animation:tibRise .5s ease var(--d,0ms) both;
+}
+.ledger.in a{}
+.ledger a:last-child{border-block-end:0}
+.ledger a::before{
+  content:"";position:absolute;inset-block:0;inset-inline-start:0;width:0;
+  background:var(--c);transition:width .25s ease;
+}
+.ledger a:hover{background:color-mix(in srgb,var(--c) 6%,transparent)}
+.ledger a:hover::before{width:3px}
+.led__ic{
+  position:relative;flex:0 0 40px;width:40px;height:40px;border-radius:3px;
+  display:grid;place-items:center;overflow:hidden;
+}
+.led__ic::before{content:"";position:absolute;inset:0;background:var(--c);opacity:.11;transition:opacity .25s ease}
+.led__ic svg{position:relative;width:21px;height:21px;stroke:var(--c);fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;transition:stroke .25s ease}
+.ledger a:hover .led__ic::before{opacity:1}
+.ledger a:hover .led__ic svg{stroke:#fff}
+.ledger__proc{font-size:16.5px;flex:1}
+.ledger a:hover .ledger__proc{color:var(--c)}
+.ledger__go{
+  font-family:var(--data);font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--muted);white-space:nowrap;transition:color .2s ease,transform .25s ease;
+}
+.ledger a:hover .ledger__go{color:var(--c);transform:translateX(4px)}
+@media(prefers-reduced-motion:reduce){.ledger a:hover .ledger__go{transform:none}}
+
+
+/* ---------- generic figures ---------- */
+.fig{position:relative;background:var(--tone);border:1px solid var(--rule);overflow:hidden}
+.fig svg{position:absolute;inset:0;width:100%;height:100%}
+.fig__cap{
+  position:absolute;inset-inline:0;bottom:0;padding:11px 15px;
+  font-family:var(--data);font-size:9.5px;line-height:1.4;color:var(--muted);
+  background:linear-gradient(to top,rgba(241,239,232,.96) 55%,rgba(241,239,232,0));
+}
+.fig--wide{aspect-ratio:16/5;margin-block-start:30px}
+.fig--side{aspect-ratio:4/3}
+@media(max-width:700px){.fig--wide{aspect-ratio:16/9}}
+
+.splitfig{display:grid;grid-template-columns:.82fr 1.18fr;gap:34px;align-items:start}
+@media(max-width:820px){.splitfig{grid-template-columns:1fr;gap:26px}}
+
+/* ---------- network section ---------- */
+.netgrid{display:grid;grid-template-columns:1.05fr .95fr;gap:44px;margin-block-start:34px;align-items:start}
+@media(max-width:900px){.netgrid{grid-template-columns:1fr;gap:36px}}
+
+.crit{border-block-start:1px solid var(--rule)}
+.crit__row{display:grid;grid-template-columns:34px minmax(0,1fr);gap:0 16px;padding-block:18px;border-block-end:1px solid var(--rule)}
+.crit__n{font-family:var(--data);font-size:12px;color:var(--seal);padding-block-start:4px}
+.crit__t{font-size:16.5px;font-family:var(--display);margin-block-end:5px}
+.crit__d{font-size:14.5px;line-height:1.55;color:var(--ink-soft)}
+
+.accred{border:1px solid var(--rule);background:#fff}
+.accred__head{
+  padding:14px 22px;border-block-end:1px solid var(--rule);
+  font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);
+}
+.accred__item{padding:22px;border-block-end:1px dotted var(--rule)}
+.accred__item:last-child{border-block-end:0}
+.accred__mark{font-family:var(--display);font-size:21px;margin-block-end:4px}
+.accred__full{font-family:var(--data);font-size:11px;letter-spacing:.06em;color:var(--seal);margin-block-end:10px}
+.accred__item p{font-size:14.5px;line-height:1.55;color:var(--ink-soft);margin-block-end:0}
+
+.stories{
+  border:1px solid var(--rule);border-inline-start:3px solid var(--seal);background:#fff;
+  padding:32px 34px;margin-block-start:56px;
+}
+.stories h2{font-size:clamp(24px,3vw,32px)}
+@media(max-width:600px){.stories{padding:24px 20px}}
+
+/* ---------- running ticker ---------- */
+.ticker{background:var(--ink);color:#C3D2CC;overflow:hidden;border-block-end:1px solid #2C4F46}
+.ticker__track{display:flex;width:max-content;animation:tick 46s linear infinite}
+.ticker__grp{display:flex;flex-shrink:0}
+.ticker__i{
+  padding:10px 0;margin-inline-end:34px;white-space:nowrap;
+  font-family:var(--data);font-size:11.5px;letter-spacing:.11em;text-transform:uppercase;
+}
+.ticker__i::before{content:"—";color:var(--seal);margin-inline-end:14px}
+.ticker:hover .ticker__track{animation-play-state:paused}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* ---------- slider ---------- */
+.slider{margin-block-start:34px;position:relative}
+.slider__vp{overflow:hidden;border:1px solid var(--rule);background:var(--rule)}
+.slider__track{display:flex;gap:1px;transition:transform .55s cubic-bezier(.4,0,.2,1)}
+.slide{flex:0 0 auto;background:#fff;display:flex;flex-direction:column}
+.slide__img{
+  position:relative;aspect-ratio:16/10;background:var(--tone);
+  border-block-end:1px solid var(--rule);overflow:hidden;
+}
+.slide__img svg{position:absolute;inset:0;width:100%;height:100%}
+.slide__cap{
+  position:absolute;inset-inline:0;bottom:0;padding:11px 14px;
+  font-family:var(--data);font-size:9.5px;line-height:1.4;color:var(--muted);
+  background:linear-gradient(to top,rgba(241,239,232,.96) 55%,rgba(241,239,232,0));
+}
+.slide__body{padding:24px 24px 26px;display:flex;flex-direction:column;flex:1}
+.slide__meta{
+  font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;
+  color:var(--seal);display:block;margin-block-end:10px;
+}
+.slide h3{margin-block-end:9px}
+.slide p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin-block-end:.8em}
+.slide p:last-of-type{margin-block-end:0}
+.slide__note{font-size:13.5px;color:var(--seal);border-inline-start:2px solid var(--seal);padding-inline-start:11px}
+.slide__link{margin-block-start:auto;padding-block-start:16px;font-size:15px;font-weight:500;text-decoration:none;align-self:flex-start;border-block-end:1px solid var(--seal)}
+.slide__link:hover{color:var(--seal)}
+
+.slider__ctrl{display:flex;align-items:center;gap:14px;margin-block-start:18px}
+.slider__arrow{
+  width:40px;height:40px;border:1px solid var(--rule);background:transparent;color:var(--ink);
+  border-radius:2px;cursor:pointer;font-family:var(--data);font-size:15px;line-height:1;
+  transition:background .16s ease,color .16s ease,border-color .16s ease;
+}
+.slider__arrow:hover:not(:disabled){background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.slider__arrow:disabled{opacity:.32;cursor:default}
+.slider__dots{display:flex;gap:7px;margin-inline-start:auto}
+.slider__dot{width:22px;height:3px;background:var(--rule);border:0;padding:0;cursor:pointer}
+.slider__dot[aria-current="true"]{background:var(--seal)}
+.band--tone .slider__arrow{border-color:var(--rule)}
+
+@media(prefers-reduced-motion:reduce){
+  .ticker__track{animation:none}
+  .slider__track{transition:none}
+}
+
+/* ---------- animated cost bars ---------- */
+.bar__fill{width:0;transition:width 1.3s cubic-bezier(.25,.8,.3,1)}
+
+
+/* ---------- image slot ---------- */
+.slot{
+  border:1px dashed var(--rule);background:var(--tone);aspect-ratio:4/3;
+  display:flex;flex-direction:column;justify-content:flex-end;padding:18px;
+  font-family:var(--data);font-size:11px;line-height:1.5;color:var(--muted);
+}
+.slot b{display:block;letter-spacing:.14em;text-transform:uppercase;color:var(--seal);margin-block-end:5px;font-weight:500}
+
+/* ---------- faq ---------- */
+.faq{margin-block-start:26px;border:1px solid var(--rule);background:#fff}
+.faq__item{border-block-end:1px solid var(--rule);position:relative}
+.faq__item:last-child{border-block-end:0}
+.faq__item::before{
+  content:"";position:absolute;inset-block:0;inset-inline-start:0;width:0;
+  background:var(--seal);transition:width .28s ease;
+}
+.faq__item.open::before{width:3px}
+.faq__item.open{background:var(--tone)}
+.faq__q{
+  width:100%;text-align:start;background:none;border:0;cursor:pointer;
+  font-family:var(--display);font-size:17.5px;color:var(--ink);line-height:1.35;
+  padding:20px 56px 20px 22px;position:relative;transition:color .2s ease;
+}
+.faq__q:hover{color:var(--seal)}
+.faq__item.open .faq__q{color:var(--seal)}
+.faq__sign{
+  position:absolute;inset-inline-end:20px;top:50%;translate:0 -50%;
+  width:20px;height:20px;
+}
+.faq__sign::before,.faq__sign::after{
+  content:"";position:absolute;background:var(--seal);border-radius:1px;
+  transition:transform .3s cubic-bezier(.4,0,.2,1),opacity .25s ease;
+}
+.faq__sign::before{inset-inline:0;top:9px;height:2px}
+.faq__sign::after{inset-block:0;left:9px;width:2px}
+.faq__item.open .faq__sign::after{transform:rotate(90deg);opacity:0}
+.faq__item.open .faq__sign::before{transform:rotate(180deg)}
+.faq__a{display:grid;grid-template-rows:0fr;transition:grid-template-rows .35s cubic-bezier(.4,0,.2,1)}
+.faq__item.open .faq__a{grid-template-rows:1fr}
+.faq__a>div{overflow:hidden}
+.faq__a p{
+  padding:0 56px 22px 22px;margin:0;color:var(--ink-soft);font-size:16px;
+  opacity:0;transform:translateY(-6px);transition:opacity .3s ease .08s,transform .3s ease .08s;
+}
+.faq__item.open .faq__a p{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){
+  .faq__a,.faq__a p,.faq__sign::before,.faq__sign::after,.faq__item::before{transition:none}
+}
+
+/* ---------- form ---------- */
+.form{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-block-start:34px}
+.f-full{grid-column:1/-1}
+label{display:block;font-family:var(--data);font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);margin-block-end:7px}
+input,select,textarea{
+  width:100%;font-family:var(--body);font-size:16px;color:var(--ink);
+  background:#fff;border:1px solid var(--rule);border-radius:2px;padding:13px 14px;
+}
+textarea{min-height:120px;resize:vertical}
+input:focus,select:focus,textarea:focus{border-color:var(--ink);outline-offset:1px}
+.file{border:1px dashed var(--rule);background:#fff;padding:20px 16px;text-align:center;font-size:14px;color:var(--muted)}
+.form__note{font-size:14px;color:var(--muted);margin-block-start:6px}
+@media(max-width:700px){.form{grid-template-columns:1fr}}
+@media(max-width:820px){}
+
+/* ---------- sticky mobile bar ---------- */
+.sticky{
+  position:fixed;inset-inline:0;bottom:0;z-index:70;display:none;
+  grid-template-columns:1fr 1fr;border-block-start:1px solid var(--rule);
+}
+.sticky a{
+  padding:16px;text-align:center;text-decoration:none;font-size:15.5px;font-weight:500;
+}
+.sticky .wa{background:var(--verified);color:#fff}
+.sticky .call{background:var(--ink);color:var(--paper)}
+@media(max-width:860px){.sticky{display:grid}body{padding-block-end:56px}}
+
+/* ---------- motion ---------- */
+.rise{animation:tibRise .7s ease both}
+.rise.in{}
+@media(prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .rise{opacity:1;transform:none;transition:none}
+}
+.crumbs{font-family:var(--data);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding-block:18px 0}
+.crumbs a{text-decoration:none}
+.crumbs a:hover{color:var(--seal)}
+.emerg{background:#8E2F26;color:#fff;border-block-end:1px solid #6E241D}
+.emerg__in{display:flex;gap:14px;align-items:flex-start;padding-block:14px}
+.emerg svg{flex:0 0 20px;width:20px;height:20px;margin-block-start:2px;stroke:#fff;fill:none;stroke-width:1.8}
+.emerg p{margin:0;font-size:14.5px;line-height:1.55;color:#FBEDEB}
+.emerg b{color:#fff;font-weight:600}
+.byline{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin-block-start:26px;padding-block:14px;border-block:1px solid var(--rule);font-family:var(--data);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.byline b{color:var(--ink);font-weight:500}
+.byline a{color:var(--seal);text-decoration:none;border-block-end:1px solid currentColor}
+.keyfacts{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule);margin-block-start:34px}
+.kf{background:#fff;padding:22px 20px}
+.kf__k{font-family:var(--data);font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--seal);display:block;margin-block-end:9px}
+.kf__v{font-family:var(--display);font-size:20px;line-height:1.2;margin-block-end:4px}
+.kf__d{font-size:13px;color:var(--muted);line-height:1.45}
+@media(max-width:900px){.keyfacts{grid-template-columns:1fr 1fr}}
+.toc{border:1px solid var(--rule);background:var(--paper);padding:24px 26px;margin-block-start:34px}
+.toc__k{font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);display:block;margin-block-end:14px}
+.toc ol{margin:0;padding-inline-start:20px;columns:2;column-gap:36px}
+.toc li{margin-block-end:8px;font-size:15.5px;break-inside:avoid}
+.toc a{text-decoration:none}
+.toc a:hover{color:var(--seal)}
+@media(max-width:640px){.toc ol{columns:1}}
+.tsub{font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--seal);margin-block-end:12px}
+.tlist{list-style:none;margin:0;padding:0}
+.tlist li{position:relative;padding-inline-start:18px;padding-block:5px;font-size:15.5px;color:var(--ink-soft);line-height:1.5}
+.tlist li::before{content:"";position:absolute;inset-inline-start:0;top:14px;width:7px;height:1px;background:var(--seal)}
+.tcols{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-block-start:26px}
+@media(max-width:640px){.tcols{grid-template-columns:1fr}}
+.opt{border:1px solid var(--rule);background:#fff;margin-block-end:20px}
+.band--tone .opt{background:var(--paper)}
+.opt__h{padding:22px 26px 0}
+.opt__h h3{font-size:21px;margin-block-end:6px}
+.opt__tag{font-family:var(--data);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--seal);display:block;margin-block-end:10px}
+.opt p{padding:0 26px;font-size:15.5px;color:var(--ink-soft);line-height:1.6;margin-block-end:1em}
+.opt__when{border-block-start:1px solid var(--rule);background:var(--tone);padding:16px 26px;font-size:15px}
+.opt__when b{font-family:var(--data);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);display:block;margin-block-end:5px;font-weight:500}
+.docs{border:1px solid var(--rule);background:#fff;padding:26px 28px;margin-block-start:28px}
+.band--tone .docs{background:var(--paper)}
+.docs h3{font-size:19px;margin-block-end:6px}
+
+/* ---------- procedure cards ---------- */
+.proc{
+  position:relative;border:1px solid var(--rule);background:#fff;margin-block-end:18px;overflow:hidden;
+  animation:tibRise .55s ease var(--d,0ms) both;transition:border-color .25s ease,box-shadow .25s ease;
+}
+.proc.in{}
+.band--tone .proc{background:var(--paper)}
+.proc::before{
+  content:"";position:absolute;inset-block:0;inset-inline-start:0;width:3px;background:var(--c,var(--seal));
+  transform:scaleY(0);transform-origin:top;transition:transform .38s cubic-bezier(.4,0,.2,1);
+}
+.proc:hover::before{transform:scaleY(1)}
+.proc:hover{border-color:var(--c,var(--seal));box-shadow:0 14px 34px -26px rgba(18,51,44,.55)}
+
+.proc__h{display:flex;align-items:center;gap:15px;padding:22px 26px 0}
+.proc__ic{
+  position:relative;flex:0 0 44px;width:44px;height:44px;border-radius:3px;
+  display:grid;place-items:center;overflow:hidden;
+}
+.proc__ic::before{content:"";position:absolute;inset:0;background:var(--c,var(--seal));opacity:.1;transition:opacity .28s ease}
+.proc__ic svg{
+  position:relative;width:23px;height:23px;stroke:var(--c,var(--seal));fill:none;
+  stroke-width:1.65;stroke-linecap:round;stroke-linejoin:round;transition:stroke .28s ease;
+}
+.proc:hover .proc__ic::before{opacity:1}
+.proc:hover .proc__ic svg{stroke:#fff}
+.proc__t{min-width:0}
+.proc__n{
+  font-family:var(--data);font-size:10px;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--c,var(--seal));display:block;margin-block-end:3px;
+}
+.proc__h h3{font-size:21px;line-height:1.25;margin:0}
+.proc:hover .proc__h h3{color:var(--c,var(--seal))}
+.proc__h h3,.proc__n{transition:color .25s ease}
+
+.proc__lead{padding:15px 26px 22px;font-size:15.5px;color:var(--ink-soft);line-height:1.62;margin:0}
+
+.proc__facts{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--rule);border-block-start:1px solid var(--rule)}
+.pf{background:var(--tone);padding:16px 20px;display:flex;gap:11px;align-items:flex-start}
+.band--tone .pf{background:#fff}
+.pf__i{flex:0 0 17px;width:17px;height:17px;margin-block-start:2px;stroke:var(--c,var(--seal));fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;opacity:.8}
+.pf__k{font-family:var(--data);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);display:block;margin-block-end:4px}
+.pf__v{font-size:14.5px;line-height:1.4}
+@media(max-width:760px){.proc__facts{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.proc::before{transform:scaleY(1)}}
+
+
+/* ---------- alert blocks ---------- */
+.warn{
+  position:relative;border:1px solid var(--rule);border-inline-start:3px solid var(--wc,#A03D33);
+  background:#fff;padding:0;margin-block:30px;overflow:hidden;
+  animation:tibRise .55s ease both;
+}
+.warn.in{}
+.warn__h{display:flex;align-items:center;gap:14px;padding:24px 28px 0}
+.warn__ic{position:relative;flex:0 0 42px;width:42px;height:42px;border-radius:3px;display:grid;place-items:center;overflow:hidden}
+.warn__ic::before{content:"";position:absolute;inset:0;background:var(--wc,#A03D33);opacity:.11}
+.warn__ic svg{position:relative;width:22px;height:22px;stroke:var(--wc,#A03D33);fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.warn h3{font-size:19px;line-height:1.3;margin:0;color:var(--wc,#A03D33)}
+.warn__body{padding:16px 28px 24px}
+.warn__body p{font-size:15.5px;line-height:1.62;color:var(--ink-soft);margin-block-end:1em}
+.warn__body p:last-child{margin-block-end:0}
+.warn__body strong{color:var(--ink);font-weight:600}
+.wgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1px;background:var(--rule);border-block-start:1px solid var(--rule)}
+.wpoint{
+  background:var(--tone);padding:19px 22px;display:flex;gap:12px;align-items:flex-start;
+  transition:background .22s ease;
+}
+.band--tone .wpoint{background:#fff}
+.wpoint:hover{background:color-mix(in srgb,var(--wc,#A03D33) 6%,var(--tone))}
+.wpoint__i{flex:0 0 18px;width:18px;height:18px;margin-block-start:1px;stroke:var(--wc,#A03D33);fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.wpoint b{display:block;font-size:14.5px;line-height:1.35;margin-block-end:5px;color:var(--ink);font-weight:600}
+.wpoint p{font-size:14px;line-height:1.55;color:var(--ink-soft);margin:0}
+@media(max-width:600px){.warn__h{padding:20px 20px 0}.warn__body{padding:14px 20px 20px}.wpoint{padding:16px 18px}}
+
+
+
+.ledger a .led__ic{margin-inline-end:2px}
+
+/* ---------- no-JS / fallback visibility ---------- */
+html:not(.js) .rise,
+html:not(.js) .proc,
+html:not(.js) .warn,
+html:not(.js) .ledger a,
+html:not(.js) .stories,
+.reveal-all .rise,
+.reveal-all .proc,
+.reveal-all .warn,
+.reveal-all .ledger a{opacity:1!important;transform:none!important}
+html:not(.js) .proc::before,
+html:not(.js) .faq__a{}
+
+/* ---------- entrance animation (CSS only, no JS dependency) ---------- */
+@keyframes tibRise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){
+  .rise,.proc,.warn,.ledger a{animation:none!important;opacity:1!important;transform:none!important}
+}
+
+/* ---------- primary navigation ---------- */
+.top{position:sticky;top:0;z-index:60;background:var(--paper);border-block-end:1px solid var(--rule)}
+.top__in{display:flex;align-items:center;gap:28px;padding-block:15px}
+.mark{font-family:var(--display);font-size:22px;letter-spacing:.02em;text-decoration:none;color:var(--ink);white-space:nowrap}
+.mark span{color:var(--seal);padding-inline:2px}
+.nav{display:flex;align-items:center;gap:2px;margin-inline-start:auto}
+.nav__item{position:relative}
+.nav__top{
+  display:flex;align-items:center;gap:6px;padding:9px 13px;font-size:15.5px;color:var(--ink);
+  text-decoration:none;border-radius:3px;background:none;border:0;font-family:inherit;cursor:pointer;
+  transition:background .2s ease,color .2s ease;
+}
+.nav__top:hover,.nav__item:focus-within .nav__top{background:var(--tone);color:var(--seal)}
+.nav__top svg{width:11px;height:11px;stroke:currentColor;fill:none;stroke-width:2;transition:transform .25s ease}
+.nav__item:hover .nav__top svg,.nav__item:focus-within .nav__top svg{transform:rotate(180deg)}
+
+/* the panel */
+.mega{
+  position:absolute;inset-block-start:calc(100% + 8px);inset-inline-start:50%;transform:translateX(-50%) translateY(-6px);
+  background:#fff;border:1px solid var(--rule);box-shadow:0 26px 60px -34px rgba(18,51,44,.5);
+  opacity:0;visibility:hidden;transition:opacity .2s ease,transform .24s ease,visibility .2s;
+  padding:26px;z-index:70;
+}
+.nav__item:hover .mega,.nav__item:focus-within .mega{opacity:1;visibility:visible;transform:translateX(-50%) translateY(0)}
+.mega::before{content:"";position:absolute;inset-block-end:100%;inset-inline:0;height:12px}
+.mega__grid{display:grid;gap:26px}
+.mega--wide .mega__grid{grid-template-columns:repeat(3,minmax(210px,1fr));width:min(88vw,760px)}
+.mega--mid .mega__grid{grid-template-columns:repeat(2,minmax(210px,1fr));width:min(80vw,520px)}
+.mega--slim .mega__grid{grid-template-columns:1fr;width:min(80vw,290px)}
+.mega__k{
+  font-family:var(--data);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);
+  display:block;margin-block-end:11px;padding-block-end:8px;border-block-end:1px solid var(--rule);
+}
+.mega a{
+  position:relative;display:flex;align-items:flex-start;gap:11px;padding:8px 9px;margin-inline:-9px;
+  text-decoration:none;border-radius:3px;transition:background .18s ease;
+}
+.mega a:hover{background:color-mix(in srgb,var(--c,var(--seal)) 8%,transparent)}
+.mega__ic{position:relative;flex:0 0 28px;width:28px;height:28px;border-radius:3px;display:grid;place-items:center;overflow:hidden;margin-block-start:1px}
+.mega__ic::before{content:"";position:absolute;inset:0;background:var(--c,var(--seal));opacity:.12;transition:opacity .2s ease}
+.mega__ic svg{position:relative;width:15px;height:15px;stroke:var(--c,var(--seal));fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;transition:stroke .2s ease}
+.mega a:hover .mega__ic::before{opacity:1}
+.mega a:hover .mega__ic svg{stroke:#fff}
+.mega__t{display:block;font-size:15px;line-height:1.3;color:var(--ink)}
+.mega a:hover .mega__t{color:var(--c,var(--seal))}
+.mega__d{display:block;font-size:12.5px;line-height:1.4;color:var(--muted);margin-block-start:2px}
+.mega__foot{
+  grid-column:1/-1;margin-block-start:6px;padding-block-start:16px;border-block-start:1px solid var(--rule);
+  display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;
+}
+.mega__note{font-size:13px;color:var(--muted);margin:0;max-width:46ch}
+.mega__all{font-family:var(--data);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--seal);text-decoration:none;white-space:nowrap;padding:0!important;margin:0!important}
+.mega__all:hover{background:none!important;text-decoration:underline}
+
+.langs{display:flex;gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:3px;overflow:hidden;margin-inline-start:10px}
+.langs a{background:var(--paper);padding:6px 10px;font-family:var(--data);font-size:11.5px;text-decoration:none;color:var(--muted);transition:background .18s ease,color .18s ease}
+.langs a:hover{background:#fff;color:var(--ink)}
+.langs a[aria-current]{background:var(--ink);color:var(--paper)}
+.btn--wa{margin-inline-start:10px;white-space:nowrap}
+
+/* mobile */
+.navtoggle{display:none}
+.burger{display:none;margin-inline-start:auto;background:none;border:1px solid var(--rule);border-radius:3px;padding:9px 11px;cursor:pointer}
+.burger svg{width:18px;height:18px;stroke:var(--ink);fill:none;stroke-width:1.8;stroke-linecap:round}
+@media(max-width:1080px){
+  .burger{display:block}
+  .nav{
+    position:fixed;inset-block-start:0;inset-inline-end:0;inset-block-end:0;width:min(90vw,380px);
+    background:var(--paper);border-inline-start:1px solid var(--rule);flex-direction:column;align-items:stretch;
+    gap:0;padding:74px 22px 30px;overflow-y:auto;margin:0;
+    transform:translateX(105%);transition:transform .32s cubic-bezier(.4,0,.2,1);
+    box-shadow:-30px 0 60px -40px rgba(18,51,44,.6);
+  }
+  .navtoggle:checked ~ .nav{transform:none}
+  .nav__item{border-block-end:1px dotted var(--rule)}
+  .nav__top{width:100%;justify-content:space-between;padding:15px 4px;font-size:17px}
+  .mega{
+    position:static;transform:none;opacity:1;visibility:visible;border:0;box-shadow:none;
+    padding:0 0 12px;background:none;
+    max-height:0;overflow:hidden;transition:max-height .3s ease;
+  }
+  .nav__item:hover .mega,.nav__item:focus-within .mega{transform:none;max-height:1400px}
+  .mega--wide .mega__grid,.mega--mid .mega__grid,.mega--slim .mega__grid{grid-template-columns:1fr;width:auto;gap:18px}
+  .langs{margin:18px 0 0}
+  .btn--wa{margin:14px 0 0;text-align:center}
+}
+@media(prefers-reduced-motion:reduce){.mega{transition:opacity .01s}}
+
+/* ---------- second-tier specialties ---------- */
+
+
+.band--tone 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------- condition list (no pages yet) ---------- */
+.clist{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);margin-block-start:26px}
+.ci{background:#fff;padding:15px 18px;display:flex;gap:11px;align-items:flex-start}
+.band--tone .ci{background:var(--paper)}
+.ci svg{flex:0 0 15px;width:15px;height:15px;margin-block-start:3px;stroke:var(--c,var(--seal));fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.ci b{display:block;font-size:15px;font-weight:500;color:var(--ink);line-height:1.3}
+.ci p{margin:3px 0 0;font-size:13px;line-height:1.45;color:var(--muted)}
+
+/* ---------- scroll motion (progressive enhancement) ----------
+   Every hiding rule below is scoped to .js-motion, which only exists
+   once JavaScript has actually run. No JS = nothing hidden, ever. */
+.js-motion .rise:not(.seen),
+.js-motion .spec:not(.seen),
+.js-motion .proc:not(.seen),
+.js-motion .opt:not(.seen),
+.js-motion .warn:not(.seen),
+.js-motion .crit__row:not(.seen),
+.js-motion .kf:not(.seen),
+.js-motion .clause:not(.seen),
+.js-motion .dpan:not(.seen),
+.js-motion .ledger a:not(.seen),
+.js-motion .rel a:not(.seen),
+.js-motion .wpoint:not(.seen){opacity:0}
+
+.js-motion .rise{transform:translateY(26px);transition:opacity .7s cubic-bezier(.16,1,.3,1),transform .7s cubic-bezier(.16,1,.3,1)}
+.js-motion .spec,.js-motion .proc,.js-motion .opt,.js-motion .warn{
+  transform:translateY(30px) scale(.985);
+  transition:opacity .6s cubic-bezier(.16,1,.3,1) var(--sd,0ms),transform .6s cubic-bezier(.16,1,.3,1) var(--sd,0ms),border-color .25s ease,box-shadow .25s ease;
+}
+.js-motion .crit__row{transform:translateX(-22px);transition:opacity .55s ease var(--sd,0ms),transform .55s cubic-bezier(.16,1,.3,1) var(--sd,0ms)}
+.js-motion .kf,.js-motion .clause,.js-motion .dpan,.js-motion .wpoint{transform:translateY(18px);transition:opacity .5s ease var(--sd,0ms),transform .5s cubic-bezier(.16,1,.3,1) var(--sd,0ms)}
+.js-motion .ledger a,.js-motion .rel a{transform:translateY(12px);transition:opacity .45s ease var(--sd,0ms),transform .45s cubic-bezier(.16,1,.3,1) var(--sd,0ms),background .2s ease}
+.js-motion .seen{opacity:1!important;transform:none!important}
+
+/* animated numbers */
+.kf__v[data-count]{font-variant-numeric:tabular-nums}
+
+/* reading progress */
+.prog{position:fixed;inset-block-start:0;inset-inline-start:0;height:2px;width:0;background:var(--seal);z-index:90;transition:width .1s linear;pointer-events:none}
+.js-motion .prog{display:block}
+.prog{display:none}
+
+/* section rail activates as you pass it */
+.rail__label{transition:color .4s ease,transform .5s cubic-bezier(.16,1,.3,1)}
+.js-motion .band.seen .rail__label{color:var(--seal)}
+
+/* headings sweep a rule as they arrive */
+.js-motion h2{position:relative}
+.js-motion .band.seen h2::after{transform:scaleX(1)}
+.js-motion h2::after{
+  content:"";position:absolute;inset-block-end:-10px;inset-inline-start:0;width:46px;height:2px;background:var(--seal);
+  transform:scaleX(0);transform-origin:left;transition:transform .7s cubic-bezier(.16,1,.3,1) .15s;
+}
+.band--ink.seen h2::after{background:var(--paper)}
+
+@media(prefers-reduced-motion:reduce){
+  .js-motion .rise,.js-motion .spec,.js-motion .proc,.js-motion .opt,.js-motion .warn,
+  .js-motion .crit__row,.js-motion .kf,.js-motion .clause,.js-motion .dpan,
+  .js-motion .ledger a,.js-motion .rel a,.js-motion .wpoint{opacity:1!important;transform:none!important;transition:none!important}
+  .js-motion h2::after{transform:scaleX(1)!important;transition:none}
+  .prog{display:none!important}
+}
+
+/* ---------- footer (synced) ---------- */
+/* ---------- footer ---------- */
+.foot{background:var(--ink);color:#C9D6D1;padding-block:56px 0;margin-block-start:0}
+.foot a{color:#C9D6D1;text-decoration:none;transition:color .2s ease}
+.foot a:hover{color:#fff}
+.foot__top{display:grid;grid-template-columns:minmax(260px,1.15fr) repeat(4,minmax(140px,1fr));gap:34px;padding-block-end:44px}
+.foot__id .mark{font-family:var(--display);font-size:24px;color:#fff;text-decoration:none;display:inline-block}
+.foot__id .mark span{color:var(--seal);padding-inline:2px}
+.foot__tag{font-size:14.5px;line-height:1.6;color:#9FB2AC;margin:14px 0 22px;max-width:34ch}
+.nap{font-size:14px;line-height:1.65;color:#9FB2AC;margin:0}
+.nap b{display:block;color:#fff;font-weight:600;margin-block-end:3px}
+.nap dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:14px 0 0}
+.nap dt{font-family:var(--data);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#7B918B;padding-block-start:3px}
+.nap dd{margin:0;color:#C9D6D1}
+.nap dd a{border-block-end:1px solid rgba(255,255,255,.22)}
+.foot h4{font-family:var(--data);font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#7B918B;margin:0 0 16px;font-weight:500}
+.foot ul{list-style:none;margin:0;padding:0}
+.foot li{margin-block-end:9px}
+.foot li a{font-size:14.5px;line-height:1.4;position:relative;padding-inline-start:0;transition:padding-inline-start .2s ease,color .2s ease}
+.foot li a:hover{padding-inline-start:6px}
+.foot li a::before{content:"";position:absolute;inset-inline-start:-6px;inset-block-start:50%;width:3px;height:3px;border-radius:50%;background:var(--seal);opacity:0;transform:translateY(-50%);transition:opacity .2s ease}
+.foot li a:hover::before{opacity:1}
+
+.foot__legal{border-block-start:1px solid rgba(255,255,255,.11);padding-block:26px;display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center}
+.foot__legal a{font-size:13.5px;color:#9FB2AC}
+.foot__legal a:hover{color:#fff;text-decoration:underline}
+
+.foot__lang{border-block-start:1px solid rgba(255,255,255,.11);padding-block:22px;display:flex;flex-wrap:wrap;align-items:center;gap:14px}
+.foot__lang span{font-family:var(--data);font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:#7B918B}
+.foot__lang a{font-size:14.5px;padding:5px 12px;border:1px solid rgba(255,255,255,.16);border-radius:3px;transition:background .2s ease,border-color .2s ease,color .2s ease}
+.foot__lang a:hover{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.34);color:#fff}
+.foot__lang a[aria-current]{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+
+.disc{border-block-start:1px solid rgba(255,255,255,.11);padding-block:26px 34px}
+.disc__grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:24px;margin-block-end:22px}
+.disc__i{display:flex;gap:12px;align-items:flex-start}
+.disc__i svg{flex:0 0 17px;width:17px;height:17px;margin-block-start:2px;stroke:var(--seal);fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.disc__i b{display:block;color:#fff;font-size:13.5px;font-weight:600;margin-block-end:4px}
+.disc__i p{margin:0;font-size:13px;line-height:1.55;color:#9FB2AC}
+.disc__copy{font-size:13px;line-height:1.6;color:#7B918B;margin:0;max-width:100ch}
+.disc__copy strong{color:#9FB2AC;font-weight:500}
+@media(max-width:1000px){.foot__top{grid-template-columns:1fr 1fr 1fr}}
+@media(max-width:680px){.foot__top{grid-template-columns:1fr 1fr;gap:28px}.foot__id{grid-column:1/-1}}
+@media(max-width:460px){.foot__top{grid-template-columns:1fr}}
+
+.tbd{
+  font-style:normal;color:#9FB2AC;border-block-end:1px dashed rgba(255,255,255,.3);
+  padding-block-end:1px;font-size:.94em;
+}
+.nap b .tbd{color:#C9D6D1;border-block-end-color:rgba(255,255,255,.28)}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://tibhind.com/"},{"@type":"ListItem","position":2,"name":"Treatments","item":"https://tibhind.com/treatments/"},{"@type":"ListItem","position":3,"name":"Rehabilitation","item":"https://tibhind.com/treatments/rehabilitation/"}]},{"@type":"MedicalWebPage","name":"Rehabilitation","url":"https://tibhind.com/treatments/rehabilitation/","lastReviewed":"{{REVIEW_DATE_ISO}}","specialty":"https://schema.org/PhysicalTherapy","reviewedBy":{"@type":"Physician","name":"{{REHAB_REVIEWER}}","jobTitle":"Consultant in Rehabilitation Medicine"}},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is it too late for rehabilitation?","acceptedAnswer":{"@type":"Answer","text":"Usually not. Most improvement occurs in the first three to six months, but meaningful gains continue for a year and beyond with sustained therapy, and patients who have had little therapy often improve considerably even years later. Send a video and we will give you an honest assessment rather than a general answer."}},{"@type":"Question","name":"How much therapy will we actually get?","acceptedAnswer":{"@type":"Answer","text":"Ask for the timetable in writing \u2014 this is the question that matters most. The programmes we work with provide several hours daily, six days a week, of physiotherapy, occupational therapy and speech therapy as needed. That intensity is the reason to travel and it is what you should verify."}},{"@type":"Question","name":"What about stem cell therapy?","acceptedAnswer":{"@type":"Answer","text":"We do not arrange it for stroke, cerebral palsy, spinal cord injury or brain injury. There is no established evidence that it works for these conditions, and clinics offering it to international families charge a great deal for something unproven. Your money achieves far more spent on intensive conventional therapy."}},{"@type":"Question","name":"Will my relative walk again?","acceptedAnswer":{"@type":"Answer","text":"That depends on the injury, how much function remains, and how long it has been. We will give you an honest view from the imaging and the video rather than an encouraging one. Where walking is not a realistic goal, there are other goals \u2014 transferring, self-care, communication \u2014 that transform daily life and are worth pursuing."}},{"@type":"Question","name":"Can I bring a family member?","acceptedAnswer":{"@type":"Answer","text":"Yes, and you should. Whoever will care for the patient at home is trained during the admission in transfers, exercises, positioning and equipment use. Programmes where the family is not trained send people home to lose what they gained. We arrange accommodation nearby for attendants."}},{"@type":"Question","name":"What happens after we go home?","acceptedAnswer":{"@type":"Answer","text":"You leave with a written exercise and equipment programme that a local therapist can continue, and we arrange remote review with the rehabilitation team. Continuing therapy at home is what preserves and extends the gains \u2014 an intensive block followed by nothing loses much of the benefit."}}]}]}</script>
+<script>document.documentElement.classList.add("js");</script>
+</head>
+<body>
+
+<div class="ticker" aria-label="TIB HIND at a glance">
+  <div class="ticker__track">
+    <div class="ticker__grp">
+      <span class="ticker__i">5,000+ patients guided through treatment in Delhi NCR</span>
+      <span class="ticker__i">Every case read by a US board-certified physician</span>
+      <span class="ticker__i">Written opinion with costs within 48 hours</span>
+      <span class="ticker__i">NABH and JCI accredited hospitals only</span>
+      <span class="ticker__i">Arabic, English, Russian and Bengali spoken</span>
+      <span class="ticker__i">Our fees are published — hospitals pay us, not you</span>
+      <span class="ticker__i">Medical visa invitation letters for eight countries</span>
+    </div>
+    <div class="ticker__grp" aria-hidden="true">
+      <span class="ticker__i">5,000+ patients guided through treatment in Delhi NCR</span>
+      <span class="ticker__i">Every case read by a US board-certified physician</span>
+      <span class="ticker__i">Written opinion with costs within 48 hours</span>
+      <span class="ticker__i">NABH and JCI accredited hospitals only</span>
+      <span class="ticker__i">Arabic, English, Russian and Bengali spoken</span>
+      <span class="ticker__i">Our fees are published — hospitals pay us, not you</span>
+      <span class="ticker__i">Medical visa invitation letters for eight countries</span>
+    </div>
+  </div>
+</div>
+
+
+<header class="top">
+  <div class="wrap top__in">
+    <a class="mark" href="/">TIB<span>·</span>HIND</a>
+    <input class="navtoggle" type="checkbox" id="navtoggle" hidden>
+    <label class="burger" for="navtoggle" aria-label="Open menu">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </label>
+    <nav class="nav" aria-label="Main">
+      <div class="nav__item">
+        <button class="nav__top" type="button" aria-expanded="false">Treatments <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 9l7 7 7-7"/></svg></button>
+        <div class="mega mega--wide">
+          <div class="mega__grid">
+        <div><span class="mega__k">Surgical</span>
+          <a href="/treatments/heart/" style="--c:#A03D33"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-8-5.5-8-11a4.2 4.2 0 0 1 8-1.6A4.2 4.2 0 0 1 20 9c0 5.5-8 11-8 11z"/></svg></span><span><span class="mega__t">Heart and cardiovascular</span><span class="mega__d">Bypass, valves, congenital defects</span></span></a>
+          <a href="/treatments/neurosurgery/" style="--c:#2E6E6E"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3c-3.4 0-5.2 2.2-5.2 4.3C4.9 8 4 9.6 4 11s.8 2.7 2.1 3.2C5.8 16.6 7.6 18.4 10 18.4c1 1 3 1 4 0 2.4 0 4.2-1.8 3.9-4.2C19.2 13.7 20 12.4 20 11s-.9-3-2.8-3.7C17.2 5.2 15.4 3 12 3z"/></svg></span><span><span class="mega__t">Neurosurgery</span><span class="mega__d">Brain tumour, aneurysm, epilepsy</span></span></a>
+          <a href="/treatments/spine-surgery/" style="--c:#8A6A28"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="3" width="6" height="2.4" rx="1"/><rect x="9" y="7" width="6" height="2.4" rx="1"/><rect x="9" y="11" width="6" height="2.4" rx="1"/><rect x="9" y="15" width="6" height="2.4" rx="1"/></svg></span><span><span class="mega__t">Spine surgery</span><span class="mega__d">Disc, stenosis, deformity</span></span></a>
+          <a href="/treatments/urology/" style="--c:#3D6B8A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5c-2 0-3.5 1.6-3.5 4S6 15 8 15c1.2 0 1.7-.9 1.7-2 0-1.6-.9-2-.9-3.4 0-1.4.7-2.4-.8-4.1z"/><path d="M16 5.5c2 0 3.5 1.6 3.5 4S18 15 16 15c-1.2 0-1.7-.9-1.7-2 0-1.6.9-2 .9-3.4 0-1.4-.7-2.4.8-4.1z"/><path d="M12 15v5"/></svg></span><span><span class="mega__t">Urology</span><span class="mega__d">Kidney stones, prostate, reconstruction</span></span></a>
+          <a href="/treatments/ent/" style="--c:#A03D33"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 20c-1.5-2-2-4-2-7a7 7 0 0 1 14 0c0 2-1 3-2.5 3.5s-2 1.5-2 3"/><path d="M9.5 10a2.6 2.6 0 0 1 5 0c0 1.6-1.6 2-2 3.4"/></svg></span><span><span class="mega__t">ENT and hearing</span><span class="mega__d">Cochlear implants, ear and sinus surgery</span></span></a>
+          <a href="/treatments/orthopaedics/" style="--c:#3D6B8A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3c-2 0-3 1.4-3 3s1 2 1 3.4V12"/><path d="M16 3c2 0 3 1.4 3 3s-1 2-1 3.4V12"/><path d="M6 12h12"/><path d="M6 12c0 2.6 2 3.6 2 5.6S6 20 6 21"/><path d="M18 12c0 2.6-2 3.6-2 5.6s2 2.4 2 3.4"/></svg></span><span><span class="mega__t">Orthopaedics</span><span class="mega__d">Hip, knee, shoulder replacement</span></span></a>
+        </div>
+        <div><span class="mega__k">Cancer and transplant</span>
+          <a href="/treatments/cancer/" style="--c:#7A4C86"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><circle cx="5" cy="6" r="2"/><circle cx="19" cy="7" r="1.8"/><circle cx="18" cy="18" r="2"/></svg></span><span><span class="mega__t">Cancer treatment</span><span class="mega__d">Surgery, radiotherapy, chemotherapy</span></span></a>
+          <a href="/treatments/transplant/" style="--c:#2F6E52"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.6-7-10a3.8 3.8 0 0 1 7-1.9A3.8 3.8 0 0 1 19 10c0 5.4-7 10-7 10z"/><path d="M9.5 10h5M12 7.5v5"/></svg></span><span><span class="mega__t">Organ transplant</span><span class="mega__d">Liver and kidney, living donor only</span></span></a>
+          <a href="/treatments/bone-marrow-transplant/" style="--c:#8C4A5C"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3c-2 3-4 5.4-4 7.4a4 4 0 0 0 8 0C16 8.4 14 6 12 3z"/><circle cx="6" cy="17.5" r="2"/><circle cx="18" cy="17" r="2"/></svg></span><span><span class="mega__t">Bone marrow transplant</span><span class="mega__d">Thalassemia, sickle cell, leukaemia</span></span></a>
+        </div>
+        <div><span class="mega__k">Medical and metabolic</span>
+          <a href="/treatments/gastroenterology/" style="--c:#6B7A3A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8c4-2.5 10-2.5 14 0 2 1.5 2.5 5 .5 7.5-2.5 3-8 3.5-11 1.5"/><path d="M7 10.5c2.5-1 5-.5 6.5 1"/></svg></span><span><span class="mega__t">Liver and digestive</span><span class="mega__d">Hepatitis, endoscopy, gallstones</span></span></a>
+          <a href="/treatments/bariatric-surgery/" style="--c:#B0563E"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 3v3.5c0 2.5-2.5 3.5-2.5 7 0 3.6 2.4 6.5 5 6.5 2.2 0 3.6-1.6 3.6-3.6 0-2.8-2-3.6-2-6"/><path d="M10 3H7.6"/></svg></span><span><span class="mega__t">Bariatric and metabolic</span><span class="mega__d">Diabetes, sleep apnoea, fatty liver</span></span></a>
+          <a href="/treatments/fertility/" style="--c:#A9557A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2.2"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2"/></svg></span><span><span class="mega__t">Fertility and IVF</span><span class="mega__d">What Indian law permits, honestly</span></span></a>
+          <a href="/conditions/" style="--c:#96692A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg></span><span><span class="mega__t">All 94 conditions</span><span class="mega__d">Browse every condition page</span></span></a>
+        </div>
+            <div class="mega__foot"><p class="mega__note">Twelve specialties, ninety-four conditions. Every page reviewed by a named consultant and dated.</p><a class="mega__all" href="/treatments/">All treatments &rarr;</a></div>
+          </div>
+        </div>
+      </div>
+      <div class="nav__item">
+        <button class="nav__top" type="button" aria-expanded="false">Costs <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 9l7 7 7-7"/></svg></button>
+        <div class="mega mega--mid">
+          <div class="mega__grid">
+        <div><span class="mega__k">Published ranges</span>
+          <a href="/cost/" style="--c:#8A6A28"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg></span><span><span class="mega__t">All cost pages</span><span class="mega__d">Ranges by procedure, updated quarterly</span></span></a>
+          <a href="/cost/heart-surgery/" style="--c:#A03D33"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-8-5.5-8-11a4.2 4.2 0 0 1 8-1.6A4.2 4.2 0 0 1 20 9c0 5.5-8 11-8 11z"/></svg></span><span><span class="mega__t">Heart surgery</span><span class="mega__d">Bypass, valve, TAVI, paediatric</span></span></a>
+          <a href="/cost/joint-replacement/" style="--c:#3D6B8A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3c-2 0-3 1.4-3 3s1 2 1 3.4V12"/><path d="M16 3c2 0 3 1.4 3 3s-1 2-1 3.4V12"/><path d="M6 12h12"/><path d="M6 12c0 2.6 2 3.6 2 5.6S6 20 6 21"/><path d="M18 12c0 2.6-2 3.6-2 5.6s2 2.4 2 3.4"/></svg></span><span><span class="mega__t">Joint replacement</span><span class="mega__d">Hip, knee, revision</span></span></a>
+          <a href="/cost/transplant/" style="--c:#2F6E52"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.6-7-10a3.8 3.8 0 0 1 7-1.9A3.8 3.8 0 0 1 19 10c0 5.4-7 10-7 10z"/><path d="M9.5 10h5M12 7.5v5"/></svg></span><span><span class="mega__t">Organ transplant</span><span class="mega__d">Liver and kidney, with donor costs</span></span></a>
+        </div>
+        <div><span class="mega__k">Before you compare</span>
+          <a href="/how-we-are-paid/" style="--c:#2F6E52"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M6 7h12"/><path d="M6 7L3 14h6zM18 7l-3 7h6z"/></svg></span><span><span class="mega__t">How we are paid</span><span class="mega__d">Hospitals pay us. You do not.</span></span></a>
+          <a href="/cost/what-is-included/" style="--c:#96692A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7.5 3v6c0 4.6-3.2 7.8-7.5 9-4.3-1.2-7.5-4.4-7.5-9V6z"/><path d="M9.2 12l2 2.2 3.6-4"/></svg></span><span><span class="mega__t">What a quote should include</span><span class="mega__d">And the six things usually left out</span></span></a>
+          <a href="/medical-visa/" style="--c:#3D6B8A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"/><circle cx="12" cy="9.5" r="2.4"/><path d="M8 16.5c1.2-1.6 6.8-1.6 8 0"/></svg></span><span><span class="mega__t">Medical visa guides</span><span class="mega__d">Eight countries, step by step</span></span></a>
+        </div>
+            <div class="mega__foot"><p class="mega__note">Ranges, not a single figure — because your case is not average. What changes the number is on every page.</p><a class="mega__all" href="/cost/">All costs &rarr;</a></div>
+          </div>
+        </div>
+      </div>
+      <div class="nav__item">
+        <button class="nav__top" type="button" aria-expanded="false">Doctors and hospitals <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 9l7 7 7-7"/></svg></button>
+        <div class="mega mega--mid">
+          <div class="mega__grid">
+        <div><span class="mega__k">Who treats you</span>
+          <a href="/doctors/" style="--c:#A03D33"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="7.5" r="3.2"/><path d="M6 20v-1.5a6 6 0 0 1 12 0V20"/><path d="M15 12.5v2a3 3 0 0 1-6 0v-2"/></svg></span><span><span class="mega__t">Consultants we work with</span><span class="mega__d">Named, with registration numbers</span></span></a>
+          <a href="/about/dr-annie-varughese/" style="--c:#2F6E52"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7.5 3v6c0 4.6-3.2 7.8-7.5 9-4.3-1.2-7.5-4.4-7.5-9V6z"/><path d="M9.2 12l2 2.2 3.6-4"/></svg></span><span><span class="mega__t">Dr. Annie Varughese, MD, FACC</span><span class="mega__d">US-based partner, reviews every case</span></span></a>
+          <a href="/hospitals/" style="--c:#3D6B8A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 21V9l8-5 8 5v12"/><path d="M10 21v-5h4v5"/><path d="M12 7.5v4M10 9.5h4"/></svg></span><span><span class="mega__t">Hospital network</span><span class="mega__d">Delhi NCR only, NABH or JCI accredited</span></span></a>
+        </div>
+        <div><span class="mega__k">How we choose</span>
+          <a href="/how-we-select/" style="--c:#8A6A28"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M6 7h12"/><path d="M6 7L3 14h6zM18 7l-3 7h6z"/></svg></span><span><span class="mega__t">Our selection criteria</span><span class="mega__d">Volume, ICU capability, published outcomes</span></span></a>
+          <a href="/editorial-policy/" style="--c:#56657A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 8h6M9 12h6"/><circle cx="12" cy="17" r="2.2"/></svg></span><span><span class="mega__t">Editorial and review policy</span><span class="mega__d">Who writes and reviews these pages</span></span></a>
+        </div>
+            <div class="mega__foot"><p class="mega__note">We work in Delhi NCR only. A shorter list we know well beats a long list we do not.</p><a class="mega__all" href="/hospitals/">Hospital network &rarr;</a></div>
+          </div>
+        </div>
+      </div>
+      <div class="nav__item">
+        <button class="nav__top" type="button" aria-expanded="false">How this works <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 9l7 7 7-7"/></svg></button>
+        <div class="mega mega--mid">
+          <div class="mega__grid">
+        <div><span class="mega__k">Before you decide</span>
+          <a href="/how-it-works/" style="--c:#2F6E52"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="18" r="2.4"/><path d="M8.4 6H14a4 4 0 0 1 0 8H9a4 4 0 0 0 0 8h.5" transform="translate(0,-2)"/></svg></span><span><span class="mega__t">The process, step by step</span><span class="mega__d">From first message to going home</span></span></a>
+          <a href="/how-we-are-paid/" style="--c:#96692A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M6 7h12"/><path d="M6 7L3 14h6zM18 7l-3 7h6z"/></svg></span><span><span class="mega__t">How we are paid</span><span class="mega__d">Our fee disclosure, in full</span></span></a>
+          <a href="/medical-visa/" style="--c:#3D6B8A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"/><circle cx="12" cy="9.5" r="2.4"/><path d="M8 16.5c1.2-1.6 6.8-1.6 8 0"/></svg></span><span><span class="mega__t">Medical visa guides</span><span class="mega__d">Invitation letters and requirements</span></span></a>
+        </div>
+        <div><span class="mega__k">About us</span>
+          <a href="/about/" style="--c:#8C4A5C"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4z"/><path d="M8 9h8M8 12.5h5"/></svg></span><span><span class="mega__t">About TIB HIND</span><span class="mega__d">Founded 2020, Delhi NCR only</span></span></a>
+          <a href="/patient-stories/" style="--c:#A9557A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-9 8.4 9 9 0 0 1-3.5-.7L3 21l1.8-5a8.3 8.3 0 0 1-.8-3.6 8.4 8.4 0 0 1 9-8.4 8.4 8.4 0 0 1 8 8z"/></svg></span><span><span class="mega__t">Patient stories</span><span class="mega__d">With consent, and without exaggeration</span></span></a>
+          <a href="/faq/" style="--c:#56657A"><span class="mega__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.4a2.5 2.5 0 1 1 3.3 2.4c-.6.3-.9.8-.9 1.5v.5M12 17v.4"/></svg></span><span><span class="mega__t">Questions patients ask</span><span class="mega__d">Including the ones we get asked least</span></span></a>
+        </div>
+            <div class="mega__foot"><p class="mega__note">The questions worth asking before you book anything — including the ones that cost us bookings.</p><a class="mega__all" href="/how-it-works/">How this works &rarr;</a></div>
+          </div>
+        </div>
+      </div>
+      <div class="langs">
+        <a href="/" aria-current="page">EN</a>
+        <a href="/ar/" lang="ar" hreflang="ar">ع</a>
+        <a href="/ru/" lang="ru" hreflang="ru">RU</a>
+      </div>
+      <a class="btn btn--wa" href="https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review">WhatsApp</a>
+    </nav>
+  </div>
+</header>
+
+<div class="emerg">
+  <div class="wrap emerg__in">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 16.5v.5" stroke-linecap="round"/><path d="M10.3 3.2 2.5 17a2 2 0 0 0 1.7 3h15.6a2 2 0 0 0 1.7-3L13.7 3.2a2 2 0 0 0-3.4 0z" stroke-linejoin="round"/></svg>
+    <p><b>New weakness, new numbness, or a rapid change in function needs urgent assessment rather than rehabilitation.</b> Also seek urgent care for fever with a pressure sore, or a swollen painful calf which may be a clot.</p>
+  </div>
+</div>
+
+<div class="wrap crumbs"><a href="/">Home</a> &nbsp;/&nbsp; <a href="/treatments/">Treatments</a> &nbsp;/&nbsp; Rehabilitation</div>
+
+<section class="hero">
+  <div class="wrap">
+    <h1 style="max-width:17ch">Rehabilitation</h1>
+    <p class="lede" style="margin-block-start:24px;max-width:66ch">Intensive stroke, spinal cord injury, brain injury and post-surgical rehabilitation, with daily therapy at an intensity difficult to obtain in many countries.</p>
+    <p class="hero__body" style="max-width:66ch">This is among the most worthwhile and most overlooked reasons to travel. Recovery after stroke or spinal injury depends heavily on how much therapy you actually receive, and intensity is precisely what is affordable here.</p>
+    <div class="btns">
+      <a class="btn btn--solid" href="#contact">Send my reports and a video</a>
+      <a class="btn btn--line" href="https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20ask%20about%20rehabilitation%20in%20India">Talk to us on WhatsApp</a>
+    </div>
+    <p class="hero__note">Free. No obligation. A written opinion within 48 hours.</p>
+    <div class="byline">
+      <span>Clinically reviewed by <b>{{REHAB_REVIEWER}}</b>, Consultant in Rehabilitation Medicine</span>
+      <span>Clinical oversight <b>Dr. Annie Varughese, MD, FACC</b></span>
+      <span>Last reviewed <b>{{REVIEW_DATE}}</b></span>
+      <span><a href="/editorial-policy/">Editorial and medical review policy</a></span>
+    </div>
+    <div class="keyfacts"><div class="kf"><span class="kf__k">What determines recovery</span><div class="kf__v">Therapy intensity</div><div class="kf__d">Hours per day, sustained for weeks</div></div><div class="kf"><span class="kf__k">Best window</span><div class="kf__v">First six months</div><div class="kf__d">But gains continue well beyond</div></div><div class="kf"><span class="kf__k">Cost per week</span><div class="kf__v">A fraction of Western rates</div><div class="kf__d">Which is what makes intensity possible</div></div><div class="kf"><span class="kf__k">Time in India</span><div class="kf__v">4 to 12 weeks</div><div class="kf__d">Longer programmes give more</div></div></div>
+    <div class="toc">
+      <span class="toc__k">On this page</span>
+      <ol>
+        <li><a href="#read-first">Why intensity is the whole point</a></li>
+        <li><a href="#conditions">Conditions we treat</a></li>
+        <li><a href="#procedures">Procedures, stay and recovery</a></li>
+        <li><a href="#selection">How we choose the surgeon</a></li>
+        <li><a href="#risks">Risks, and who should not travel</a></li>
+        <li><a href="#trip">What your trip looks like</a></li>
+        <li><a href="#faq">Questions patients ask</a></li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<section class="band band--tone rise" id="read-first">
+  <div class="wrap rail"><div class="rail__label">Read first</div><div>
+<div class="warn">
+        <div class="warn__h"><span class="warn__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 16.5v.5" stroke-linecap="round"/><path d="M10.3 3.2 2.5 17a2 2 0 0 0 1.7 3h15.6a2 2 0 0 0 1.7-3L13.7 3.2a2 2 0 0 0-3.4 0z" stroke-linejoin="round"/></svg></span><h3>How much therapy you get matters more than where you get it</h3></div>
+        <div class="warn__body"><p>Rehabilitation outcomes correlate strongly with the total hours of therapy delivered. That is the entire argument for coming here.</p></div>
+        <div class="wgrid"><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Several hours a day, six days a week</b><p>That is what an inpatient programme here provides — physiotherapy, occupational therapy and speech therapy in structured daily blocks. In many health systems, patients receive a fraction of that.</p></div></div><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Sustained over weeks, not days</b><p>A four to twelve week block is where meaningful functional change happens. Short admissions rarely produce it.</p></div></div><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Cost is what makes intensity possible</b><p>The same intensity in Europe or North America is unaffordable for most families. Here it is within reach, and that is a genuine difference rather than a marketing claim.</p></div></div><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Realistic goals set at the start</b><p>Walking, transferring, feeding, dressing, communicating. Goals are agreed and measured, and progress is reviewed against them rather than described vaguely.</p></div></div></div>
+        <div class="warn__body"><p>Send a short video of the patient attempting to sit, stand, walk or speak. It tells a rehabilitation physician more than any letter, and it lets us set honest goals before you travel.</p></div>
+      </div>
+  </div></div>
+</section>
+
+<section class="band rise" id="conditions">
+  <div class="wrap rail"><div class="rail__label">Conditions</div><div>
+      <h2>Conditions we treat</h2>
+      <p class="lede">What we are asked about most in rehabilitation.</p>
+      <div class="clist"><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Stroke</b><p>Motor, speech and swallowing rehabilitation — see our stroke page</p></div></div><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Spinal cord injury</b><p>Mobility, bladder and bowel management, and independence training</p></div></div><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Traumatic brain injury</b><p>Cognitive, physical and behavioural rehabilitation</p></div></div><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Post-surgical rehabilitation</b><p>After joint replacement, spine and cardiac surgery</p></div></div><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Cerebral palsy in children</b><p>Function-focused therapy and equipment</p></div></div><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Guillain-Barré and neuropathy</b><p>Recovery-phase rehabilitation</p></div></div><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Amputation</b><p>Prosthetic fitting and gait training</p></div></div><div class="ci" style="--c:#3D6B8A"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5 11-11"/></svg><div><b>Prolonged critical illness</b><p>Deconditioning after long intensive care stays</p></div></div></div>
+      <div class="prose" style="margin-block-start:26px">
+        <p>Detailed pages for these are being written. In the meantime send your reports and you will get the same written opinion within 48 hours, from the same clinical team that reviews every case.</p>
+      </div>
+  </div></div>
+</section>
+
+<section class="band band--tone rise" id="procedures">
+  <div class="wrap rail"><div class="rail__label">Procedures</div><div>
+      <h2>Procedures, stay and recovery</h2>
+      <p class="lede">Rehabilitation is a programme rather than a procedure. What follows is what a programme contains.</p>
+      <div style="margin-block-start:32px">
+      <article class="proc" id="assess" style="--c:#3D6B8A;--d:0ms">
+        <div class="proc__h"><span class="proc__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h5"/><circle cx="16" cy="16" r="3"/><path d="M14.8 16l.9 1 1.6-1.8"/></svg></span><div class="proc__t"><span class="proc__n">Procedure 01</span><h3>Assessment and goal setting</h3></div></div>
+        <p class="proc__lead">A rehabilitation physician, physiotherapist, occupational therapist and speech therapist assess function and agree specific measurable goals with you and your family. Honest goal-setting is the most important part of the programme, because it determines whether you leave satisfied or disappointed.</p>
+        <div class="proc__facts"><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17v-4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v4"/><path d="M3 17v3M21 17v3M3 13V7"/><circle cx="7.5" cy="8.5" r="2"/><path d="M11 11V8.5a1.5 1.5 0 0 1 1.5-1.5H19"/></svg><div><span class="pf__k">Time needed</span><div class="pf__v">2 to 3 days</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 13.5l19-5.4c1.2-.35 2 .1 2 .9s-.6 1.3-1.6 1.6l-4.6 1.4-3 5.6-2 .6 1-4.6-4.4 1.3-1.8 1.7-1.7-.5 1.2-1.9z"/></svg><div><span class="pf__k">Total time in India</span><div class="pf__v">Start of the programme</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Indicative cost</span><div class="pf__v">{{RANGE_REHAB_ASSESS}}</div></div></div></div>
+      </article>
+      <article class="proc" id="physio" style="--c:#3D6B8A;--d:70ms">
+        <div class="proc__h"><span class="proc__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="13" cy="4.6" r="2"/><path d="M8 21l3-5 3 2 2 3"/><path d="M11 16l-1-5 4-2 2 3 3 1"/></svg></span><div class="proc__t"><span class="proc__n">Procedure 02</span><h3>Intensive physiotherapy</h3></div></div>
+        <p class="proc__lead">Several hours daily of task-specific training — sitting balance, standing, transfers, gait retraining with support as needed. Repetition of functional tasks is what drives recovery, and volume of practice is the variable that matters most.</p>
+        <div class="proc__facts"><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Daily</span><div class="pf__v">Several hours, six days a week</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 13.5l19-5.4c1.2-.35 2 .1 2 .9s-.6 1.3-1.6 1.6l-4.6 1.4-3 5.6-2 .6 1-4.6-4.4 1.3-1.8 1.7-1.7-.5 1.2-1.9z"/></svg><div><span class="pf__k">Total time in India</span><div class="pf__v">4 to 12 weeks</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Indicative cost</span><div class="pf__v">{{RANGE_PHYSIO}}</div></div></div></div>
+      </article>
+      <article class="proc" id="ot" style="--c:#3D6B8A;--d:140ms">
+        <div class="proc__h"><span class="proc__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 20v-5.5c0-1-.6-1.6-1.4-1.6S4 13.5 4 14.6"/><path d="M7 14V6.6a1.3 1.3 0 0 1 2.6 0V13"/><path d="M9.6 13V5.4a1.3 1.3 0 0 1 2.6 0V13"/><path d="M12.2 13V6.4a1.3 1.3 0 0 1 2.6 0V14"/><path d="M14.8 14V8.6a1.3 1.3 0 0 1 2.6 0V16c0 3-2.2 5-5 5H9"/></svg></span><div class="proc__t"><span class="proc__n">Procedure 03</span><h3>Occupational therapy and independence training</h3></div></div>
+        <p class="proc__lead">Retraining the activities of daily life — dressing, washing, eating, writing, using a phone — with adaptations and equipment where function will not fully return. This is what converts physical improvement into actual independence at home.</p>
+        <div class="proc__facts"><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Daily</span><div class="pf__v">Structured sessions</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 13.5l19-5.4c1.2-.35 2 .1 2 .9s-.6 1.3-1.6 1.6l-4.6 1.4-3 5.6-2 .6 1-4.6-4.4 1.3-1.8 1.7-1.7-.5 1.2-1.9z"/></svg><div><span class="pf__k">Total time in India</span><div class="pf__v">Runs alongside physiotherapy</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Indicative cost</span><div class="pf__v">{{RANGE_OT}}</div></div></div></div>
+      </article>
+      <article class="proc" id="speech" style="--c:#3D6B8A;--d:210ms">
+        <div class="proc__h"><span class="proc__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4z"/><path d="M8 9h8M8 12.5h5"/></svg></span><div class="proc__t"><span class="proc__n">Procedure 04</span><h3>Speech and swallowing therapy</h3></div></div>
+        <p class="proc__lead">Assessment and treatment of communication difficulty and unsafe swallowing after stroke or brain injury. Swallowing assessment matters urgently — unsafe swallowing causes pneumonia, which is a leading cause of death after stroke and is preventable with the right diet consistency and technique.</p>
+        <div class="proc__facts"><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Daily</span><div class="pf__v">Structured sessions</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 13.5l19-5.4c1.2-.35 2 .1 2 .9s-.6 1.3-1.6 1.6l-4.6 1.4-3 5.6-2 .6 1-4.6-4.4 1.3-1.8 1.7-1.7-.5 1.2-1.9z"/></svg><div><span class="pf__k">Total time in India</span><div class="pf__v">Runs alongside the programme</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Indicative cost</span><div class="pf__v">{{RANGE_SLT}}</div></div></div></div>
+      </article>
+      <article class="proc" id="prosth" style="--c:#3D6B8A;--d:280ms">
+        <div class="proc__h"><span class="proc__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v7"/><path d="M9 10h6v5H9z"/><path d="M12 15v3"/><path d="M9 21h6l-1-3h-4z"/></svg></span><div class="proc__t"><span class="proc__n">Procedure 05</span><h3>Prosthetics, orthotics and equipment</h3></div></div>
+        <p class="proc__lead">Fitting of prosthetic limbs, braces and splints, and prescription of wheelchairs and equipment suited to the home you are returning to. Made and fitted here at a fraction of Western cost, with training in their use as part of the programme rather than an afterthought.</p>
+        <div class="proc__facts"><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Fitting and training</span><div class="pf__v">2 to 4 weeks</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 13.5l19-5.4c1.2-.35 2 .1 2 .9s-.6 1.3-1.6 1.6l-4.6 1.4-3 5.6-2 .6 1-4.6-4.4 1.3-1.8 1.7-1.7-.5 1.2-1.9z"/></svg><div><span class="pf__k">Total time in India</span><div class="pf__v">Within the programme</div></div></div><div class="pf"><svg class="pf__i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18"/><path d="M16.5 7.2c-.9-1-2.4-1.7-4.5-1.7-2.5 0-4 1.2-4 3s1.4 2.6 4 3.2c2.6.6 4.2 1.4 4.2 3.3 0 1.9-1.7 3-4.2 3-2.2 0-3.8-.8-4.7-1.9"/></svg><div><span class="pf__k">Indicative cost</span><div class="pf__v">{{RANGE_PROSTHETICS}}</div></div></div></div>
+      </article>
+      </div>
+  </div></div>
+</section>
+
+<section class="band band--ink rise" id="selection">
+  <div class="wrap rail"><div class="rail__label">Selection</div><div>
+      <h2>How we choose the surgeon</h2>
+      <div class="clauses"><div class="clause"><span class="clause__k">Therapy hours actually delivered</span><p>Ask how many hours per day of each therapy the patient will receive, and on how many days a week. This is the number that determines the result — ask for it specifically.</p></div><div class="clause"><span class="clause__k">A rehabilitation physician leading</span><p>Not a physiotherapy service alone. Medical oversight manages spasticity, pain, bladder, bowel, mood and complications that otherwise derail a programme.</p></div><div class="clause"><span class="clause__k">Family training before discharge</span><p>Whoever cares for the patient at home must be trained during the admission. A programme that does not do this sends people home to deteriorate.</p></div></div>
+      <div class="prose"><p>Ask for the therapy timetable in writing before you commit. A centre that cannot produce one is not delivering the intensity it advertises.</p></div>
+  </div></div>
+</section>
+
+<section class="band rise" id="risks">
+  <div class="wrap rail"><div class="rail__label">Honestly</div><div>
+      <h2>Risks, and who should not travel</h2>
+      <div class="prose"><p>Rehabilitation is low risk but not without it. Falls during mobility training, shoulder injury in a weak arm, pressure sores, clots in immobile patients, and aspiration pneumonia from unsafe swallowing all occur and are managed by anticipating them. The larger risk is expectation: rehabilitation improves function but frequently does not restore what was lost, and a programme promising recovery rather than improvement is not being honest with you.</p></div>
+<div class="warn">
+        <div class="warn__h"><span class="warn__ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 16.5v.5" stroke-linecap="round"/><path d="M10.3 3.2 2.5 17a2 2 0 0 0 1.7 3h15.6a2 2 0 0 0 1.7-3L13.7 3.2a2 2 0 0 0-3.4 0z" stroke-linejoin="round"/></svg></span><h3>Some patients should not travel</h3></div>
+        <div class="wgrid"><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Anyone medically unstable</b><p>Rehabilitation requires the patient to be able to participate. Uncontrolled infection, heart failure or recent deterioration need treating first.</p></div></div><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Very recent stroke, in the first days</b><p>The acute phase is managed locally. Rehabilitation begins once stable, usually from around two weeks.</p></div></div><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Families sold stem cell therapy</b><p>We do not arrange stem cell treatment for stroke, cerebral palsy, spinal cord injury or brain injury. There is no established evidence it works and it is sold at high prices to desperate families.</p></div></div><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Expectations of full recovery</b><p>Where the imaging and current function make substantial recovery unlikely, we will say so before you spend anything.</p></div></div><div class="wpoint"><svg class="wpoint__i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5M12 15.7v.4"/></svg><div><b>Where a short trip is planned</b><p>A two-week visit will not achieve much. If you cannot commit to four weeks or more, the value is limited and we will tell you.</p></div></div></div>
+        <div class="warn__body"><p>We would rather set honest goals you achieve than promise recovery you will not get. That conversation happens before you book, not after.</p></div>
+      </div>
+  </div></div>
+</section>
+
+<section class="band band--tone rise" id="trip">
+  <div class="wrap rail"><div class="rail__label">Your trip</div><div>
+      <h2>What your trip looks like</h2>
+      <p class="lede">A patient travelling for intensive rehabilitation three months after a stroke.</p>
+      <div class="crit" style="margin-block-start:28px"><div class="crit__row"><span class="crit__n">01</span><div><div class="crit__t">Send reports and a video — day one</div><div class="crit__d">Brain imaging, discharge summary, and a short video of the patient attempting to sit, stand, walk or speak.</div></div></div><div class="crit__row"><span class="crit__n">02</span><div><div class="crit__t">Written opinion — within 48 hours</div><div class="crit__d">Realistic goals, recommended programme length, and a weekly cost. Including an honest view where gains are likely to be limited.</div></div></div><div class="crit__row"><span class="crit__n">03</span><div><div class="crit__t">Visa and travel — two to three weeks</div><div class="crit__d">Invitation letters for the patient and an attendant. Accommodation arranged near the centre.</div></div></div><div class="crit__row"><span class="crit__n">04</span><div><div class="crit__t">Assessment — days one to three</div><div class="crit__d">Full team assessment, goals agreed in writing with you and your family, and a timetable issued.</div></div></div><div class="crit__row"><span class="crit__n">05</span><div><div class="crit__t">The programme — 4 to 12 weeks</div><div class="crit__d">Several hours of therapy daily, six days a week, with weekly review against the agreed goals.</div></div></div><div class="crit__row"><span class="crit__n">06</span><div><div class="crit__t">Family training — final two weeks</div><div class="crit__d">Whoever cares for the patient at home is trained in transfers, exercises, positioning and equipment.</div></div></div><div class="crit__row"><span class="crit__n">07</span><div><div class="crit__t">Home with a written programme</div><div class="crit__d">Exercises, equipment, and a plan your local therapist can continue, with review by video.</div></div></div></div>
+      <div class="btns" style="margin-block-end:0"><a class="btn btn--solid" href="#contact">Send my reports and a video</a></div>
+  </div></div>
+</section>
+
+<section class="band rise" id="faq">
+  <div class="wrap rail"><div class="rail__label">Questions</div><div>
+      <h2>Questions patients ask</h2>
+      <div class="faq">
+        <div class="faq__item open">
+          <button class="faq__q" aria-expanded="true">Is it too late for rehabilitation?<span class="faq__sign" aria-hidden="true"></span></button>
+          <div class="faq__a"><div><p>Usually not. Most improvement occurs in the first three to six months, but meaningful gains continue for a year and beyond with sustained therapy, and patients who have had little therapy often improve considerably even years later. Send a video and we will give you an honest assessment rather than a general answer.</p></div></div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__q" aria-expanded="false">How much therapy will we actually get?<span class="faq__sign" aria-hidden="true"></span></button>
+          <div class="faq__a"><div><p>Ask for the timetable in writing — this is the question that matters most. The programmes we work with provide several hours daily, six days a week, of physiotherapy, occupational therapy and speech therapy as needed. That intensity is the reason to travel and it is what you should verify.</p></div></div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__q" aria-expanded="false">What about stem cell therapy?<span class="faq__sign" aria-hidden="true"></span></button>
+          <div class="faq__a"><div><p>We do not arrange it for stroke, cerebral palsy, spinal cord injury or brain injury. There is no established evidence that it works for these conditions, and clinics offering it to international families charge a great deal for something unproven. Your money achieves far more spent on intensive conventional therapy.</p></div></div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__q" aria-expanded="false">Will my relative walk again?<span class="faq__sign" aria-hidden="true"></span></button>
+          <div class="faq__a"><div><p>That depends on the injury, how much function remains, and how long it has been. We will give you an honest view from the imaging and the video rather than an encouraging one. Where walking is not a realistic goal, there are other goals — transferring, self-care, communication — that transform daily life and are worth pursuing.</p></div></div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__q" aria-expanded="false">Can I bring a family member?<span class="faq__sign" aria-hidden="true"></span></button>
+          <div class="faq__a"><div><p>Yes, and you should. Whoever will care for the patient at home is trained during the admission in transfers, exercises, positioning and equipment use. Programmes where the family is not trained send people home to lose what they gained. We arrange accommodation nearby for attendants.</p></div></div>
+        </div>
+        <div class="faq__item">
+          <button class="faq__q" aria-expanded="false">What happens after we go home?<span class="faq__sign" aria-hidden="true"></span></button>
+          <div class="faq__a"><div><p>You leave with a written exercise and equipment programme that a local therapist can continue, and we arrange remote review with the rehabilitation team. Continuing therapy at home is what preserves and extends the gains — an intensive block followed by nothing loses much of the benefit.</p></div></div>
+        </div>
+      </div>
+      <div class="prose" style="margin-block-start:34px">
+        <p><strong>Related pages:</strong> <a href="/conditions/stroke/">Stroke</a> &nbsp;·&nbsp; <a href="/treatments/spine-surgery/">Spine surgery</a> &nbsp;·&nbsp; <a href="/treatments/neurosurgery/">Neurosurgery</a> &nbsp;·&nbsp; <a href="/treatments/orthopaedics/">Orthopaedics and joint replacement</a> &nbsp;·&nbsp; <a href="/treatments/">All treatments</a></p>
+      </div>
+  </div></div>
+</section>
+
+<section class="band band--tone rise" id="contact">
+  <div class="wrap rail"><div class="rail__label">Contact</div><div>
+      <h2>Send us your reports</h2>
+      <p class="lede">Send the imaging and discharge summary, and a short video of the patient attempting to sit, stand, walk or speak. That video tells us more than any letter.</p>
+      <div class="form">
+        <div><label for="n">Your name</label><input id="n" type="text" required></div>
+        <div><label for="c">Country</label><select id="c"><option>Iraq</option><option>Bangladesh</option><option>Uzbekistan</option><option>Oman</option><option>Yemen</option><option>Sudan</option><option>Ghana</option><option>Ethiopia</option><option>Other</option></select></div>
+        <div><label for="w">WhatsApp number</label><input id="w" type="tel" placeholder="+964 …" required></div>
+        <div><label for="e">Email (optional)</label><input id="e" type="email"></div>
+        <div class="f-full"><label for="d">Describe what function has been lost, when it happened, and what therapy has been given so far</label><textarea id="d" required></textarea></div>
+        <div class="f-full"><label for="f">Upload reports and scans</label><div class="file">Photographs, scans or PDF · up to 25 MB<br><input id="f" type="file" multiple style="margin-block-start:12px;border:0;padding:0;background:none;width:auto"></div></div>
+        <div class="f-full">
+          <button class="btn btn--solid" type="button">Send for review</button>
+          <p class="form__note">Your reports go directly to our medical team. We do not share your records with hospitals until you tell us to.</p>
+        </div>
+      </div>
+      <div style="margin-block-start:44px;padding-block-start:30px;border-block-start:1px solid var(--rule);font-size:16px">
+        <p style="margin-block-end:.5em"><strong>WhatsApp</strong> +91 83035 86344 &nbsp;·&nbsp; <strong>Phone</strong> +91 83035 86344 &nbsp;·&nbsp; <strong>Email</strong> tibhind@gmail.com</p>
+        <p style="color:var(--muted);font-size:15px;margin-block-end:0">Coordinators available 9:00–20:00 IST. We speak Arabic, English, Russian and Bengali.</p>
+      </div>
+  </div></div>
+</section>
+
+<footer class="foot">
+  <div class="wrap">
+
+    <div class="foot__top">
+      <div class="foot__id">
+        <a class="mark" href="/">TIB<span>·</span>HIND</a>
+        <p class="foot__tag">Clinician-led medical travel to Delhi NCR. A doctor reads your reports before anyone discusses money.</p>
+        <div class="nap">
+          <b><i class="tbd" title="To be supplied before launch">Registered company name to be confirmed</i></b>
+          <dl>
+            <dt>Address</dt><dd><i class="tbd" title="To be supplied before launch">Registered address to be confirmed</i></dd>
+            <dt>CIN</dt><dd><i class="tbd" title="To be supplied before launch">CIN to be confirmed</i></dd>
+            <dt>Phone</dt><dd><a href="tel:+918303586344">+91 83035 86344</a></dd>
+            <dt>WhatsApp</dt><dd><a href="https://wa.me/918303586344">+91 83035 86344</a></dd>
+            <dt>Email</dt><dd><a href="mailto:tibhind@gmail.com">tibhind@gmail.com</a></dd>
+            <dt>Hours</dt><dd>9:00–20:00 IST, seven days</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div><h4>Treatments</h4><ul>
+        <li><a href="/treatments/heart/">Heart treatment</a></li>
+        <li><a href="/treatments/cancer/">Cancer treatment</a></li>
+        <li><a href="/treatments/orthopaedics/">Joint replacement</a></li>
+        <li><a href="/treatments/neurosurgery/">Neurosurgery</a></li>
+        <li><a href="/treatments/transplant/">Organ transplant</a></li>
+        <li><a href="/treatments/bone-marrow-transplant/">Bone marrow transplant</a></li>
+        <li><a href="/treatments/spine-surgery/">Spine surgery</a></li>
+        <li><a href="/treatments/fertility/">IVF and fertility</a></li>
+        <li><a href="/treatments/bariatric-surgery/">Bariatric surgery</a></li>
+        <li><a href="/treatments/gastroenterology/">Liver and digestive</a></li>
+      </ul></div>
+
+      <div><h4>Most asked about</h4><ul>
+        <li><a href="/conditions/thalassemia/">Thalassemia transplant</a></li>
+        <li><a href="/conditions/rheumatic-heart-disease/">Rheumatic heart disease</a></li>
+        <li><a href="/conditions/end-stage-kidney-disease/">Kidney transplant</a></li>
+        <li><a href="/conditions/liver-cirrhosis/">Liver transplant</a></li>
+        <li><a href="/conditions/coronary-artery-disease/">Heart bypass</a></li>
+        <li><a href="/conditions/knee-osteoarthritis/">Knee replacement</a></li>
+        <li><a href="/conditions/glioma/">Brain tumour</a></li>
+        <li><a href="/conditions/hepatitis-c/">Hepatitis C — curable</a></li>
+        <li><a href="/conditions/spinal-tuberculosis/">Spinal tuberculosis</a></li>
+        <li><a href="/conditions/">All 94 conditions</a></li>
+      </ul></div>
+
+      <div><h4>Costs and process</h4><ul>
+        <li><a href="/cost/">All published costs</a></li>
+        <li><a href="/cost/heart-surgery/">Heart surgery cost</a></li>
+        <li><a href="/cost/joint-replacement/">Joint replacement cost</a></li>
+        <li><a href="/cost/transplant/">Transplant cost</a></li>
+        <li><a href="/cost/bone-marrow-transplant/">Bone marrow transplant cost</a></li>
+        <li><a href="/how-we-are-paid/">How we are paid</a></li>
+        <li><a href="/how-it-works/">The process, step by step</a></li>
+        <li><a href="/medical-visa/">Medical visa guides</a></li>
+      </ul></div>
+
+      <div><h4>Company</h4><ul>
+        <li><a href="/about/">About TIB HIND</a></li>
+        <li><a href="/about/dr-annie-varughese/">Dr. Annie Varughese</a></li>
+        <li><a href="/doctors/">Consultants we work with</a></li>
+        <li><a href="/hospitals/">Hospital network</a></li>
+        <li><a href="/how-we-select/">How we select hospitals</a></li>
+        <li><a href="/patient-stories/">Patient stories</a></li>
+        <li><a href="/faq/">Questions patients ask</a></li>
+        <li><a href="/contact/">Contact us</a></li>
+      </ul></div>
+    </div>
+
+    <div class="foot__legal">
+      <a href="/privacy/">Privacy and data protection</a>
+      <a href="/terms/">Terms of use</a>
+      <a href="/medical-disclaimer/">Medical disclaimer</a>
+      <a href="/editorial-policy/">Editorial and review policy</a>
+      <a href="/refund-policy/">Refund and cancellation</a>
+      <a href="/complaints/">Complaints</a>
+      <a href="/sitemap.xml">Sitemap</a>
+    </div>
+
+    <div class="foot__lang">
+      <span>Read this site in</span>
+      <a href="/" aria-current="page" hreflang="en">English</a>
+      <a href="/ar/" lang="ar" hreflang="ar" dir="rtl">العربية</a>
+      <a href="/ru/" lang="ru" hreflang="ru">Русский</a>
+      <a href="/bn/" lang="bn" hreflang="bn">বাংলা</a>
+    </div>
+
+    <div class="disc">
+      <div class="disc__grid">
+        <div class="disc__i"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 8h6M9 12h6M9 16h3.5"/></svg>
+          <div><b>We are a facilitator, not a hospital</b><p>TIB HIND does not provide medical treatment, diagnosis or emergency care. All treatment is delivered by independent, accredited hospitals and their consultants, who remain solely responsible for clinical decisions.</p></div></div>
+        <div class="disc__i"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M6 7h12"/><path d="M6 7L3 14h6zM18 7l-3 7h6z"/></svg>
+          <div><b>Costs are ranges, not quotations</b><p>Published figures are indicative ranges based on recent cases. Your final cost is set by the treating hospital after clinical assessment and can change if your treatment does.</p></div></div>
+        <div class="disc__i"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7.5 3v6c0 4.6-3.2 7.8-7.5 9-4.3-1.2-7.5-4.4-7.5-9V6z"/><path d="M9.2 12l2 2.2 3.6-4"/></svg>
+          <div><b>Your medical records</b><p>Reports you send are reviewed by our medical team and are not shared with any hospital without your instruction. See our <a href="/privacy/">privacy and data protection policy</a>.</p></div></div>
+        <div class="disc__i"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 16.5v.5"/><path d="M10.3 3.2 2.5 17a2 2 0 0 0 1.7 3h15.6a2 2 0 0 0 1.7-3L13.7 3.2a2 2 0 0 0-3.4 0z"/></svg>
+          <div><b>This site is not for emergencies</b><p>If you have chest pain, stroke symptoms, severe bleeding or any acute deterioration, contact your local emergency services now. Do not wait for a reply from us.</p></div></div>
+      </div>
+      <p class="disc__copy">© 2026 <strong><i class="tbd" title="To be supplied before launch">Registered company name to be confirmed</i></strong>, trading as TIB HIND. Registered in India, CIN <i class="tbd" title="To be supplied before launch">CIN to be confirmed</i>. All rights reserved. &nbsp;·&nbsp; Information on this website is general guidance written and reviewed by qualified clinicians, and is not a substitute for a consultation with a doctor who has examined you. No outcome is guaranteed. Named hospitals and consultants appear with their written permission. &nbsp;·&nbsp; Under Indian law, organ transplant for foreign nationals requires a near-relative donor with embassy certification and Authorisation Committee approval; surrogacy is not available to foreign nationals; and sex selection is a criminal offence. We do not assist with any of these.</p>
+    </div>
+
+  </div>
+</footer>
+
+<nav class="sticky" aria-label="Quick contact">
+  <a class="wa" href="https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review">WhatsApp</a>
+  <a class="call" href="tel:+918303586344">Call</a>
+</nav>
+
+<script>
+const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/* ---------- sliders ---------- */
+document.querySelectorAll('.slider').forEach(root=>{
+  const track = root.querySelector('.slider__track');
+  const slides = [...root.querySelectorAll('.slide')];
+  const dotsWrap = root.querySelector('.slider__dots');
+  const prev = root.querySelector('[data-dir="-1"]');
+  const next = root.querySelector('[data-dir="1"]');
+  const basePer = parseInt(root.dataset.per || '3', 10);
+  const delay = parseInt(root.dataset.autoplay || '0', 10);
+  let index = 0, timer = null;
+
+  const perView = () => {
+    const w = window.innerWidth;
+    if (w <= 640) return 1;
+    if (w <= 1000) return Math.min(2, basePer);
+    return basePer;
+  };
+  const maxIndex = () => Math.max(0, slides.length - perView());
+
+  function layout(){
+    const per = perView();
+    const vp = root.querySelector('.slider__vp').clientWidth;
+    const w = (vp - (per - 1)) / per;
+    slides.forEach(s => s.style.width = w + 'px');
+    index = Math.min(index, maxIndex());
+    move();
+  }
+
+  function move(){
+    const w = slides[0].getBoundingClientRect().width + 1;
+    track.style.transform = `translateX(${-index * w}px)`;
+    [...dotsWrap.children].forEach((d,i)=>d.setAttribute('aria-current', i === index));
+    prev.disabled = index === 0;
+    next.disabled = index === maxIndex();
+  }
+
+  function go(i){
+    index = i < 0 ? maxIndex() : (i > maxIndex() ? 0 : i);
+    move();
+  }
+
+  function buildDots(){
+    dotsWrap.innerHTML = '';
+    for (let i = 0; i <= maxIndex(); i++){
+      const b = document.createElement('button');
+      b.className = 'slider__dot';
+      b.setAttribute('aria-label', 'Go to item ' + (i + 1));
+      b.addEventListener('click', ()=>{ go(i); restart(); });
+      dotsWrap.appendChild(b);
+    }
+  }
+
+  function restart(){
+    if (timer) clearInterval(timer);
+    if (delay && !reduce) timer = setInterval(()=>go(index + 1), delay);
+  }
+
+  prev.addEventListener('click', ()=>{ go(index - 1); restart(); });
+  next.addEventListener('click', ()=>{ go(index + 1); restart(); });
+  root.addEventListener('mouseenter', ()=>timer && clearInterval(timer));
+  root.addEventListener('mouseleave', restart);
+
+  /* swipe */
+  let x0 = null;
+  root.addEventListener('touchstart', e => x0 = e.touches[0].clientX, {passive:true});
+  root.addEventListener('touchend', e => {
+    if (x0 === null) return;
+    const dx = e.changedTouches[0].clientX - x0;
+    if (Math.abs(dx) > 45) { go(index + (dx < 0 ? 1 : -1)); restart(); }
+    x0 = null;
+  });
+
+  let rt;
+  window.addEventListener('resize', ()=>{ clearTimeout(rt); rt = setTimeout(()=>{ buildDots(); layout(); }, 150); });
+
+  buildDots(); layout(); restart();
+});
+
+/* ---------- FAQ accordion ---------- */
+document.querySelectorAll('.faq__item').forEach(item=>{
+  const btn = item.querySelector('.faq__q');
+  btn.addEventListener('click', ()=>{
+    const open = item.classList.toggle('open');
+    btn.setAttribute('aria-expanded', open);
+  });
+});
+
+/* ---------- ledger stagger reveal ---------- */
+const ledger = document.querySelector('.ledger');
+if (ledger){
+  const lio = new IntersectionObserver(es=>{
+    es.forEach(e=>{ if(e.isIntersecting){ ledger.classList.add('in'); lio.disconnect(); } });
+  }, {threshold:.15});
+  lio.observe(ledger);
+}
+
+/* ---------- animated cost bars + counters ---------- */
+const barsBlock = document.querySelector('.bars');
+if (barsBlock){
+  const runBars = () => {
+    barsBlock.querySelectorAll('.bar__fill').forEach(f => f.style.width = f.dataset.width + '%');
+    barsBlock.querySelectorAll('[data-count]').forEach(el => {
+      const target = parseFloat(el.dataset.count);
+      const suffix = el.dataset.suffix || '';
+      if (reduce){ el.textContent = target + suffix; return; }
+      const dur = 1300, t0 = performance.now();
+      const tick = now => {
+        const p = Math.min(1, (now - t0) / dur);
+        const eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = Math.round(target * eased) + suffix;
+        if (p < 1) requestAnimationFrame(tick);
+      };
+      requestAnimationFrame(tick);
+    });
+  };
+  const bio = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting){ runBars(); bio.disconnect(); } });
+  }, {threshold:.4});
+  bio.observe(barsBlock);
+}
+</script>
+
+
+<script>
+/* ---------- motion layer ----------
+   Guard: we only add .js-motion (which enables the hiding rules) once we are
+   certain we can also remove it. If anything throws, content stays visible. */
+(function(){
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (!('IntersectionObserver' in window)) return;   // old browser: no hiding, no motion
+  var root = document.documentElement;
+
+  try {
+    root.classList.add('js-motion');
+
+    // Absolute failsafe: whatever happens, everything is visible within 3s.
+    var failsafe = setTimeout(function(){
+      document.querySelectorAll('.rise,.spec,.proc,.opt,.warn,.crit__row,.kf,.clause,.dpan,.wpoint,.ledger a,.rel a,.band')
+        .forEach(function(el){ el.classList.add('seen'); });
+    }, 3000);
+
+    var reveal = function(el){ el.classList.add('seen'); };
+
+    // stagger children within a group
+    var stagger = function(sel, parentSel, step){
+      document.querySelectorAll(parentSel).forEach(function(p){
+        p.querySelectorAll(sel).forEach(function(el,i){
+          el.style.setProperty('--sd', Math.min(i,8)*step + 'ms');
+        });
+      });
+    };
+    stagger('.proc','.band',70);
+    stagger('.opt','.band',70);
+    stagger('.spec','.band',70);
+    stagger('.crit__row','.crit',60);
+    stagger('.kf','.keyfacts',80);
+    stagger('.clause','.clauses',90);
+    stagger('.dpan','.dual',110);
+    stagger('.wpoint','.wgrid',60);
+    stagger('a','.ledger',45);
+    stagger('a','.rel',45);
+
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){
+        if (e.isIntersecting){ reveal(e.target); io.unobserve(e.target); }
+      });
+    }, {threshold: 0, rootMargin: '0px 0px -8% 0px'});
+
+    document.querySelectorAll('.rise,.spec,.proc,.opt,.warn,.crit__row,.kf,.clause,.dpan,.wpoint,.ledger a,.rel a,.band')
+      .forEach(function(el){ io.observe(el); });
+
+    // anything already in view on load reveals immediately
+    requestAnimationFrame(function(){
+      document.querySelectorAll('.rise,.spec,.proc,.opt,.warn,.crit__row,.kf,.clause,.dpan,.wpoint,.ledger a,.rel a,.band')
+        .forEach(function(el){
+          var r = el.getBoundingClientRect();
+          if (r.top < window.innerHeight) reveal(el);
+        });
+    });
+
+    /* counting numbers in the key facts */
+    if (!reduce) {
+      var countUp = function(el){
+        var raw = el.textContent.trim();
+        var m = raw.match(/^([^\d]*)(\d[\d,]*)(.*)$/);
+        if (!m) return;
+        var pre = m[1], target = parseInt(m[2].replace(/,/g,''),10), post = m[3];
+        if (!target || target > 100000) return;
+        var dur = 900, t0 = null;
+        var tick = function(ts){
+          if (!t0) t0 = ts;
+          var p = Math.min((ts - t0)/dur, 1);
+          var eased = 1 - Math.pow(1-p, 3);
+          el.textContent = pre + Math.round(target*eased).toLocaleString() + post;
+          if (p < 1) requestAnimationFrame(tick);
+        };
+        requestAnimationFrame(tick);
+      };
+      var nio = new IntersectionObserver(function(es){
+        es.forEach(function(e){
+          if (e.isIntersecting){ countUp(e.target); nio.unobserve(e.target); }
+        });
+      }, {threshold: .6});
+      document.querySelectorAll('.kf__v, .stat__n').forEach(function(el){
+        if (/^\D*\d[\d,]*\D*$/.test(el.textContent.trim())) nio.observe(el);
+      });
+    }
+
+    /* reading progress bar */
+    if (!reduce) {
+      var bar = document.createElement('div');
+      bar.className = 'prog';
+      document.body.appendChild(bar);
+      var onScroll = function(){
+        var h = document.documentElement.scrollHeight - window.innerHeight;
+        bar.style.width = h > 0 ? (window.scrollY / h * 100) + '%' : '0%';
+      };
+      window.addEventListener('scroll', onScroll, {passive:true});
+      onScroll();
+    }
+
+    /* smooth in-page anchors */
+    document.querySelectorAll('a[href^="#"]').forEach(function(a){
+      a.addEventListener('click', function(ev){
+        var id = a.getAttribute('href');
+        if (id.length < 2) return;
+        var t = document.querySelector(id);
+        if (!t) return;
+        ev.preventDefault();
+        t.scrollIntoView({behavior: reduce ? 'auto' : 'smooth', block: 'start'});
+      });
+    });
+
+    clearTimeout(failsafe);
+    setTimeout(function(){
+      document.querySelectorAll('.rise,.spec,.proc,.opt,.warn').forEach(function(el){
+        var r = el.getBoundingClientRect();
+        if (r.top < window.innerHeight * 1.2) el.classList.add('seen');
+      });
+    }, 1200);
+
+  } catch (err) {
+    root.classList.remove('js-motion');   // any failure: strip the hiding rules entirely
+  }
+})();
+</script>
+
+</body>
+</html>

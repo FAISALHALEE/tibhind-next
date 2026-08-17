@@ -1,0 +1,632 @@
+[
+  {
+    "id": "conditions-aortic-aneurysm",
+    "route": "/conditions/aortic-aneurysm/",
+    "title": "Aortic Aneurysm and Dissection: Treatment in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-aortic-aneurysm.html"
+  },
+  {
+    "id": "conditions-aortic-valve-stenosis",
+    "route": "/conditions/aortic-valve-stenosis/",
+    "title": "Aortic Valve Stenosis: Treatment Options in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-aortic-valve-stenosis.html"
+  },
+  {
+    "id": "conditions-atrial-fibrillation",
+    "route": "/conditions/atrial-fibrillation/",
+    "title": "Atrial Fibrillation: Ablation and Treatment in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-atrial-fibrillation.html"
+  },
+  {
+    "id": "conditions-complex-congenital-heart-defects",
+    "route": "/conditions/complex-congenital-heart-defects/",
+    "title": "Complex Congenital Heart Defects: Treatment in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-complex-congenital-heart-defects.html"
+  },
+  {
+    "id": "conditions-coronary-artery-disease",
+    "route": "/conditions/coronary-artery-disease/",
+    "title": "Coronary Artery Disease: Treatment Options in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-coronary-artery-disease.html"
+  },
+  {
+    "id": "conditions-heart-failure-cardiomyopathy",
+    "route": "/conditions/heart-failure-cardiomyopathy/",
+    "title": "Heart Failure and Cardiomyopathy: Treatment in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-heart-failure-cardiomyopathy.html"
+  },
+  {
+    "id": "conditions-hole-in-the-heart",
+    "route": "/conditions/hole-in-the-heart/",
+    "title": "Hole in the Heart (ASD, VSD, PDA): Treatment in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-hole-in-the-heart.html"
+  },
+  {
+    "id": "conditions-infective-endocarditis",
+    "route": "/conditions/infective-endocarditis/",
+    "title": "Infective Endocarditis: Treatment and Valve Surgery in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-infective-endocarditis.html"
+  },
+  {
+    "id": "conditions-mitral-valve-disease",
+    "route": "/conditions/mitral-valve-disease/",
+    "title": "Mitral Valve Disease: Repair or Replacement in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-mitral-valve-disease.html"
+  },
+  {
+    "id": "conditions-prosthetic-valve-failure",
+    "route": "/conditions/prosthetic-valve-failure/",
+    "title": "Prosthetic Valve Failure: Redo Surgery and Valve-in-Valve in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-prosthetic-valve-failure.html"
+  },
+  {
+    "id": "conditions-pulmonary-hypertension",
+    "route": "/conditions/pulmonary-hypertension/",
+    "title": "Pulmonary Hypertension: Assessment and Treatment in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-pulmonary-hypertension.html"
+  },
+  {
+    "id": "conditions-rheumatic-heart-disease",
+    "route": "/conditions/rheumatic-heart-disease/",
+    "title": "Rheumatic Heart Disease: Treatment Options in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-rheumatic-heart-disease.html"
+  },
+  {
+    "id": "conditions-tetralogy-of-fallot",
+    "route": "/conditions/tetralogy-of-fallot/",
+    "title": "Tetralogy of Fallot: Surgery and Treatment in India | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/SUB PAGES/tib-hind-condition-tetralogy-of-fallot.html"
+  },
+  {
+    "id": "treatments-heart",
+    "route": "/treatments/heart/",
+    "title": "Heart Treatment in India: Cost, Hospitals and Recovery | TIB HIND",
+    "source": "1- TIB HIND- HEART TREATMENT/tib-hind-heart-treatment-2page.html"
+  },
+  {
+    "id": "conditions-gallstones",
+    "route": "/conditions/gallstones/",
+    "title": "Gallstones and Bile Duct Stones: Treatment in India | TIB HIND",
+    "source": "10- TIB HIND- LIVER AND DIGESTIVE/SUB PAGES/tib-hind-condition-gallstones.html"
+  },
+  {
+    "id": "conditions-hepatitis-b",
+    "route": "/conditions/hepatitis-b/",
+    "title": "Hepatitis B Treatment in India: Antivirals and Monitoring | TIB HIND",
+    "source": "10- TIB HIND- LIVER AND DIGESTIVE/SUB PAGES/tib-hind-condition-hepatitis-b.html"
+  },
+  {
+    "id": "conditions-ibd",
+    "route": "/conditions/ibd/",
+    "title": "Crohn's Disease and Ulcerative Colitis: Treatment in India | TIB HIND",
+    "source": "10- TIB HIND- LIVER AND DIGESTIVE/SUB PAGES/tib-hind-condition-ibd.html"
+  },
+  {
+    "id": "conditions-pancreatitis",
+    "route": "/conditions/pancreatitis/",
+    "title": "Pancreatitis: Acute and Chronic Treatment in India | TIB HIND",
+    "source": "10- TIB HIND- LIVER AND DIGESTIVE/SUB PAGES/tib-hind-condition-pancreatitis.html"
+  },
+  {
+    "id": "conditions-peptic-ulcer",
+    "route": "/conditions/peptic-ulcer/",
+    "title": "Peptic Ulcer and H. pylori: Treatment in India | TIB HIND",
+    "source": "10- TIB HIND- LIVER AND DIGESTIVE/SUB PAGES/tib-hind-condition-peptic-ulcer.html"
+  },
+  {
+    "id": "treatments-gastroenterology",
+    "route": "/treatments/gastroenterology/",
+    "title": "Liver and Digestive Treatment in India: Hepatitis, Endoscopy, Surgery | TIB HIND",
+    "source": "10- TIB HIND- LIVER AND DIGESTIVE/tib-hind-gastroenterology-page.html"
+  },
+  {
+    "id": "conditions-blood-cancers",
+    "route": "/conditions/blood-cancers/",
+    "title": "Leukaemia, Lymphoma and Myeloma Treatment in India | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-blood-cancers.html"
+  },
+  {
+    "id": "conditions-breast-cancer",
+    "route": "/conditions/breast-cancer/",
+    "title": "Breast Cancer Treatment in India: Surgery, Cost and Second Opinions | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-breast-cancer.html"
+  },
+  {
+    "id": "conditions-cervical-cancer",
+    "route": "/conditions/cervical-cancer/",
+    "title": "Cervical Cancer: Treatment Options in India | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-cervical-cancer.html"
+  },
+  {
+    "id": "conditions-childhood-cancer",
+    "route": "/conditions/childhood-cancer/",
+    "title": "Childhood Cancer Treatment in India: Leukaemia and Solid Tumours | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-childhood-cancer.html"
+  },
+  {
+    "id": "conditions-colorectal-cancer",
+    "route": "/conditions/colorectal-cancer/",
+    "title": "Colorectal Cancer Treatment in India: Surgery and Cost | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-colorectal-cancer.html"
+  },
+  {
+    "id": "conditions-gynaecological-cancer",
+    "route": "/conditions/gynaecological-cancer/",
+    "title": "Cervical and Ovarian Cancer Treatment in India | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-gynaecological-cancer.html"
+  },
+  {
+    "id": "conditions-head-and-neck-cancer",
+    "route": "/conditions/head-and-neck-cancer/",
+    "title": "Head and Neck Cancer Treatment in India: Oral and Throat | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-head-and-neck-cancer.html"
+  },
+  {
+    "id": "conditions-leukaemia",
+    "route": "/conditions/leukaemia/",
+    "title": "Leukaemia: Treatment and Bone Marrow Transplant in India | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-leukaemia.html"
+  },
+  {
+    "id": "conditions-liver-cancer",
+    "route": "/conditions/liver-cancer/",
+    "title": "Liver Cancer Treatment in India: Resection, Ablation and Transplant | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-liver-cancer.html"
+  },
+  {
+    "id": "conditions-lung-cancer",
+    "route": "/conditions/lung-cancer/",
+    "title": "Lung Cancer Treatment in India: Surgery, Targeted Therapy and Cost | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-lung-cancer.html"
+  },
+  {
+    "id": "conditions-stomach-oesophageal-cancer",
+    "route": "/conditions/stomach-oesophageal-cancer/",
+    "title": "Stomach and Oesophageal Cancer Treatment in India | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-stomach-oesophageal-cancer.html"
+  },
+  {
+    "id": "conditions-urological-cancer",
+    "route": "/conditions/urological-cancer/",
+    "title": "Prostate, Bladder and Kidney Cancer Treatment in India | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/SUB PAGES/tib-hind-condition-urological-cancer.html"
+  },
+  {
+    "id": "treatments-cancer",
+    "route": "/treatments/cancer/",
+    "title": "Cancer Treatment in India: Cost, Hospitals and Second Opinions | TIB HIND",
+    "source": "2- TIB HIND- CANCER TREATMENT/tib-hind-cancer-treatment-page.html"
+  },
+  {
+    "id": "conditions-acl-meniscus-injury",
+    "route": "/conditions/acl-meniscus-injury/",
+    "title": "ACL and Meniscus Injury: Surgery in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-acl-meniscus-injury.html"
+  },
+  {
+    "id": "conditions-ankylosing-spondylitis",
+    "route": "/conditions/ankylosing-spondylitis/",
+    "title": "Ankylosing Spondylitis: Treatment and Hip Surgery in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-ankylosing-spondylitis.html"
+  },
+  {
+    "id": "conditions-avascular-necrosis",
+    "route": "/conditions/avascular-necrosis/",
+    "title": "Avascular Necrosis of the Hip: Treatment in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-avascular-necrosis.html"
+  },
+  {
+    "id": "conditions-failed-joint-replacement",
+    "route": "/conditions/failed-joint-replacement/",
+    "title": "Failed Joint Replacement: Revision Surgery in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-failed-joint-replacement.html"
+  },
+  {
+    "id": "conditions-hip-fracture",
+    "route": "/conditions/hip-fracture/",
+    "title": "Hip Fracture in Older Adults: Treatment in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-hip-fracture.html"
+  },
+  {
+    "id": "conditions-hip-osteoarthritis",
+    "route": "/conditions/hip-osteoarthritis/",
+    "title": "Hip Osteoarthritis: Replacement Surgery in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-hip-osteoarthritis.html"
+  },
+  {
+    "id": "conditions-infected-joint-replacement",
+    "route": "/conditions/infected-joint-replacement/",
+    "title": "Infected Joint Replacement: Two-Stage Revision in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-infected-joint-replacement.html"
+  },
+  {
+    "id": "conditions-knee-osteoarthritis",
+    "route": "/conditions/knee-osteoarthritis/",
+    "title": "Knee Osteoarthritis: Treatment and Replacement in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-knee-osteoarthritis.html"
+  },
+  {
+    "id": "conditions-paediatric-hip-conditions",
+    "route": "/conditions/paediatric-hip-conditions/",
+    "title": "Hip Dysplasia and Perthes Disease in Children: Treatment in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-paediatric-hip-conditions.html"
+  },
+  {
+    "id": "conditions-rheumatoid-arthritis",
+    "route": "/conditions/rheumatoid-arthritis/",
+    "title": "Rheumatoid Arthritis: Joint Surgery and Treatment in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-rheumatoid-arthritis.html"
+  },
+  {
+    "id": "conditions-rotator-cuff-shoulder",
+    "route": "/conditions/rotator-cuff-shoulder/",
+    "title": "Rotator Cuff Tears and Shoulder Replacement in India | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/SUB PAGES/tib-hind-condition-rotator-cuff-shoulder.html"
+  },
+  {
+    "id": "cost-joint-replacement",
+    "route": "/cost/joint-replacement/",
+    "title": "Knee and Hip Replacement Cost in India: Published Ranges | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/tib-hind-cost-joint-replacement.html"
+  },
+  {
+    "id": "treatments-orthopaedics",
+    "route": "/treatments/orthopaedics/",
+    "title": "Joint Replacement in India: Knee, Hip, Cost and Recovery | TIB HIND",
+    "source": "3- TIB HIND- JOINT REPLACEMENT/tib-hind-orthopaedics-page.html"
+  },
+  {
+    "id": "conditions-acoustic-neuroma",
+    "route": "/conditions/acoustic-neuroma/",
+    "title": "Acoustic Neuroma: Surgery and Radiosurgery in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-acoustic-neuroma.html"
+  },
+  {
+    "id": "conditions-brain-aneurysm",
+    "route": "/conditions/brain-aneurysm/",
+    "title": "Brain Aneurysm and AVM Treatment in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-brain-aneurysm.html"
+  },
+  {
+    "id": "conditions-brain-tumours",
+    "route": "/conditions/brain-tumours/",
+    "title": "Brain Tumour Treatment in India: Surgery and Cost | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-brain-tumours.html"
+  },
+  {
+    "id": "conditions-cns-tuberculosis",
+    "route": "/conditions/cns-tuberculosis/",
+    "title": "Brain and Spinal Tuberculosis: Treatment in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-cns-tuberculosis.html"
+  },
+  {
+    "id": "conditions-epilepsy-surgery",
+    "route": "/conditions/epilepsy-surgery/",
+    "title": "Drug-Resistant Epilepsy: Surgery and Evaluation in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-epilepsy-surgery.html"
+  },
+  {
+    "id": "conditions-glioma",
+    "route": "/conditions/glioma/",
+    "title": "Glioma and Brain Tumour Surgery in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-glioma.html"
+  },
+  {
+    "id": "conditions-hydrocephalus",
+    "route": "/conditions/hydrocephalus/",
+    "title": "Hydrocephalus Treatment in India: Shunt and Endoscopic Surgery | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-hydrocephalus.html"
+  },
+  {
+    "id": "conditions-meningioma",
+    "route": "/conditions/meningioma/",
+    "title": "Meningioma: Surgery, Radiosurgery and Observation in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-meningioma.html"
+  },
+  {
+    "id": "conditions-paediatric-brain-tumours",
+    "route": "/conditions/paediatric-brain-tumours/",
+    "title": "Brain Tumours in Children: Surgery and Treatment in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-paediatric-brain-tumours.html"
+  },
+  {
+    "id": "conditions-parkinsons-disease",
+    "route": "/conditions/parkinsons-disease/",
+    "title": "Parkinson's Disease and Deep Brain Stimulation in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-parkinsons-disease.html"
+  },
+  {
+    "id": "conditions-pituitary-tumours",
+    "route": "/conditions/pituitary-tumours/",
+    "title": "Pituitary Tumour Treatment in India: Endoscopic Surgery | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-pituitary-tumours.html"
+  },
+  {
+    "id": "conditions-stroke",
+    "route": "/conditions/stroke/",
+    "title": "Stroke: Treatment, Rehabilitation and Prevention in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-stroke.html"
+  },
+  {
+    "id": "conditions-trigeminal-neuralgia",
+    "route": "/conditions/trigeminal-neuralgia/",
+    "title": "Trigeminal Neuralgia: Treatment and Surgery in India | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/SUB PAGES/tib-hind-condition-trigeminal-neuralgia.html"
+  },
+  {
+    "id": "treatments-neurosurgery",
+    "route": "/treatments/neurosurgery/",
+    "title": "Neurosurgery in India: Brain Tumour, Aneurysm and DBS | TIB HIND",
+    "source": "4- TIB HIND- NEURO SURGERY/tib-hind-neurosurgery-page.html"
+  },
+  {
+    "id": "conditions-acute-liver-failure",
+    "route": "/conditions/acute-liver-failure/",
+    "title": "Acute Liver Failure: Emergency Treatment and Transplant | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-acute-liver-failure.html"
+  },
+  {
+    "id": "conditions-biliary-atresia",
+    "route": "/conditions/biliary-atresia/",
+    "title": "Biliary Atresia: Kasai Surgery and Liver Transplant in India | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-biliary-atresia.html"
+  },
+  {
+    "id": "conditions-diabetic-kidney-disease",
+    "route": "/conditions/diabetic-kidney-disease/",
+    "title": "Diabetic Kidney Disease: Treatment and Transplant in India | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-diabetic-kidney-disease.html"
+  },
+  {
+    "id": "conditions-end-stage-kidney-disease",
+    "route": "/conditions/end-stage-kidney-disease/",
+    "title": "End-Stage Kidney Disease: Transplant in India | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-end-stage-kidney-disease.html"
+  },
+  {
+    "id": "conditions-glomerulonephritis",
+    "route": "/conditions/glomerulonephritis/",
+    "title": "Glomerulonephritis and IgA Nephropathy: Treatment in India | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-glomerulonephritis.html"
+  },
+  {
+    "id": "conditions-hepatitis-c",
+    "route": "/conditions/hepatitis-c/",
+    "title": "Hepatitis C Treatment in India: Cure With Tablets | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-hepatitis-c.html"
+  },
+  {
+    "id": "conditions-liver-cirrhosis",
+    "route": "/conditions/liver-cirrhosis/",
+    "title": "Liver Cirrhosis: Transplant Assessment and Treatment in India | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-liver-cirrhosis.html"
+  },
+  {
+    "id": "conditions-living-donor",
+    "route": "/conditions/living-donor/",
+    "title": "Becoming a Living Organ Donor: Risks, Law and Assessment | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-living-donor.html"
+  },
+  {
+    "id": "conditions-metabolic-liver-disease",
+    "route": "/conditions/metabolic-liver-disease/",
+    "title": "Metabolic Liver Disease in Children: Transplant in India | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-metabolic-liver-disease.html"
+  },
+  {
+    "id": "conditions-polycystic-kidney-disease",
+    "route": "/conditions/polycystic-kidney-disease/",
+    "title": "Polycystic Kidney Disease: Treatment and Transplant in India | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/SUB PAGES/tib-hind-condition-polycystic-kidney-disease.html"
+  },
+  {
+    "id": "treatments-transplant",
+    "route": "/treatments/transplant/",
+    "title": "Organ Transplant in India: Liver and Kidney, and the Law | TIB HIND",
+    "source": "5- TIB HIND- ORGAN TRANSPLANT/tib-hind-transplant-page.html"
+  },
+  {
+    "id": "conditions-aplastic-anemia",
+    "route": "/conditions/aplastic-anemia/",
+    "title": "Aplastic anaemia and bone marrow transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/CHATGPT- tib-hind-bone-marrow-transplant-pages-updated/tib-hind-condition-aplastic-anemia.html"
+  },
+  {
+    "id": "conditions-leukemia",
+    "route": "/conditions/leukemia/",
+    "title": "Leukaemia and stem cell transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/CHATGPT- tib-hind-bone-marrow-transplant-pages-updated/tib-hind-condition-leukemia.html"
+  },
+  {
+    "id": "conditions-lymphoma-multiple-myeloma",
+    "route": "/conditions/lymphoma-multiple-myeloma/",
+    "title": "Lymphoma and multiple myeloma stem cell transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/CHATGPT- tib-hind-bone-marrow-transplant-pages-updated/tib-hind-condition-lymphoma-multiple-myeloma.html"
+  },
+  {
+    "id": "conditions-sickle-cell-disease",
+    "route": "/conditions/sickle-cell-disease/",
+    "title": "Sickle cell disease and bone marrow transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/CHATGPT- tib-hind-bone-marrow-transplant-pages-updated/tib-hind-condition-sickle-cell-disease.html"
+  },
+  {
+    "id": "conditions-aplastic-anaemia",
+    "route": "/conditions/aplastic-anaemia/",
+    "title": "Aplastic Anaemia: Bone Marrow Transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/SUB PAGES/tib-hind-condition-aplastic-anaemia.html"
+  },
+  {
+    "id": "conditions-multiple-myeloma",
+    "route": "/conditions/multiple-myeloma/",
+    "title": "Multiple Myeloma: Autologous Stem Cell Transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/SUB PAGES/tib-hind-condition-multiple-myeloma.html"
+  },
+  {
+    "id": "conditions-myelodysplastic-syndrome",
+    "route": "/conditions/myelodysplastic-syndrome/",
+    "title": "Myelodysplastic Syndromes: Transplant and Treatment in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/SUB PAGES/tib-hind-condition-myelodysplastic-syndrome.html"
+  },
+  {
+    "id": "conditions-primary-immunodeficiency",
+    "route": "/conditions/primary-immunodeficiency/",
+    "title": "Primary Immunodeficiency in Children: Transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/SUB PAGES/tib-hind-condition-primary-immunodeficiency.html"
+  },
+  {
+    "id": "conditions-sickle-cell",
+    "route": "/conditions/sickle-cell/",
+    "title": "Sickle Cell Disease: Bone Marrow Transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/SUB PAGES/tib-hind-condition-sickle-cell.html"
+  },
+  {
+    "id": "conditions-thalassemia",
+    "route": "/conditions/thalassemia/",
+    "title": "Thalassemia Major: Bone Marrow Transplant in India | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/SUB PAGES/tib-hind-condition-thalassemia.html"
+  },
+  {
+    "id": "treatments-bone-marrow-transplant",
+    "route": "/treatments/bone-marrow-transplant/",
+    "title": "Bone Marrow Transplant in India: Thalassemia, Sickle Cell and Leukaemia | TIB HIND",
+    "source": "6- TIB HIND- BONE MARROW TRANSPLANT/tib-hind-bone-marrow-transplant-page---.html"
+  },
+  {
+    "id": "conditions-cervical-myelopathy",
+    "route": "/conditions/cervical-myelopathy/",
+    "title": "Cervical Myelopathy and Neck Pain: Surgery in India | TIB HIND",
+    "source": "7- TIB HIND- SPINE SURGERY/SUB PAGES/tib-hind-condition-cervical-myelopathy.html"
+  },
+  {
+    "id": "conditions-scoliosis",
+    "route": "/conditions/scoliosis/",
+    "title": "Scoliosis and Spinal Deformity Surgery in India | TIB HIND",
+    "source": "7- TIB HIND- SPINE SURGERY/SUB PAGES/tib-hind-condition-scoliosis.html"
+  },
+  {
+    "id": "conditions-slipped-disc",
+    "route": "/conditions/slipped-disc/",
+    "title": "Slipped Disc and Sciatica: Treatment in India | TIB HIND",
+    "source": "7- TIB HIND- SPINE SURGERY/SUB PAGES/tib-hind-condition-slipped-disc.html"
+  },
+  {
+    "id": "conditions-spinal-stenosis",
+    "route": "/conditions/spinal-stenosis/",
+    "title": "Lumbar Spinal Stenosis: Decompression Surgery in India | TIB HIND",
+    "source": "7- TIB HIND- SPINE SURGERY/SUB PAGES/tib-hind-condition-spinal-stenosis.html"
+  },
+  {
+    "id": "conditions-spinal-tuberculosis",
+    "route": "/conditions/spinal-tuberculosis/",
+    "title": "Spinal Tuberculosis (Pott's Spine): Treatment in India | TIB HIND",
+    "source": "7- TIB HIND- SPINE SURGERY/SUB PAGES/tib-hind-condition-spinal-tuberculosis.html"
+  },
+  {
+    "id": "conditions-spondylolisthesis",
+    "route": "/conditions/spondylolisthesis/",
+    "title": "Spondylolisthesis: Fusion and Decompression in India | TIB HIND",
+    "source": "7- TIB HIND- SPINE SURGERY/SUB PAGES/tib-hind-condition-spondylolisthesis.html"
+  },
+  {
+    "id": "treatments-spine-surgery",
+    "route": "/treatments/spine-surgery/",
+    "title": "Spine Surgery in India: Disc, Stenosis, Fusion and Deformity | TIB HIND",
+    "source": "7- TIB HIND- SPINE SURGERY/tib-hind-spine-surgery-page.html"
+  },
+  {
+    "id": "conditions-blocked-tubes",
+    "route": "/conditions/blocked-tubes/",
+    "title": "Blocked Fallopian Tubes: IVF and Surgery in India | TIB HIND",
+    "source": "8- TIB HIND- IVF TREATMENT/SUB PAGES/tib-hind-condition-blocked-tubes.html"
+  },
+  {
+    "id": "conditions-endometriosis",
+    "route": "/conditions/endometriosis/",
+    "title": "Endometriosis and Fertility: Treatment in India | TIB HIND",
+    "source": "8- TIB HIND- IVF TREATMENT/SUB PAGES/tib-hind-condition-endometriosis.html"
+  },
+  {
+    "id": "conditions-male-infertility",
+    "route": "/conditions/male-infertility/",
+    "title": "Male Infertility: Diagnosis and Treatment in India | TIB HIND",
+    "source": "8- TIB HIND- IVF TREATMENT/SUB PAGES/tib-hind-condition-male-infertility.html"
+  },
+  {
+    "id": "conditions-pcos",
+    "route": "/conditions/pcos/",
+    "title": "PCOS and Fertility: Treatment in India | TIB HIND",
+    "source": "8- TIB HIND- IVF TREATMENT/SUB PAGES/tib-hind-condition-pcos.html"
+  },
+  {
+    "id": "conditions-recurrent-miscarriage",
+    "route": "/conditions/recurrent-miscarriage/",
+    "title": "Recurrent Miscarriage: Investigation and Treatment in India | TIB HIND",
+    "source": "8- TIB HIND- IVF TREATMENT/SUB PAGES/tib-hind-condition-recurrent-miscarriage.html"
+  },
+  {
+    "id": "conditions-unexplained-infertility",
+    "route": "/conditions/unexplained-infertility/",
+    "title": "Unexplained Infertility: What to Do Next in India | TIB HIND",
+    "source": "8- TIB HIND- IVF TREATMENT/SUB PAGES/tib-hind-condition-unexplained-infertility.html"
+  },
+  {
+    "id": "treatments-fertility",
+    "route": "/treatments/fertility/",
+    "title": "IVF and Fertility Treatment in India: What the Law Allows | TIB HIND",
+    "source": "8- TIB HIND- IVF TREATMENT/tib-hind-fertility-page.html"
+  },
+  {
+    "id": "treatments-bariatric-surgery",
+    "route": "/treatments/bariatric-surgery/",
+    "title": "Bariatric and Metabolic Surgery in India: Sleeve and Bypass | TIB HIND",
+    "source": "9- TIB HIND- BARIATRIC AND METABOLIC SURGERY/SUB PAGES/tib-hind-bariatric-surgery-page.html"
+  },
+  {
+    "id": "conditions-fatty-liver",
+    "route": "/conditions/fatty-liver/",
+    "title": "Fatty Liver Disease: Treatment and Surgery in India | TIB HIND",
+    "source": "9- TIB HIND- BARIATRIC AND METABOLIC SURGERY/tib-hind-condition-fatty-liver.html"
+  },
+  {
+    "id": "conditions-severe-obesity",
+    "route": "/conditions/severe-obesity/",
+    "title": "Severe Obesity: Assessment and Surgical Eligibility in India | TIB HIND",
+    "source": "9- TIB HIND- BARIATRIC AND METABOLIC SURGERY/tib-hind-condition-severe-obesity.html"
+  },
+  {
+    "id": "conditions-sleep-apnoea",
+    "route": "/conditions/sleep-apnoea/",
+    "title": "Obstructive Sleep Apnoea: Diagnosis and Treatment in India | TIB HIND",
+    "source": "9- TIB HIND- BARIATRIC AND METABOLIC SURGERY/tib-hind-condition-sleep-apnoea.html"
+  },
+  {
+    "id": "conditions-type-2-diabetes",
+    "route": "/conditions/type-2-diabetes/",
+    "title": "Type 2 Diabetes and Metabolic Surgery in India | TIB HIND",
+    "source": "9- TIB HIND- BARIATRIC AND METABOLIC SURGERY/tib-hind-condition-type-2-diabetes.html"
+  },
+  {
+    "id": "conditions-weight-regain",
+    "route": "/conditions/weight-regain/",
+    "title": "Weight Regain After Bariatric Surgery: Assessment and Revision | TIB HIND",
+    "source": "9- TIB HIND- BARIATRIC AND METABOLIC SURGERY/tib-hind-condition-weight-regain.html"
+  },
+  {
+    "id": "conditions",
+    "route": "/conditions/",
+    "title": "All Condition Pages — TIB HIND",
+    "source": "tib-hind-ALL-CONDITIONS-INDEX.html"
+  },
+  {
+    "id": "home",
+    "route": "/",
+    "title": "Medical Treatment in India, Reviewed by a Doctor | TIB HIND",
+    "source": "tib-hind-homepage-preview (2).html"
+  },
+  {
+    "id": "treatments",
+    "route": "/treatments/",
+    "title": "Medical Treatments in India for International Patients | TIB HIND",
+    "source": "tib-hind-treatments-page.html"
+  }
+]
