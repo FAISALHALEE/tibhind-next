@@ -1,0 +1,1848 @@
+[
+  {
+    "route": "/about/",
+    "id": "about",
+    "canonical": "https://tibhind.com/about/",
+    "crumb": "About",
+    "title": "About TIB HIND | Clinician-led medical travel to Delhi NCR",
+    "description": "TIB HIND is a clinician-led medical travel company in Delhi NCR. A US board-certified physician reads every case, and our fees are published — hospitals pay us, not patients.",
+    "h1": "About TIB HIND",
+    "lede": "TIB HIND is a clinician-led medical travel company based in New Delhi. A US board-certified physician reads every case before any hospital or price is discussed.",
+    "heroBody": "Most medical travel agencies are run by sales teams. TIB HIND is different: a clinician leads the review of your reports, our fees are published, and we are paid by hospitals — not by patients. We have guided more than 5,000 patients through treatment in Delhi NCR, working only with NABH- and JCI-accredited hospitals.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Patients guided",
+        "v": "5,000+",
+        "d": "Through treatment in Delhi NCR"
+      },
+      {
+        "k": "Written opinion",
+        "v": "48 hours",
+        "d": "With costs, after physician review"
+      },
+      {
+        "k": "Hospitals",
+        "v": "NABH & JCI",
+        "d": "Accredited facilities only"
+      }
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who we are",
+        "h": "Who TIB HIND is",
+        "ps": [
+          "TIB HIND Healthcare is a clinician-led medical travel company registered in New Delhi, Delhi 110001, India. We guide international patients through treatment in Delhi NCR — from the first review of their reports to follow-up after discharge.",
+          "We are not a hospital and we are not an insurer. We are a coordination team led by a physician, with care coordinators, translators and visa staff around her."
+        ]
+      },
+      {
+        "id": "model",
+        "label": "The clinician-led model",
+        "h": "A doctor first, a salesperson never",
+        "ps": [
+          "Every case that reaches TIB HIND is read by Dr. Annie Varughese, a US board-certified interventional cardiologist, before any hospital or price is discussed. No file is forwarded for a quote until she has seen it.",
+          "That single rule removes the incentive to push you toward a particular hospital. The recommendation follows a clinical review of your reports, not a commission structure."
+        ],
+        "ul": [
+          "Reports are read by a physician, not a sales team",
+          "No hospital or price talk before clinical review",
+          "You receive a written opinion with costs within 48 hours"
+        ]
+      },
+      {
+        "id": "delhi",
+        "label": "Why Delhi NCR",
+        "h": "Why Delhi NCR",
+        "ps": [
+          "Delhi NCR is home to some of India's largest JCI- and NABH-accredited hospitals, with internationally trained surgeons and the case volumes that build real experience.",
+          "Flights land directly in Delhi, the region is well connected, and costs remain a fraction of what the same treatment would cost in most Western countries — without the wait."
+        ]
+      },
+      {
+        "id": "paid",
+        "label": "How we are paid",
+        "h": "How TIB HIND is paid",
+        "ps": [
+          "Our fees are published and our model is simple: hospitals and partner facilities pay TIB HIND a coordination fee built into their pricing. You pay the hospital invoice directly.",
+          "This means you are not paying us a commission on top of your treatment, and there is no incentive for us to recommend an expensive hospital. Read the full disclosure on our how-we-are-paid page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who reads my reports before I get a quote?",
+        "a": "Dr. Annie Varughese, MD, FACC — a US board-certified interventional cardiologist and TIB HIND's medical director. She reads every file personally."
+      },
+      {
+        "q": "Is TIB HIND a hospital?",
+        "a": "No. We are a medical travel company that coordinates treatment at NABH- and JCI-accredited hospitals in Delhi NCR."
+      },
+      {
+        "q": "Do you charge patients for your services?",
+        "a": "No. Our coordination fee is paid by the hospitals and partner facilities. Patients pay hospital invoices directly."
+      }
+    ],
+    "faqTitle": "About TIB HIND",
+    "related": [
+      {
+        "href": "/about/dr-annie-varughese/",
+        "c": "#2E6E6E",
+        "ic": "doccheck",
+        "t": "Dr. Annie Varughese, MD, FACC",
+        "d": "The physician who reads every case"
+      },
+      {
+        "href": "/how-we-select/",
+        "c": "#3D6B8A",
+        "ic": "shield",
+        "t": "How we select hospitals",
+        "d": "Our vetting criteria, in writing"
+      },
+      {
+        "href": "/how-we-are-paid/",
+        "c": "#8A6A28",
+        "ic": "doc",
+        "t": "How we are paid",
+        "d": "Hospitals pay us, not you"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/about/dr-annie-varughese/",
+    "id": "about-dr-annie-varughese",
+    "canonical": "https://tibhind.com/about/dr-annie-varughese/",
+    "crumb": "Dr. Annie Varughese",
+    "title": "Dr. Annie Varughese, MD, FACC | Medical director, TIB HIND",
+    "description": "Dr. Annie Varughese is a US board-certified interventional cardiologist and medical director of TIB HIND. She reads every case file personally before any hospital or price discussion.",
+    "h1": "Dr. Annie Varughese, MD, FACC",
+    "lede": "Dr. Annie Varughese is a US board-certified interventional cardiologist and the medical director of TIB HIND. She reads every case file personally before any hospital or price is discussed.",
+    "heroBody": "Dr. Annie Varughese is a partner at TIB HIND and a Fellow of the American College of Cardiology (FACC). As medical director, she reviews every file that reaches TIB HIND before we approach any hospital or share any estimate.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports for review"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Board certification",
+        "v": "US",
+        "d": "Interventional cardiology, American Board of Internal Medicine"
+      },
+      {
+        "k": "Role",
+        "v": "Medical director",
+        "d": "Reads every case file at TIB HIND"
+      },
+      {
+        "k": "Languages",
+        "v": "English, Malayalam, Hindi",
+        "d": "For patient consultations"
+      }
+    ],
+    "sections": [
+      {
+        "id": "background",
+        "label": "Background",
+        "h": "Background",
+        "ps": [
+          "Dr. Annie Varughese is a US board-certified interventional cardiologist and a Fellow of the American College of Cardiology. She trained and practiced in the United States before returning to India.",
+          "Her clinical work focuses on coronary and structural heart disease, and she continues to practice alongside her role at TIB HIND."
+        ]
+      },
+      {
+        "id": "approach",
+        "label": "Clinical approach",
+        "h": "Clinical approach",
+        "ps": [
+          "Dr. Varughese reads reports the way a treating physician would: she looks for what is missing, what is urgent and what is genuinely actionable — not what is impressive.",
+          "Her review focuses on whether treatment is needed at all, what the realistic options are, and which level of hospital is appropriate for the case. Where surgery is not the right answer, she says so."
+        ],
+        "ul": [
+          "Every case read personally before hospital or price talk",
+          "Independent clinical judgement, not commission-driven",
+          "Clear written opinion with costs within 48 hours"
+        ]
+      },
+      {
+        "id": "role",
+        "label": "Role at TIB HIND",
+        "h": "Role at TIB HIND",
+        "ps": [
+          "As medical director and a partner of TIB HIND, Dr. Varughese is responsible for the clinical review of every case that reaches us.",
+          "She also reviews the content published on tibhind.com, including treatment and condition pages, as described in our editorial policy. No file moves forward, and no article is published, without her sign-off."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Dr. Varughese treat patients at the hospitals?",
+        "a": "She practices as a cardiologist, but the treating team at your hospital is chosen by you and the hospital. Her role at TIB HIND is to review your reports and guide your case."
+      },
+      {
+        "q": "Will she personally read my file?",
+        "a": "Yes. Every file sent to TIB HIND is read by Dr. Varughese before any hospital or price is discussed."
+      },
+      {
+        "q": "In which languages can she consult with me?",
+        "a": "English, Malayalam and Hindi. For Arabic, Russian and Bengali, our care coordinators translate during consultations."
+      }
+    ],
+    "faqTitle": "About Dr. Varughese",
+    "related": [
+      {
+        "href": "/about/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "About TIB HIND",
+        "d": "Our clinician-led model"
+      },
+      {
+        "href": "/how-we-select/",
+        "c": "#3D6B8A",
+        "ic": "shield",
+        "t": "How we select hospitals",
+        "d": "How we vet hospitals and surgeons"
+      },
+      {
+        "href": "/editorial-policy/",
+        "c": "#8A6A28",
+        "ic": "doccheck",
+        "t": "Editorial policy",
+        "d": "Who reviews what we publish"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/contact/",
+    "id": "contact",
+    "canonical": "https://tibhind.com/contact/",
+    "crumb": "Contact",
+    "title": "Contact TIB HIND | Send your reports for a free written opinion",
+    "description": "Email tibhind@gmail.com or WhatsApp +91 83035 86344. Send your reports, scans and discharge summary — a US board-certified physician reviews them free within 48 hours.",
+    "h1": "Contact TIB HIND",
+    "lede": "Send your medical reports and we will have them read by a US board-certified physician. A written opinion with costs comes back within 48 hours — free and without obligation.",
+    "heroBody": "The fastest way to reach us is WhatsApp or email. You do not need a referral or a fixed appointment — just send what you have and we will tell you exactly what we need next.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Start with your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Response time",
+        "v": "48 hours",
+        "d": "Written opinion with costs"
+      },
+      {
+        "k": "Availability",
+        "v": "7 days/week",
+        "d": "Reports reviewed every day"
+      },
+      {
+        "k": "First opinion",
+        "v": "Free",
+        "d": "No charge for physician review"
+      }
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "What to send",
+        "h": "What to send",
+        "ps": [
+          "The more complete your file, the faster and more accurate the review. You can start with whatever you have and add the rest later."
+        ],
+        "ul": [
+          "Latest medical reports and prescriptions",
+          "Scans on CD, USB or as digital files (CT, MRI, X-ray)",
+          "Discharge summary from any previous treatment",
+          "A copy of the passport data page",
+          "Your country and preferred language"
+        ]
+      },
+      {
+        "id": "reach",
+        "label": "How to reach us",
+        "h": "How to reach us",
+        "ps": [
+          "Email: <b>tibhind@gmail.com</b>",
+          "WhatsApp and phone: <b>+91 83035 86344</b>",
+          "Address: TIB HIND Healthcare, New Delhi, Delhi 110001, India"
+        ],
+        "ul": [
+          "Arabic, English, Russian and Bengali spoken",
+          "Our team replies within 24 hours on working days"
+        ]
+      },
+      {
+        "id": "after",
+        "label": "What happens next",
+        "h": "What happens next",
+        "ps": [
+          "Once we receive your reports, Dr. Annie Varughese reviews them personally. Within 48 hours you receive a written opinion with estimated costs.",
+          "If you wish to proceed, we move to the next step — shortlisting accredited hospitals, arranging your medical visa invitation and planning your travel to Delhi NCR."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Do you charge for the first opinion?",
+        "a": "No. The physician review and the written opinion with costs are free and without obligation."
+      },
+      {
+        "q": "Do you arrange travel and accommodation?",
+        "a": "Yes. Once your treatment plan is confirmed, we help with medical visas, flights, airport pickup and accommodation near the hospital."
+      },
+      {
+        "q": "Which languages do you support?",
+        "a": "Arabic, English, Russian and Bengali."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/how-it-works/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "How it works",
+        "d": "Seven steps from reports to follow-up"
+      },
+      {
+        "href": "/medical-visa/",
+        "c": "#3D6B8A",
+        "ic": "plane",
+        "t": "Medical visas",
+        "d": "Invitation letters for eight countries"
+      },
+      {
+        "href": "/faq/",
+        "c": "#8A6A28",
+        "ic": "heart",
+        "t": "Frequently asked questions",
+        "d": "Plain answers, no hype"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/faq/",
+    "id": "faq",
+    "canonical": "https://tibhind.com/faq/",
+    "crumb": "FAQ",
+    "title": "Frequently asked questions | TIB HIND",
+    "description": "Plain answers on how TIB HIND works, treatment costs in Delhi NCR, hospitals, medical visas, payments and safety. Clinician-led, transparent, no hype.",
+    "h1": "Frequently asked questions",
+    "lede": "Straight answers about how TIB HIND works, what treatment in Delhi NCR costs, and what we do for you.",
+    "heroBody": "If your question is not here, write to us at tibhind@gmail.com or WhatsApp +91 83035 86344 — a real person answers.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Ask us directly"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20have%20a%20question%20about%20treatment%20in%20Delhi",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Response time",
+        "v": "48 hours",
+        "d": "Written opinion with costs"
+      },
+      {
+        "k": "Patients guided",
+        "v": "5,000+",
+        "d": "Through treatment in Delhi NCR"
+      },
+      {
+        "k": "Patient fee",
+        "v": "None",
+        "d": "Hospitals pay us, not you"
+      }
+    ],
+    "sections": [
+      {
+        "id": "basics",
+        "label": "The basics",
+        "h": "The basics",
+        "ps": [
+          "Below are the questions we hear most often. Each answer links to a page with the full detail."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "How does TIB HIND work?",
+        "a": "You send your reports, a US board-certified physician reads them, you get a written opinion with costs within 48 hours, and we then coordinate hospital selection, your medical visa, travel and treatment. See the how-it-works page for all seven steps."
+      },
+      {
+        "q": "How much does treatment cost?",
+        "a": "Costs depend on the condition and the hospital. You receive a written estimate with your opinion within 48 hours, before you commit to anything. See our cost pages for typical ranges."
+      },
+      {
+        "q": "What does TIB HIND charge me?",
+        "a": "Nothing. Our coordination fee is paid by the hospitals and partner facilities. Patients pay hospital invoices directly."
+      },
+      {
+        "q": "Which hospitals do you work with?",
+        "a": "Only NABH- and JCI-accredited hospitals in Delhi NCR, vetted on surgical volume, outcomes, written protocols and price transparency. See how we select hospitals."
+      },
+      {
+        "q": "Do you help with a medical visa?",
+        "a": "Yes. We provide medical visa invitation letters for patients from Iraq, Bangladesh, Uzbekistan, Oman, Yemen, Sudan, Ghana and Ethiopia, and help with the supporting documents."
+      },
+      {
+        "q": "How do I pay the hospital?",
+        "a": "You pay the hospital directly, by bank transfer or at the hospital. TIB HIND never collects your treatment payment."
+      },
+      {
+        "q": "Is medical treatment in Delhi NCR safe?",
+        "a": "Delhi NCR has some of India's largest accredited hospitals with internationally trained surgeons. Every case is reviewed by a physician first, and you choose the hospital before anything is booked."
+      },
+      {
+        "q": "Why Delhi NCR?",
+        "a": "World-class accredited hospitals, direct international flights, a fraction of Western prices and no long waiting lists — with a coordinator on the ground for your whole stay."
+      },
+      {
+        "q": "How are you paid, exactly?",
+        "a": "Hospitals pay us a coordination fee built into their published pricing. We do not earn commissions from patients, and our fees are published. Full disclosure on the how-we-are-paid page."
+      },
+      {
+        "q": "Who reads my reports?",
+        "a": "Dr. Annie Varughese, MD, FACC — a US board-certified interventional cardiologist and TIB HIND's medical director. She reads every file personally."
+      }
+    ],
+    "faqTitle": "Common questions",
+    "related": [
+      {
+        "href": "/how-it-works/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "How it works",
+        "d": "Seven steps, from reports to follow-up"
+      },
+      {
+        "href": "/cost/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "Treatment costs",
+        "d": "Published pricing and estimates"
+      },
+      {
+        "href": "/contact/",
+        "c": "#8A6A28",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Send your reports today"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/how-it-works/",
+    "id": "how-it-works",
+    "canonical": "https://tibhind.com/how-it-works/",
+    "crumb": "How it works",
+    "title": "How TIB HIND works | From reports to treatment in seven steps",
+    "description": "Send reports, a US board-certified physician reads them, a written opinion with costs in 48 hours, a hospital proposal, travel and visa help, treatment, follow-up.",
+    "h1": "How TIB HIND works",
+    "lede": "Seven clear steps between your first email and your follow-up after treatment. You always know who is doing what and what it costs.",
+    "heroBody": "Every step below is free until you decide to proceed. Nothing is booked, and nothing is paid, before you have seen a written opinion and a hospital proposal.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Start step one"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Step 3",
+        "v": "48 hours",
+        "d": "Written opinion with costs"
+      },
+      {
+        "k": "Step 1",
+        "v": "Free",
+        "d": "Sending your reports"
+      },
+      {
+        "k": "Hospital choice",
+        "v": "Yours",
+        "d": "You decide before anything is booked"
+      }
+    ],
+    "sections": [
+      {
+        "id": "steps",
+        "label": "The seven steps",
+        "h": "Seven steps from reports to follow-up",
+        "ul": [
+          "1. Send your reports — email or WhatsApp your medical reports, scans, discharge summary and a copy of the passport data page.",
+          "2. A doctor reads them — Dr. Annie Varughese, MD, FACC, reviews your file personally, in confidence.",
+          "3. Written opinion within 48 hours — you receive a written opinion with estimated costs, free and without obligation.",
+          "4. Hospital proposal — if you wish to proceed, we shortlist NABH- or JCI-accredited hospitals and share a written proposal.",
+          "5. Travel and visa — we provide the medical visa invitation letter and help with flights and accommodation.",
+          "6. Treatment — you travel to Delhi NCR and our coordinator stays with you from admission to discharge.",
+          "7. Follow-up — we help with discharge summaries, medicines, travel documents and remote follow-up with your treating team."
+        ]
+      },
+      {
+        "id": "notes",
+        "label": "Notes on the process",
+        "h": "What to know before you start",
+        "ps": [
+          "The first three steps are free and there is no obligation to continue. We do not share your reports with any hospital until you have seen the opinion and asked us to proceed.",
+          "You pay the hospital directly, and only for treatment. TIB HIND's coordination fee is covered by the hospital — see the how-we-are-paid page for the full disclosure."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What if my reports are incomplete?",
+        "a": "Send what you have. The reviewing physician will tell you exactly which additional reports, scans or tests are needed before a reliable opinion is possible."
+      },
+      {
+        "q": "Am I obliged to continue after the opinion?",
+        "a": "No. The opinion is free, and you decide whether to proceed. Many patients use it for a second opinion at home."
+      },
+      {
+        "q": "How long does the whole process take?",
+        "a": "The opinion arrives within 48 hours. Treatment itself depends on your condition and the hospital's schedule — most patients travel within a few weeks of deciding to proceed."
+      }
+    ],
+    "faqTitle": "Questions about the process",
+    "related": [
+      {
+        "href": "/contact/",
+        "c": "#2E6E6E",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Send your reports to begin"
+      },
+      {
+        "href": "/cost/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "Treatment costs",
+        "d": "What treatment in Delhi NCR costs"
+      },
+      {
+        "href": "/medical-visa/",
+        "c": "#8A6A28",
+        "ic": "plane",
+        "t": "Medical visas",
+        "d": "Invitation letters for eight countries"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/how-we-are-paid/",
+    "id": "how-we-are-paid",
+    "canonical": "https://tibhind.com/how-we-are-paid/",
+    "crumb": "How we are paid",
+    "title": "How TIB HIND is paid | Hospitals pay us, not patients",
+    "description": "Full disclosure: TIB HIND is paid by hospitals and partner facilities. Patients pay hospital invoices directly. No hidden commission from patients, published fees.",
+    "h1": "How TIB HIND is paid",
+    "lede": "TIB HIND is paid by the hospitals and partner facilities we work with. You pay the hospital invoice directly, and nothing is hidden.",
+    "heroBody": "We believe a medical travel company should be paid transparently. This page is the full disclosure of how we earn money and how we do not.",
+    "cta": {
+      "solid": {
+        "href": "/cost/",
+        "label": "See published fees"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20ask%20about%20fees",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Who pays us",
+        "v": "Hospitals",
+        "d": "Coordination fee built into hospital pricing"
+      },
+      {
+        "k": "What you pay",
+        "v": "Hospital invoice",
+        "d": "Paid directly to the hospital"
+      },
+      {
+        "k": "Patient fees",
+        "v": "None",
+        "d": "No hidden commission from patients"
+      }
+    ],
+    "sections": [
+      {
+        "id": "model",
+        "label": "Our payment model",
+        "h": "Hospitals pay us, not you",
+        "ps": [
+          "TIB HIND is paid a coordination fee by the hospitals and partner facilities we refer to. That fee is built into the pricing those hospitals publish to us.",
+          "Because the fee is built into hospital pricing rather than added on top of your invoice, you see one clear price, and you pay that price directly to the hospital."
+        ]
+      },
+      {
+        "id": "invoice",
+        "label": "What you pay",
+        "h": "What you pay",
+        "ps": [
+          "You pay the hospital directly, by bank transfer or at the hospital's cash desk, against the hospital's own invoice.",
+          "TIB HIND does not handle your treatment money, does not add commission, and never asks you to pay us for arranging treatment."
+        ],
+        "ul": [
+          "No commission from patients, ever",
+          "No mark-up on hospital invoices",
+          "Our coordination fee is disclosed in writing"
+        ]
+      },
+      {
+        "id": "published",
+        "label": "Published fees",
+        "h": "Published fees",
+        "ps": [
+          "Our coordination fee structure is published and fixed. It does not change based on your budget, your condition or the hospital you choose.",
+          "If a hospital changes its pricing after we have quoted it to you, you are told before you commit — never after."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is there any fee I pay to TIB HIND for the opinion?",
+        "a": "No. The physician review and the written opinion with costs are free."
+      },
+      {
+        "q": "Does your hospital fee inflate the price I pay?",
+        "a": "No. We contract published rates with each hospital, and you are quoted those rates in writing. Our coordination fee is covered by the hospital from its published pricing."
+      },
+      {
+        "q": "Can I pay the hospital directly?",
+        "a": "Yes. You always pay the hospital directly, against its own invoice. TIB HIND never collects your treatment payment."
+      }
+    ],
+    "faqTitle": "Questions about payment",
+    "related": [
+      {
+        "href": "/cost/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "Treatment costs",
+        "d": "Published pricing and estimates"
+      },
+      {
+        "href": "/editorial-policy/",
+        "c": "#3D6B8A",
+        "ic": "doccheck",
+        "t": "Editorial policy",
+        "d": "How we keep content independent"
+      },
+      {
+        "href": "/contact/",
+        "c": "#8A6A28",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Ask us anything about fees"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/how-we-select/",
+    "id": "how-we-select",
+    "canonical": "https://tibhind.com/how-we-select/",
+    "crumb": "How we select hospitals",
+    "title": "How TIB HIND selects hospitals and surgeons",
+    "description": "We vet hospitals and surgeons on accreditation (NABH/JCI), surgical volume and outcomes, written protocols, price transparency and annual re-verification.",
+    "h1": "How TIB HIND selects hospitals and surgeons",
+    "lede": "We only work with hospitals and surgeons we would send our own family to. Here is how we choose them, in writing.",
+    "heroBody": "Our list is deliberately small. We re-verify every partner at least once a year, and we drop facilities that no longer meet the bar.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Accreditation",
+        "v": "NABH & JCI",
+        "d": "Required for every partner hospital"
+      },
+      {
+        "k": "Re-verification",
+        "v": "Annual",
+        "d": "Every partner checked every year"
+      },
+      {
+        "k": "Patient fee",
+        "v": "None",
+        "d": "Hospitals pay us, not you"
+      }
+    ],
+    "sections": [
+      {
+        "id": "accreditation",
+        "label": "Accreditation",
+        "h": "Accreditation, verified",
+        "ps": [
+          "Every hospital we work with holds current NABH or JCI accreditation — or both. We verify accreditation documents directly with the issuing bodies, not from the hospital's marketing.",
+          "Accreditation covers the hospital as an institution. It does not, by itself, tell you which surgeon is right for your case — that is why our physician reviews your file first."
+        ]
+      },
+      {
+        "id": "volume",
+        "label": "Surgeons and outcomes",
+        "h": "Surgeon volume and outcomes",
+        "ps": [
+          "We track the volume and outcomes of the specific surgeons we refer to — how many procedures of your type they perform each year, and their complication and revision rates.",
+          "Volume matters because it reflects real, repeat experience. We ask for this data in writing, and we do not refer to surgeons who will not share it."
+        ],
+        "ul": [
+          "Procedure volume per year",
+          "Complication and revision rates",
+          "Experience with international patients"
+        ]
+      },
+      {
+        "id": "protocols",
+        "label": "Written protocols",
+        "h": "Written protocols",
+        "ps": [
+          "Good hospitals run on written protocols: how admissions happen, how consent is taken, how complications are escalated, how bills are issued.",
+          "We require partners to share their protocols in writing before we add them, and we review them again at re-verification."
+        ]
+      },
+      {
+        "id": "price",
+        "label": "Price transparency",
+        "h": "Price transparency",
+        "ps": [
+          "Every partner commits to published rates for the procedures we quote. We will not work with a hospital that refuses to put a price in writing.",
+          "If pricing changes, you are told before you commit. The hospital's invoice you pay is the same price we quoted."
+        ]
+      },
+      {
+        "id": "recheck",
+        "label": "Annual re-verification",
+        "h": "Annual re-verification",
+        "ps": [
+          "At least once a year we re-check accreditation, surgeon outcomes, protocols and pricing for every partner.",
+          "We also monitor real patient feedback — not just surveys handed to you at discharge. If a partner falls short, they are removed from our list."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "How many hospitals are on your list?",
+        "a": "A deliberately small number — we would rather refer fewer hospitals and know them deeply than list every facility in Delhi NCR."
+      },
+      {
+        "q": "Can I choose a hospital that is not on your list?",
+        "a": "We can discuss it, but we only coordinate treatment at hospitals that pass our vetting. Your safety is not something we compromise for convenience."
+      },
+      {
+        "q": "Do hospitals pay to be on your list?",
+        "a": "No. The coordination fee we receive is for the work we do for the hospital, not for a listing. A hospital that pays nothing can be on our list; one that fails vetting cannot."
+      }
+    ],
+    "faqTitle": "Questions about selection",
+    "related": [
+      {
+        "href": "/how-we-are-paid/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "How we are paid",
+        "d": "Hospitals pay us, not you"
+      },
+      {
+        "href": "/about/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "About TIB HIND",
+        "d": "Our clinician-led model"
+      },
+      {
+        "href": "/editorial-policy/",
+        "c": "#8A6A28",
+        "ic": "doccheck",
+        "t": "Editorial policy",
+        "d": "How content is reviewed"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/editorial-policy/",
+    "id": "editorial-policy",
+    "canonical": "https://tibhind.com/editorial-policy/",
+    "crumb": "Editorial policy",
+    "title": "Editorial and medical review policy | TIB HIND",
+    "description": "How TIB HIND writes and reviews content: medical review by Dr. Annie Varughese, review date August 2026, sources, corrections, and no paid placement in articles.",
+    "h1": "Editorial and medical review policy",
+    "lede": "Everything on tibhind.com is written to inform, not to sell. This page explains who writes it, who reviews it, and how we correct mistakes.",
+    "heroBody": "We publish treatment and condition information because patients repeatedly tell us it helps them plan. We keep it honest, sourced, and reviewed by a physician.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Medical review",
+        "v": "Dr. Annie Varughese",
+        "d": "MD, FACC — reviews all clinical content"
+      },
+      {
+        "k": "Review date",
+        "v": "August 2026",
+        "d": "Current for all pages"
+      },
+      {
+        "k": "Paid placement",
+        "v": "None",
+        "d": "No hospital buys a place in our articles"
+      }
+    ],
+    "sections": [
+      {
+        "id": "writers",
+        "label": "Who writes",
+        "h": "Who writes this content",
+        "ps": [
+          "Content on tibhind.com is written by our in-house editorial team and clinical coordinators, drawing on the questions real patients ask us.",
+          "Writers work from source material — hospital protocols, journal literature and our own case experience — and draft pages for medical review before publication."
+        ]
+      },
+      {
+        "id": "review",
+        "label": "Medical review",
+        "h": "Medical review",
+        "ps": [
+          "Every clinical page is reviewed by Dr. Annie Varughese, MD, FACC, before it is published and again when it is updated.",
+          "The review date on each page tells you when it was last checked by a physician. This content is reviewed in August 2026."
+        ]
+      },
+      {
+        "id": "sources",
+        "label": "Sources",
+        "h": "Sources",
+        "ps": [
+          "We cite peer-reviewed literature, national and international guidelines, and the written protocols of the hospitals we work with.",
+          "Where something is our own opinion or experience rather than a published source, we say so. We do not dress up opinion as evidence."
+        ]
+      },
+      {
+        "id": "corrections",
+        "label": "Corrections",
+        "h": "Corrections",
+        "ps": [
+          "If you find an error, email tibhind@gmail.com or use WhatsApp +91 83035 86344 with the page and the correction. We confirm receipt within two working days.",
+          "Substantive errors are corrected and the page is re-reviewed by the physician before it is republished. We note significant corrections at the bottom of the page."
+        ]
+      },
+      {
+        "id": "independence",
+        "label": "No paid placement",
+        "h": "No paid placement",
+        "ps": [
+          "No hospital, surgeon or manufacturer can pay to appear in our articles, condition pages or recommendations.",
+          "Hospitals do pay us a coordination fee for patient coordination work, and that relationship is disclosed on the how-we-are-paid page — but it buys no editorial influence."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Do hospitals pay to be mentioned in your articles?",
+        "a": "No. No one can pay for editorial coverage. Hospital selection for content follows the same vetting as selection for care."
+      },
+      {
+        "q": "How do I report an error?",
+        "a": "Email tibhind@gmail.com or WhatsApp +91 83035 86344 with the page and the correction. We acknowledge within two working days."
+      },
+      {
+        "q": "How often is content reviewed?",
+        "a": "Clinical pages are physician-reviewed at publication, on significant updates, and at least annually."
+      }
+    ],
+    "faqTitle": "Questions about this policy",
+    "related": [
+      {
+        "href": "/medical-disclaimer/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "Medical disclaimer",
+        "d": "Please read before relying on our content"
+      },
+      {
+        "href": "/about/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "About TIB HIND",
+        "d": "Who we are"
+      },
+      {
+        "href": "/contact/",
+        "c": "#8A6A28",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Report an error or ask a question"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-disclaimer/",
+    "id": "medical-disclaimer",
+    "canonical": "https://tibhind.com/medical-disclaimer/",
+    "crumb": "Medical disclaimer",
+    "title": "Medical disclaimer | TIB HIND",
+    "description": "TIB HIND content is for information only and is not medical advice. Always consult a physician. No emergency advice. Information may not apply to your case.",
+    "h1": "Medical disclaimer",
+    "lede": "Please read this before relying on anything you find on tibhind.com.",
+    "heroBody": "This disclaimer applies to all content on this website, including treatment, condition and cost pages.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Status",
+        "v": "Information only",
+        "d": "Not medical advice"
+      },
+      {
+        "k": "Action",
+        "v": "Consult a physician",
+        "d": "For decisions about your care"
+      },
+      {
+        "k": "Emergencies",
+        "v": "Local emergency",
+        "d": "Call your emergency number"
+      }
+    ],
+    "sections": [
+      {
+        "id": "notadvice",
+        "label": "Not medical advice",
+        "h": "This content is not medical advice",
+        "ps": [
+          "Everything on tibhind.com is provided for general information only. It does not replace a consultation with a qualified physician who has your full history, your reports and your physical examination.",
+          "No page on this site, however detailed, can diagnose your condition or prescribe treatment for you."
+        ]
+      },
+      {
+        "id": "physician",
+        "label": "Consult a physician",
+        "h": "Always consult a physician",
+        "ps": [
+          "Decisions about diagnosis, treatment and surgery must be made with a physician who has examined you. A written opinion from TIB HIND is a starting point for discussion — not a treatment plan."
+        ]
+      },
+      {
+        "id": "emergency",
+        "label": "Emergencies",
+        "h": "Emergencies",
+        "ps": [
+          "This website is not for emergencies. If you are experiencing a medical emergency, contact your local emergency services immediately and do not wait for an online reply."
+        ]
+      },
+      {
+        "id": "yourcase",
+        "label": "Your case",
+        "h": "Information may not apply to you",
+        "ps": [
+          "Costs, treatment options and timelines on this site are typical examples from our experience in Delhi NCR. Your case, your anatomy, your records and your treating hospital may change everything.",
+          "Nothing on this site is a promise of any outcome. For that reason we review your actual reports before we give you any written opinion."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can I rely on the cost figures on this site?",
+        "a": "Treat them as typical ranges only. A written estimate for your case follows the physician review of your actual reports."
+      },
+      {
+        "q": "Does a written opinion from TIB HIND guarantee treatment will work?",
+        "a": "No. No physician can guarantee an outcome. The opinion describes what is medically reasonable for your case."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/editorial-policy/",
+        "c": "#2E6E6E",
+        "ic": "doccheck",
+        "t": "Editorial policy",
+        "d": "Who reviews what we publish"
+      },
+      {
+        "href": "/faq/",
+        "c": "#3D6B8A",
+        "ic": "heart",
+        "t": "Frequently asked questions",
+        "d": "Plain answers, no hype"
+      },
+      {
+        "href": "/contact/",
+        "c": "#8A6A28",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Send your reports for review"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/privacy/",
+    "id": "privacy",
+    "canonical": "https://tibhind.com/privacy/",
+    "crumb": "Privacy",
+    "title": "Privacy policy | TIB HIND",
+    "description": "What data TIB HIND collects, how it is used and shared, retention, security and your rights. Your reports are shared only with your treating hospital, with your consent.",
+    "h1": "Privacy policy",
+    "lede": "We handle medical reports and personal details carefully. This page explains what we collect, why, and who we share it with.",
+    "heroBody": "Your medical records belong to you. We collect only what we need to review your case and coordinate your care, and we do not sell your data to anyone.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Sharing",
+        "v": "With consent",
+        "d": "Only with your treating hospital"
+      },
+      {
+        "k": "Data sales",
+        "v": "Never",
+        "d": "We do not sell your information"
+      },
+      {
+        "k": "Retention",
+        "v": "Limited",
+        "d": "Only as long as needed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "collect",
+        "label": "What we collect",
+        "h": "What we collect",
+        "ps": [
+          "We collect the information you send us: your name and contact details, your country and language, and your medical records — reports, scans, discharge summaries and any other documents you choose to share.",
+          "We also collect basic usage data on this website (pages visited, device type) through standard analytics, without identifying you personally."
+        ]
+      },
+      {
+        "id": "use",
+        "label": "How we use it",
+        "h": "How we use it",
+        "ps": [
+          "Medical records are used only to review your case, prepare your written opinion, and coordinate your treatment. Contact details are used to reply to you and to arrange your travel and care.",
+          "We do not use your medical records for marketing, research or anything else you have not agreed to."
+        ]
+      },
+      {
+        "id": "share",
+        "label": "Sharing",
+        "h": "Sharing your records",
+        "ps": [
+          "We share your medical records only with the treating hospital and only after you have asked us to proceed — never before, and never for any other purpose.",
+          "We may share records with translators, coordinators and visa staff who work for TIB HIND under a duty of confidentiality. We do not sell or rent your data to any third party."
+        ]
+      },
+      {
+        "id": "retain",
+        "label": "Retention",
+        "h": "Retention",
+        "ps": [
+          "We keep your records only as long as needed to coordinate your care, respond to queries, and meet legal obligations in India.",
+          "If you withdraw from the process, we delete or anonymise your medical records at your request, subject to legal requirements."
+        ]
+      },
+      {
+        "id": "security",
+        "label": "Security",
+        "h": "Security",
+        "ps": [
+          "Records are stored on access-controlled systems, shared only over secure channels, and accessible only to staff who need them for your case.",
+          "No electronic system is completely secure. We use reasonable technical and organisational measures and review them regularly."
+        ]
+      },
+      {
+        "id": "rights",
+        "label": "Your rights",
+        "h": "Your rights",
+        "ps": [
+          "You may ask us what data we hold about you, correct it, withdraw consent, or ask us to delete it. Email tibhind@gmail.com and we will respond within a reasonable time.",
+          "You are never required to share more than you are comfortable with. A review can begin with whatever reports you have."
+        ]
+      },
+      {
+        "id": "contact",
+        "label": "Contact",
+        "h": "Contact about this policy",
+        "ps": [
+          "For any question about this policy, email tibhind@gmail.com or WhatsApp +91 83035 86344, or write to TIB HIND Healthcare, New Delhi, Delhi 110001, India."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who can see my medical records?",
+        "a": "Only TIB HIND staff involved in your case, and — after you consent and ask us to proceed — the treating hospital."
+      },
+      {
+        "q": "Do you sell my data?",
+        "a": "No. We never sell or rent personal or medical data."
+      },
+      {
+        "q": "Can I have my records deleted?",
+        "a": "Yes. Ask us by email or WhatsApp and we will delete or anonymise them, subject to legal requirements."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/terms/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "Terms of use",
+        "d": "The rules for using this site"
+      },
+      {
+        "href": "/medical-disclaimer/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "Medical disclaimer",
+        "d": "Our content is information only"
+      },
+      {
+        "href": "/contact/",
+        "c": "#8A6A28",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Ask about your data"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/terms/",
+    "id": "terms",
+    "canonical": "https://tibhind.com/terms/",
+    "crumb": "Terms of use",
+    "title": "Terms of use | TIB HIND",
+    "description": "Terms for using tibhind.com and TIB HIND services: coordination role, no guarantee of outcome, fees, liability limits and applicable law (India).",
+    "h1": "Terms of use",
+    "lede": "These terms govern your use of tibhind.com and of TIB HIND's coordination services.",
+    "heroBody": "We have kept these terms in plain language. If anything is unclear, ask us before you rely on it.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Our role",
+        "v": "Coordination",
+        "d": "We are not a medical provider"
+      },
+      {
+        "k": "Outcome",
+        "v": "No guarantee",
+        "d": "Medicine has no certainties"
+      },
+      {
+        "k": "Law",
+        "v": "India",
+        "d": "These terms are governed by Indian law"
+      }
+    ],
+    "sections": [
+      {
+        "id": "role",
+        "label": "Our role",
+        "h": "TIB HIND is a coordination company",
+        "ps": [
+          "TIB HIND Healthcare is a registered company in New Delhi, India. We coordinate medical travel: reviewing reports, shortlisting hospitals, helping with visas, travel and follow-up.",
+          "We are not a hospital, not a medical provider, and not an insurer. The treating hospital and its physicians are responsible for your medical care and its outcomes."
+        ]
+      },
+      {
+        "id": "outcome",
+        "label": "No guarantee",
+        "h": "No guarantee of outcome",
+        "ps": [
+          "No physician and no hospital can guarantee the outcome of a procedure. Your written opinion describes what is medically reasonable; it is not a promise of a result.",
+          "By using our services you acknowledge that treatment outcomes depend on your condition, your response to treatment and your treating team, and cannot be guaranteed by us."
+        ]
+      },
+      {
+        "id": "fees",
+        "label": "Fees",
+        "h": "Fees",
+        "ps": [
+          "The physician review and written opinion are free. Treatment is paid by you directly to the hospital against the hospital's invoice.",
+          "TIB HIND's coordination fee is paid by the hospitals and partner facilities, as described on the how-we-are-paid page. Any fee you may pay us directly is described in writing before you are asked for it."
+        ]
+      },
+      {
+        "id": "liability",
+        "label": "Liability",
+        "h": "Liability limits",
+        "ps": [
+          "We take reasonable care in reviewing reports, vetting hospitals and coordinating your travel. However, our liability is limited to the coordination services we provide.",
+          "We are not liable for the medical care, treatment, outcomes or acts of any hospital or physician, or for events outside our control such as flight delays, visa decisions or embassy processing times."
+        ]
+      },
+      {
+        "id": "law",
+        "label": "Law",
+        "h": "Applicable law",
+        "ps": [
+          "These terms and your use of this website are governed by the laws of India, and disputes are subject to the exclusive jurisdiction of the courts of Delhi.",
+          "If any provision of these terms is found unenforceable, the rest of the terms remain in effect."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Are you a hospital or clinic?",
+        "a": "No. We are a medical travel coordination company. Your care is delivered by the hospital and physicians you choose."
+      },
+      {
+        "q": "What if my treatment does not go as planned?",
+        "a": "Treatment outcomes cannot be guaranteed. Our role is to coordinate your care honestly; medical decisions and outcomes belong to your treating team."
+      },
+      {
+        "q": "Which country's law applies?",
+        "a": "Indian law applies, and disputes are subject to the courts of Delhi."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/privacy/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "Privacy policy",
+        "d": "How we handle your data"
+      },
+      {
+        "href": "/medical-disclaimer/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "Medical disclaimer",
+        "d": "Our content is information only"
+      },
+      {
+        "href": "/contact/",
+        "c": "#8A6A28",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Ask about these terms"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/refund-policy/",
+    "id": "refund-policy",
+    "canonical": "https://tibhind.com/refund-policy/",
+    "crumb": "Refund policy",
+    "title": "Refund policy | TIB HIND",
+    "description": "Deposits for treatment are paid to hospitals, not TIB HIND. Where TIB HIND collects a fee, it is refundable before services begin. Hospital deposits follow the hospital's policy.",
+    "h1": "Refund policy",
+    "lede": "We want money questions settled before treatment starts. Here is exactly how refunds work.",
+    "heroBody": "There are two kinds of money in the process: your treatment deposit, which goes to the hospital, and any coordination fee, which is paid to us by the hospital — not by you.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Ask about a refund"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20have%20a%20question%20about%20refunds",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Hospital deposits",
+        "v": "Hospital policy",
+        "d": "Governed by your treating hospital"
+      },
+      {
+        "k": "TIB HIND fees",
+        "v": "Refundable",
+        "d": "Before services begin"
+      },
+      {
+        "k": "Opinion",
+        "v": "Free",
+        "d": "No charge for physician review"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deposits",
+        "label": "Hospital deposits",
+        "h": "Treatment deposits go to the hospital",
+        "ps": [
+          "When treatment is scheduled, any deposit is paid to the hospital directly, not to TIB HIND. The hospital's refund policy governs that deposit.",
+          "Before you pay a hospital deposit, we give you the hospital's written refund terms so you know exactly what happens if plans change."
+        ]
+      },
+      {
+        "id": "ourfees",
+        "label": "TIB HIND fees",
+        "h": "Fees paid to TIB HIND",
+        "ps": [
+          "You do not pay us a coordination fee for treatment — hospitals do. The physician review and written opinion are free.",
+          "On the rare occasion we collect a fee from you directly (for example a service we provide before any hospital is involved), that fee is fully refundable if you cancel before the service begins."
+        ]
+      },
+      {
+        "id": "rules",
+        "label": "When refunds do not apply",
+        "h": "When a refund is not possible",
+        "ps": [
+          "A refund is not possible once the service has begun or been delivered — for example, after the physician review is completed or the coordination work you paid for has been performed.",
+          "Hospital deposits follow the hospital's written policy. If the hospital refuses a refund, we cannot override it, but we will help you pursue it through the hospital's complaint process."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "When are refunds not possible?",
+        "a": "Once a service you paid for has been performed or delivered, and for hospital deposits, according to the hospital's written policy."
+      },
+      {
+        "q": "I paid a deposit to a hospital and cancelled. What happens?",
+        "a": "The hospital's written policy applies. We will help you with the hospital's refund process and with any formal complaint if needed."
+      },
+      {
+        "q": "I never paid TIB HIND anything. Do I get a refund?",
+        "a": "There is nothing to refund. The review and opinion are free, and hospitals pay our coordination fee, not you."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/terms/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "Terms of use",
+        "d": "The rules for using our services"
+      },
+      {
+        "href": "/how-we-are-paid/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "How we are paid",
+        "d": "Hospitals pay us, not you"
+      },
+      {
+        "href": "/contact/",
+        "c": "#8A6A28",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Ask about refunds"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/complaints/",
+    "id": "complaints",
+    "canonical": "https://tibhind.com/complaints/",
+    "crumb": "Complaints",
+    "title": "Complaints | TIB HIND",
+    "description": "How to raise a complaint about TIB HIND's service, a hospital or a price. We acknowledge in 2 working days and resolve within 15. Email or WhatsApp.",
+    "h1": "Complaints",
+    "lede": "If something is not right, tell us. We acknowledge every complaint within 2 working days and work to resolve it within 15.",
+    "heroBody": "A complaint about your treatment, your bill or our coordination is taken seriously by a named person — never lost in a ticket queue.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Raise a complaint"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20raise%20a%20complaint",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Acknowledgement",
+        "v": "2 working days",
+        "d": "For every complaint"
+      },
+      {
+        "k": "Resolution",
+        "v": "15 days",
+        "d": "Target for full resolution"
+      },
+      {
+        "k": "Escalation",
+        "v": "Always available",
+        "d": "A named senior person on every case"
+      }
+    ],
+    "sections": [
+      {
+        "id": "how",
+        "label": "How to complain",
+        "h": "How to raise a complaint",
+        "ps": [
+          "Email tibhind@gmail.com or WhatsApp +91 83035 86344. Tell us what happened, when, and what you would like fixed — a short note is enough to start.",
+          "You can complain about our service, about a hospital we referred you to, or about a price you were quoted. We will tell you which path applies."
+        ]
+      },
+      {
+        "id": "next",
+        "label": "What happens next",
+        "h": "What happens next",
+        "ps": [
+          "We acknowledge every complaint within 2 working days and assign it to a named person. Our target is to resolve it within 15 working days.",
+          "If the complaint concerns a hospital, we take it to the hospital in writing on your behalf and follow its own complaint process alongside ours."
+        ],
+        "ul": [
+          "Acknowledgement within 2 working days",
+          "Named person on your case",
+          "Resolution target of 15 working days",
+          "Written outcome, including what we changed"
+        ]
+      },
+      {
+        "id": "escalation",
+        "label": "Escalation",
+        "h": "Escalation",
+        "ps": [
+          "If you are not satisfied with the outcome, ask to escalate. Your case then goes to the medical director and a partner of TIB HIND for a fresh review.",
+          "You may also take a complaint about medical care to the hospital's own patient grievance process, or to the relevant regulatory authority in India."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can I complain about a hospital through you?",
+        "a": "Yes. We will raise it with the hospital in writing and follow it through its complaint process on your behalf."
+      },
+      {
+        "q": "How fast will you reply?",
+        "a": "We acknowledge within 2 working days and target resolution within 15 working days."
+      },
+      {
+        "q": "What if I am unhappy with the resolution?",
+        "a": "Ask to escalate. Your case goes to our medical director and a partner for a fresh review."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/contact/",
+        "c": "#2E6E6E",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Reach us by email or WhatsApp"
+      },
+      {
+        "href": "/how-we-are-paid/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "How we are paid",
+        "d": "Full disclosure of our fees"
+      },
+      {
+        "href": "/editorial-policy/",
+        "c": "#8A6A28",
+        "ic": "doccheck",
+        "t": "Editorial policy",
+        "d": "How we handle corrections"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/transplant-law-india/",
+    "id": "transplant-law-india",
+    "canonical": "https://tibhind.com/transplant-law-india/",
+    "crumb": "Transplant law in India",
+    "title": "Organ transplant law in India | TIB HIND",
+    "description": "The Transplantation of Human Organs and Tissues Act 1994/2014, living donor rules, the authorization committee, approval timelines and what TIB HIND does for you.",
+    "h1": "Organ transplant law in India",
+    "lede": "Organ transplants in India are governed by strict law. Here is what the law says and what it means for international patients.",
+    "heroBody": "The rules exist to stop organ trading and to protect donors. Knowing them in advance saves time, money and heartbreak.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20ask%20about%20transplant",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Law",
+        "v": "THOTA 1994 / 2014",
+        "d": "Transplantation of Human Organs and Tissues Act"
+      },
+      {
+        "k": "Donors",
+        "v": "Near relatives",
+        "d": "Or authorization committee approval"
+      },
+      {
+        "k": "Organ trade",
+        "v": "Prohibited",
+        "d": "Illegal and punishable in India"
+      }
+    ],
+    "sections": [
+      {
+        "id": "law",
+        "label": "The law",
+        "h": "The law on organ transplantation",
+        "ps": [
+          "Organ transplantation in India is governed by the Transplantation of Human Organs and Tissues Act 1994, amended in 2011 and updated by rules in 2014.",
+          "The Act sets who may donate, who must approve a transplant, and severe penalties for trading in organs. It applies to Indian citizens and to foreign nationals being treated in India."
+        ]
+      },
+      {
+        "id": "living",
+        "label": "Living donor rules",
+        "h": "Living donor rules",
+        "ps": [
+          "A living donor must be a near relative — spouse, parents, children, siblings, grandparents or grandchildren.",
+          "A non-relative donation is possible only with approval from the hospital's authorization committee, which must be satisfied that the donation is genuinely altruistic and not for payment.",
+          "Every donor is interviewed separately to confirm they are acting freely. The committee, not the treating doctor, decides."
+        ],
+        "ul": [
+          "Near relatives can donate after committee approval",
+          "Non-relatives need the authorization committee's consent",
+          "Donors are interviewed separately and privately",
+          "No payment for organs — buying or selling is a crime"
+        ]
+      },
+      {
+        "id": "trade",
+        "label": "No organ trading",
+        "h": "No organ trading",
+        "ps": [
+          "Trading in human organs is a criminal offence in India. Hospitals found dealing in organs can lose their licence and their staff can face prosecution.",
+          "This is also the reason transplant costs in India cover genuine medical care, hospitals and follow-up — not organs."
+        ]
+      },
+      {
+        "id": "international",
+        "label": "International patients",
+        "h": "International patients",
+        "ps": [
+          "The same law applies to foreign patients. You need a valid Indian medical visa, a receiving hospital registered for transplantation, and — for a living donor — the authorization committee process.",
+          "If your donor is not a near relative under the Act, the committee's approval is required, and it will need full documentation of your relationship or the reasons for the donation."
+        ]
+      },
+      {
+        "id": "timelines",
+        "label": "Approval timelines",
+        "h": "Approval timelines",
+        "ps": [
+          "The authorization committee usually meets on fixed dates, so approval depends on the hospital's meeting schedule.",
+          "In practice, plan for several weeks between your first hospital visit and the transplant date. Bringing complete donor documentation from your home country speeds this up considerably."
+        ]
+      },
+      {
+        "id": "tibhind",
+        "label": "What TIB HIND does",
+        "h": "What TIB HIND does for you",
+        "ps": [
+          "We prepare the transplant paperwork, coordinate the authorization committee submission, and manage the supporting documents your hospital and the committee require.",
+          "We also handle the medical visa, flights and follow-up schedule. We do not arrange donors, and we will not help bypass any part of the law."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can a non-relative donate an organ to me?",
+        "a": "Yes, but only with approval from the hospital's authorization committee, which must be satisfied the donation is genuine and not paid. The process needs full documentation and a committee interview."
+      },
+      {
+        "q": "How long does approval take?",
+        "a": "It depends on the hospital's committee meeting schedule, but allow several weeks. Complete donor documentation in advance shortens the process."
+      },
+      {
+        "q": "What do transplants cost in Delhi NCR?",
+        "a": "Costs cover the surgery, hospital stay, medicines and follow-up — never the organ. See our cost pages for typical ranges, and we will give you a written estimate for your case."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/treatments/transplant/",
+        "c": "#2E6E6E",
+        "ic": "heart",
+        "t": "Transplant treatment",
+        "d": "What treatment involves in Delhi NCR"
+      },
+      {
+        "href": "/cost/transplant/",
+        "c": "#3D6B8A",
+        "ic": "doc",
+        "t": "Transplant costs",
+        "d": "What transplants typically cost"
+      },
+      {
+        "href": "/conditions/end-stage-kidney-disease/",
+        "c": "#8A6A28",
+        "ic": "doccheck",
+        "t": "End-stage kidney disease",
+        "d": "The condition behind most kidney transplants"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/patient-stories/",
+    "id": "patient-stories",
+    "canonical": "https://tibhind.com/patient-stories/",
+    "crumb": "Patient stories",
+    "title": "Patient stories | TIB HIND",
+    "description": "Anonymised stories from patients treated in Delhi NCR through TIB HIND — from Iraq, Bangladesh, Uzbekistan, Oman, Ghana and more. Shared with consent.",
+    "h1": "Patient stories",
+    "lede": "Real journeys from patients who travelled to Delhi NCR for treatment. Names and details are changed to protect privacy; every story is shared with consent.",
+    "heroBody": "We describe journeys, not medical detail. No story is a promise of what will happen for you — every case is different, and we review your own reports before we say anything at all.",
+    "cta": {
+      "solid": {
+        "href": "/contact/",
+        "label": "Send your reports"
+      },
+      "line": {
+        "href": "https://wa.me/918303586344?text=Hello%2C%20I%20would%20like%20to%20send%20my%20medical%20reports%20for%20review",
+        "label": "WhatsApp"
+      },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Prepared by <b>TIB HIND Healthcare</b>",
+      "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"
+    ],
+    "facts": [
+      {
+        "k": "Patients guided",
+        "v": "5,000+",
+        "d": "Through treatment in Delhi NCR"
+      },
+      {
+        "k": "Countries",
+        "v": "Iraq, Bangladesh, Uzbekistan, Oman, Ghana and more",
+        "d": "Among the patients we guide"
+      },
+      {
+        "k": "Privacy",
+        "v": "Anonymised",
+        "d": "Names and details changed, shared with consent"
+      }
+    ],
+    "sections": [
+      {
+        "id": "note",
+        "label": "A note first",
+        "h": "How these stories are shared",
+        "ps": [
+          "Every story is shared with the patient's consent and anonymised: names, hometowns and identifying details are changed.",
+          "We describe the journey — the reports, the opinion, the hospital, the stay, the follow-up — not clinical detail about the treatment. Individual results vary, and no story is a guarantee of an outcome."
+        ]
+      },
+      {
+        "id": "stories",
+        "label": "Stories",
+        "h": "Journeys to treatment in Delhi NCR",
+        "ul": [
+          "From Baghdad, Iraq — a father with a heart condition. He sent his reports on WhatsApp on a Monday and had a written opinion with costs by Wednesday. He flew to Delhi two weeks later and was back home within a month, with a follow-up plan his local doctor could follow.",
+          "From Dhaka, Bangladesh — a patient who had been told surgery was too risky. Our physician review found a second opinion was worth taking. The hospital proposal, the visa invitation and the booking were handled before the family paid anything.",
+          "From Tashkent, Uzbekistan — a patient whose scans had been re-done three times back home. We asked for a single new scan and explained exactly why. One scan, one opinion, one clear plan.",
+          "From Muscat, Oman — a family worried about language. Their coordinator spoke Arabic throughout, and every meeting had a translator. They said the part they valued most was never being left alone in a corridor.",
+          "From Accra, Ghana — a patient who came for joint replacement. The coordinator arranged the airport pickup, the hotel near the hospital and the physiotherapy sessions after discharge. The invoice matched the quote to the rupee.",
+          "From Sanaa, Yemen — a patient whose treatment was delayed several times at home. With the medical visa invitation and a fixed hospital plan, the whole journey took under three weeks from first contact to admission."
+        ]
+      },
+      {
+        "id": "yours",
+        "label": "Your case",
+        "h": "Every story is different",
+        "ps": [
+          "These journeys show how we work: physician review first, written costs, a plan, and a coordinator who stays with you. They are not a forecast of your treatment or your costs.",
+          "Your own journey starts the same way for everyone — with your reports and a free written opinion within 48 hours."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Are these real patients?",
+        "a": "Yes. All stories are real journeys shared with consent and anonymised to protect privacy."
+      },
+      {
+        "q": "Can I speak to a former patient?",
+        "a": "On request and with their consent, yes. Ask us and we will arrange it if possible."
+      },
+      {
+        "q": "Will my treatment turn out the same way?",
+        "a": "There is no guarantee in medicine. What is the same for everyone is our process: physician review, written costs and a coordinator on the ground."
+      }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      {
+        "href": "/how-it-works/",
+        "c": "#2E6E6E",
+        "ic": "doc",
+        "t": "How it works",
+        "d": "Seven steps from reports to follow-up"
+      },
+      {
+        "href": "/contact/",
+        "c": "#3D6B8A",
+        "ic": "mail",
+        "t": "Contact us",
+        "d": "Start your own journey"
+      },
+      {
+        "href": "/cost/",
+        "c": "#8A6A28",
+        "ic": "doc",
+        "t": "Treatment costs",
+        "d": "What treatment in Delhi NCR costs"
+      }
+    ],
+    "relatedTitle": "Related pages"
+  }
+]

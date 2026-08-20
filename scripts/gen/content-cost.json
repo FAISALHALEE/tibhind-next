@@ -1,0 +1,471 @@
+[
+  {
+    "route": "/cost/",
+    "id": "cost",
+    "canonical": "https://tibhind.com/cost/",
+    "crumb": "Treatment costs",
+    "title": "Treatment costs in India | TIB HIND",
+    "description": "Honest treatment costs in India for heart surgery, cancer, transplants, orthopaedics and IVF. NABH and JCI accredited hospitals only. Your written figure within 48 hours.",
+    "h1": "Treatment costs in India",
+    "lede": "We show what treatment in Delhi NCR really costs — as honest ranges, not fixed quotes. Every case is priced on its own, and the figure for yours comes in writing within 48 hours.",
+    "heroBody": "The same procedures cost a fraction of US, UK and European prices, performed in NABH and JCI accredited hospitals to international standards. TIB HIND is paid by the hospitals, never by you.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Typical stay", "v": "5–10 days", "d": "Varies with the procedure"},
+      {"k": "Hospitals", "v": "NABH & JCI", "d": "Accredited hospitals only, every time"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["Each range below covers the full package we negotiate for you: the surgeon and hospital fees, your room, standard medicines, ICU time where needed, basic tests, an interpreter and your medical visa invitation letter.", "It does not include flights, hotels for family, or medicines that are not part of the standard protocol. You will see every line on an itemised invoice."], "ul": ["Surgeon and hospital fees", "Room and nursing care", "Medicines and basic tests", "ICU time where the procedure needs it", "Interpreter and visa letter"]},
+      {"id": "ranges", "label": "Why ranges", "h": "Why we quote ranges, not fixed prices", "ps": ["Two people having the same named surgery can have very different needs — your anatomy, your other conditions, the complexity of the procedure and your hospital stay all move the price.", "That is why we never promise a fixed price up front. We give an honest range, then a written figure for your specific case after reviewing your records, usually within 48 hours."], "ul": ["Complexity of your case", "Length of hospital stay", "Implants or devices used", "Hospital class and city"]},
+      {"id": "opinion", "label": "Your figure", "h": "How the written opinion gives you a figure", "ps": ["Send us your reports and scans. A TIB HIND physician reviews them and a hospital quotes for exactly what your case needs — the result is a written opinion with a cost figure for you, not a brochure range.", "The figure is a single package price that covers the treatment itself. If the treatment changes because of new findings, we tell you before anything is done — never after."], "ul": ["Review of your records by our team", "A single package figure, in writing", "No hidden charges — itemised invoice"]}
+    ],
+    "costs": [
+      {"name": "Heart surgery", "from": "USD 3,500–9,000", "detail": "Bypass, valve, angioplasty and more", "href": "/cost/heart-surgery/"},
+      {"name": "Cancer treatment", "from": "USD 1,000–30,000", "detail": "Surgery, chemo, radiotherapy, BMT", "href": "/cost/cancer-treatment/"},
+      {"name": "Neurosurgery", "from": "USD 6,000–25,000", "detail": "Brain tumour, aneurysm, epilepsy", "href": "/cost/neurosurgery/"},
+      {"name": "Spine surgery", "from": "USD 3,500–15,000", "detail": "Discectomy, fusion, scoliosis", "href": "/cost/spine-surgery/"},
+      {"name": "Bone marrow transplant", "from": "USD 15,000–35,000", "detail": "Autologous, allogeneic, haploidentical", "href": "/cost/bone-marrow-transplant/"},
+      {"name": "Organ transplant", "from": "USD 10,000–40,000", "detail": "Kidney, liver and heart", "href": "/cost/transplant/"},
+      {"name": "Gastroenterology surgery", "from": "USD 2,000–12,000", "detail": "Gallbladder, hernia, liver, pancreas", "href": "/cost/gastroenterology/"},
+      {"name": "Bariatric surgery", "from": "USD 4,500–10,000", "detail": "Sleeve, bypass, revisional", "href": "/cost/bariatric-surgery/"},
+      {"name": "IVF and fertility", "from": "USD 3,000–7,000", "detail": "IVF, ICSI, donation and PGT-A", "href": "/cost/ivf/"},
+      {"name": "Joint replacement", "from": "USD 5,000–9,000", "detail": "Knee and hip replacement", "href": "/cost/joint-replacement/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026. The figure for your own case comes in writing within 48 hours.",
+    "costsFooter": "All prices in USD, inclusive of hospital and surgeon fees for the standard package. Your exact figure depends on your case and is confirmed in writing before travel.",
+    "faq": [
+      {"q": "Why can't you give me one fixed price?", "a": "Because your case is specific. The same surgery costs differently depending on your anatomy, other health conditions, the complexity of the procedure and how long you need to stay. We give an honest range up front, then a fixed package figure for you after reviewing your records."},
+      {"q": "Are there hidden charges?", "a": "No. The written opinion states what the package covers, and the hospital invoice is itemised line by line. If your treatment changes because of new findings, we agree the cost with you before anything is done."},
+      {"q": "Who pays TIB HIND?", "a": "The hospitals pay us — you never do. Our fee is built into the hospital price, so you pay only for treatment, not for our guidance, translation or visa support."}
+    ],
+    "faqTitle": "Questions about cost",
+    "related": [
+      {"href": "/how-we-are-paid/", "c": "#2E6E6E", "ic": "doccheck", "t": "How we are paid", "d": "Hospitals pay us, not you — what that means for your invoice"},
+      {"href": "/medical-visa/", "c": "#3D6B8A", "ic": "plane", "t": "Medical visa for India", "d": "Visa invitation letters for eight countries"},
+      {"href": "/contact/", "c": "#A03D33", "ic": "phone", "t": "Contact TIB HIND", "d": "WhatsApp or email your records today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/heart-surgery/",
+    "id": "cost-heart-surgery",
+    "canonical": "https://tibhind.com/cost/heart-surgery/",
+    "crumb": "Heart surgery cost",
+    "title": "Heart surgery cost in India | TIB HIND",
+    "description": "Heart surgery cost in India: bypass, valve replacement, angioplasty and hole-in-heart repair. Honest USD ranges, NABH and JCI accredited hospitals, written figure in 48 hours.",
+    "h1": "Heart surgery cost in India",
+    "lede": "Heart surgery in Delhi NCR typically costs a fraction of Western prices, for the same procedures in NABH and JCI accredited hospitals. Ranges below are honest estimates — your figure comes in writing within 48 hours.",
+    "heroBody": "Every heart case is different: the number of grafts, the valve needing repair and your own heart function all change the price. Dr. Annie Varughese, our US board-certified interventional cardiologist, reviews your angiogram and scans before any figure is confirmed.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Hospital stay", "v": "3–10 days", "d": "Shorter for angioplasty, longer for bypass"},
+      {"k": "Team", "v": "Surgeon-led", "d": "Reviewed by a US board-certified cardiologist"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["The package covers the surgeon and hospital fees, your room, standard medicines, ICU time, basic tests, an interpreter and your medical visa invitation letter.", "It does not cover flights, family hotels, or implants beyond the standard protocol — and you will see every line on an itemised invoice."], "ul": ["Surgeon and hospital fees", "Room and nursing care", "Medicines, ICU and basic tests", "Interpreter and visa letter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the range varies", "ps": ["A single bypass graft and a triple graft with a valve repair are very different operations with different costs. Your angiogram and echocardiogram tell us which you actually need.", "Once we have reviewed your records, we give you a fixed package figure — not a range — in writing."], "ul": ["Number of grafts or valves involved", "Complexity of your anatomy", "Days in hospital and ICU", "Type of valve or stent used"]},
+      {"id": "before", "label": "Before you travel", "h": "What happens before your surgery", "ps": ["Send your recent angiogram, echo and ECG. Our cardiology team reviews them and matches you to a surgeon whose experience fits your case.", "You receive a written opinion with the exact package price, a plan for your stay, and a medical visa invitation letter before you book anything."], "ul": ["Records reviewed by a cardiologist", "Fixed package price in writing", "Visa letter before you travel"]}
+    ],
+    "costs": [
+      {"name": "Coronary artery bypass (CABG)", "from": "USD 5,000–7,500", "detail": "Single or double graft, 6–8 nights", "href": "/conditions/coronary-artery-disease/"},
+      {"name": "Valve replacement", "from": "USD 6,000–9,000", "detail": "Aortic or mitral, 6–9 nights", "href": "/conditions/aortic-valve-stenosis/"},
+      {"name": "Angioplasty & stent", "from": "USD 3,500–6,000", "detail": "Balloon and stent, 2–4 nights", "href": "/conditions/coronary-artery-disease/"},
+      {"name": "Hole-in-heart repair", "from": "USD 4,000–7,000", "detail": "ASD or VSD closure, 4–6 nights", "href": "/treatments/heart/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026, for a single planned procedure. The figure for your own case comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of hospital and surgeon fees for the standard package. Your exact figure depends on your case and is confirmed in writing before travel.",
+    "faq": [
+      {"q": "Why is my quote different from the range?", "a": "Because your heart is not a brochure. The number of grafts, the valve needing surgery, your other conditions and your hospital stay all change the price. The range helps you budget; the written opinion gives you the figure for your case."},
+      {"q": "Is the price fixed once confirmed?", "a": "Yes — the package price confirmed in writing stays fixed for the planned treatment. If new findings change the surgery, we agree the revised cost with you before anything is done."},
+      {"q": "How do I know the hospital is safe?", "a": "TIB HIND works only with NABH and JCI accredited hospitals, and your records are reviewed by a US board-certified cardiologist before any referral. You can speak with the surgeon before travelling."}
+    ],
+    "faqTitle": "Questions about heart surgery cost",
+    "related": [
+      {"href": "/treatments/heart/", "c": "#A03D33", "ic": "heart", "t": "Heart treatment in India", "d": "Surgery and interventional cardiology at accredited centres"},
+      {"href": "/conditions/coronary-artery-disease/", "c": "#3D6B8A", "ic": "doc", "t": "Coronary artery disease", "d": "When bypass or angioplasty is the right call"},
+      {"href": "/conditions/aortic-valve-stenosis/", "c": "#2F6E52", "ic": "doccheck", "t": "Aortic valve stenosis", "d": "Repair versus replacement, and what it costs"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/cancer-treatment/",
+    "id": "cost-cancer-treatment",
+    "canonical": "https://tibhind.com/cost/cancer-treatment/",
+    "crumb": "Cancer treatment cost",
+    "title": "Cancer treatment cost in India | TIB HIND",
+    "description": "Cancer treatment cost in India: surgery, chemotherapy, radiotherapy and bone marrow transplant. Honest USD ranges at NABH and JCI accredited hospitals. Written figure in 48 hours.",
+    "h1": "Cancer treatment cost in India",
+    "lede": "Cancer care in Delhi NCR costs a fraction of Western prices while meeting international standards of care. These honest ranges help you plan — your own figure comes in writing within 48 hours.",
+    "heroBody": "Your protocol depends on the type and stage of the cancer, so no range can be your exact price. Our team reviews your biopsy and scans with the treating oncologist, then confirms a package figure before you travel.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Treatment length", "v": "1–12 weeks", "d": "Varies with the protocol"},
+      {"k": "Languages", "v": "Arabic, English, Russian", "d": "Also Bengali — spoken on-site"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["Packages cover the surgeon and hospital fees, your room, standard chemotherapy drugs or radiation sessions, ICU time where needed, basic tests, an interpreter and your medical visa invitation letter.", "Drugs outside the standard protocol, flights and family hotels are not included — every line appears on an itemised invoice."], "ul": ["Surgeon, oncologist and hospital fees", "Room and nursing care", "Standard drugs and basic tests", "Interpreter and visa letter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the range is so wide", "ps": ["One patient's chemotherapy is a few cycles of a standard drug; another needs targeted therapy that costs several times more. The stage and type of cancer drive the real cost.", "After reviewing your biopsy, scans and previous treatment history, we give you a fixed package figure in writing."], "ul": ["Type and stage of cancer", "Surgery versus non-surgical care", "Which drugs your protocol uses", "Days in hospital"]},
+      {"id": "plan", "label": "Your plan", "h": "How your treatment plan is priced", "ps": ["Send your biopsy report and scans. A TIB HIND clinician matches you to a cancer centre and the oncologist reviews your case before a package price is confirmed.", "You receive a written opinion with the figure, the full protocol and a visa invitation letter — and you can speak with the oncologist before travelling."], "ul": ["Reports reviewed by our team", "Oncologist confirms the protocol", "Fixed package price in writing"]}
+    ],
+    "costs": [
+      {"name": "Surgery for solid tumour", "from": "USD 4,000–9,000", "detail": "Breast, abdominal, head and neck", "href": "/conditions/breast-cancer/"},
+      {"name": "Chemotherapy cycle", "from": "USD 1,000–3,000", "detail": "Per cycle, standard protocols", "href": "/treatments/cancer/"},
+      {"name": "Radiotherapy course", "from": "USD 2,500–6,000", "detail": "Full course, image-guided", "href": "/treatments/cancer/"},
+      {"name": "Bone marrow transplant", "from": "USD 18,000–30,000", "detail": "Autologous or allogeneic", "href": "/cost/bone-marrow-transplant/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026. Your exact figure depends on your cancer and protocol, and is confirmed in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of hospital fees and standard drugs for the planned protocol. Non-standard drugs and previous treatment costs are quoted separately before travel.",
+    "faq": [
+      {"q": "Why does the range change with my type of cancer?", "a": "Because the treatment is different. The drugs, the number of cycles, whether you need surgery and how long you stay all depend on the type and stage of your disease. The range helps you budget; the written opinion prices your case."},
+      {"q": "Are the chemotherapy drugs the same brands as home?", "a": "Your oncologist prescribes from the same international drugs and follows standard protocols. The package lists exactly which drugs are covered, and anything outside that is agreed with you before use."},
+      {"q": "Can the figure change mid-treatment?", "a": "Only if the treatment itself changes — for example, new imaging shows a different stage. In that case we agree the revised cost with you before anything new is done."}
+    ],
+    "faqTitle": "Questions about cancer treatment cost",
+    "related": [
+      {"href": "/treatments/cancer/", "c": "#7A4C86", "ic": "doccheck", "t": "Cancer treatment in India", "d": "Oncology centres and the team approach"},
+      {"href": "/conditions/breast-cancer/", "c": "#A03D33", "ic": "doc", "t": "Breast cancer", "d": "Surgery, chemo and radiation options"},
+      {"href": "/cost/bone-marrow-transplant/", "c": "#2F6E52", "ic": "heart", "t": "Bone marrow transplant cost", "d": "Autologous and allogeneic pricing"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/neurosurgery/",
+    "id": "cost-neurosurgery",
+    "canonical": "https://tibhind.com/cost/neurosurgery/",
+    "crumb": "Neurosurgery cost",
+    "title": "Neurosurgery cost in India | TIB HIND",
+    "description": "Neurosurgery cost in India: brain tumour, aneurysm, deep brain stimulation and epilepsy surgery. Honest USD ranges at NABH and JCI accredited hospitals. Written figure in 48 hours.",
+    "h1": "Neurosurgery cost in India",
+    "lede": "Brain and spine surgery in Delhi NCR is performed by experienced neurosurgeons at NABH and JCI accredited hospitals, at a fraction of Western prices. These ranges are honest estimates — your figure comes in writing within 48 hours.",
+    "heroBody": "Neurosurgery is priced around the complexity of your lesion and the technology it needs — awake surgery, neuronavigation or a coiling suite. Your MRI and angiogram decide the true figure.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "ICU after surgery", "v": "1–3 days", "d": "Included in the package"},
+      {"k": "Review", "v": "Neurosurgeon-led", "d": "Your scans reviewed before pricing"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["The package covers the surgeon and hospital fees, your room, ICU time, standard medicines and basic tests, an interpreter and your medical visa invitation letter.", "It does not include flights, family hotels, or consumables outside the standard protocol — and the invoice is itemised."], "ul": ["Neurosurgeon and hospital fees", "Room, ICU and nursing care", "Medicines and basic tests", "Interpreter and visa letter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the range varies", "ps": ["A small surface tumour and a deep lesion near speech areas are very different operations. Whether your aneurysm is coiled or clipped, and whether devices are needed, drives the price.", "After reviewing your MRI and angiogram with the neurosurgeon, we confirm a fixed package figure in writing."], "ul": ["Location and size of the lesion", "Coiling versus clipping for aneurysms", "Use of neuronavigation or implants", "Days in hospital and ICU"]},
+      {"id": "plan", "label": "Your plan", "h": "How your case is priced", "ps": ["Send your MRI, CT or angiogram. Our team matches you to a neurosurgeon who operates on your condition regularly, and the package is quoted for your scan, not a template.", "You receive a written opinion with the figure and a visa letter, and you can speak with the surgeon before travelling."], "ul": ["Scans reviewed by our team", "Surgeon matched to your case", "Fixed package price in writing"]}
+    ],
+    "costs": [
+      {"name": "Brain tumour surgery", "from": "USD 6,000–12,000", "detail": "Craniotomy and tumour removal", "href": "/conditions/brain-tumours/"},
+      {"name": "Aneurysm coiling or clipping", "from": "USD 6,500–12,000", "detail": "Endovascular or open, 5–8 nights", "href": "/conditions/stroke/"},
+      {"name": "Deep brain stimulation", "from": "USD 15,000–25,000", "detail": "DBS for Parkinson's and tremor", "href": "/treatments/neurosurgery/"},
+      {"name": "Epilepsy surgery", "from": "USD 8,000–15,000", "detail": "With video-EEG evaluation", "href": "/treatments/neurosurgery/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026. The figure for your own scans comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of hospital and surgeon fees for the standard package. Device-dependent procedures are priced after your imaging is reviewed.",
+    "faq": [
+      {"q": "Why is deep brain stimulation so much more?", "a": "Because the pacemaker-like device and the stereotactic planning technology dominate the cost. The surgery itself is skilled work, but the implant is the expensive part — and it is quoted in full, in writing."},
+      {"q": "Can my aneurysm be coiled instead of clipped?", "a": "Often, yes, and the figure depends on which is safer for your anatomy. Your angiogram is reviewed before pricing, so the package matches the procedure you will actually have."},
+      {"q": "How long will I need to stay?", "a": "Most patients are in hospital 5–8 nights and remain in Delhi for a short follow-up visit. The exact plan is written into your opinion before you travel."}
+    ],
+    "faqTitle": "Questions about neurosurgery cost",
+    "related": [
+      {"href": "/treatments/neurosurgery/", "c": "#3D6B8A", "ic": "doc", "t": "Neurosurgery in India", "d": "Brain, aneurysm and epilepsy programmes"},
+      {"href": "/conditions/brain-tumours/", "c": "#7A4C86", "ic": "heart", "t": "Brain tumours", "d": "Symptoms, diagnosis and surgical options"},
+      {"href": "/conditions/stroke/", "c": "#A03D33", "ic": "doccheck", "t": "Stroke care", "d": "Aneurysm, clot and haemorrhage treatment"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/spine-surgery/",
+    "id": "cost-spine-surgery",
+    "canonical": "https://tibhind.com/cost/spine-surgery/",
+    "crumb": "Spine surgery cost",
+    "title": "Spine surgery cost in India | TIB HIND",
+    "description": "Spine surgery cost in India: discectomy, fusion, scoliosis correction and stenosis decompression. Honest USD ranges at NABH and JCI accredited hospitals. Written figure in 48 hours.",
+    "h1": "Spine surgery cost in India",
+    "lede": "Back and neck surgery in Delhi NCR costs a fraction of Western prices, performed at NABH and JCI accredited hospitals by surgeons who do these operations daily. These ranges are honest estimates — your figure comes in writing within 48 hours.",
+    "heroBody": "Whether you need a simple discectomy or a multi-level fusion with metalwork depends on your imaging and symptoms. The number of levels and the implants used are what move the price.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Hospital stay", "v": "2–7 nights", "d": "Depends on the levels fused"},
+      {"k": "Implants", "v": "Itemised", "d": "Cages, screws and rods shown on the invoice"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["The package covers the surgeon and hospital fees, your room, standard medicines and tests, ICU time where needed, an interpreter and your medical visa invitation letter.", "Implants such as screws and cages are listed separately on the invoice — you always see what you are paying for."], "ul": ["Spine surgeon and hospital fees", "Room and nursing care", "Medicines and basic tests", "Interpreter and visa letter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the range varies", "ps": ["A one-level fusion and a scoliosis correction of the whole spine are entirely different operations. The number of levels, the metalwork needed and your bone quality all change the cost.", "Your MRI is reviewed with the surgeon before a fixed package figure is confirmed in writing."], "ul": ["Number of levels operated", "Type of implants and cages", "Minimally invasive versus open", "Days in hospital"]},
+      {"id": "plan", "label": "Your plan", "h": "How your case is priced", "ps": ["Send your MRI and X-rays. Our team matches you to a spine surgeon experienced with your condition, and the package is quoted for your imaging.", "You receive a written opinion with the figure, the surgical plan and a visa letter before you travel."], "ul": ["Imaging reviewed by our team", "Surgeon matched to your case", "Fixed package price in writing"]}
+    ],
+    "costs": [
+      {"name": "Discectomy", "from": "USD 3,500–6,000", "detail": "Single level, 2–4 nights", "href": "/conditions/slipped-disc/"},
+      {"name": "Fusion (single level)", "from": "USD 5,000–9,000", "detail": "With cages and screws, 3–5 nights", "href": "/treatments/spine-surgery/"},
+      {"name": "Scoliosis correction", "from": "USD 8,000–15,000", "detail": "Multi-level with rods, 5–8 nights", "href": "/treatments/spine-surgery/"},
+      {"name": "Spinal stenosis decompression", "from": "USD 4,500–7,500", "detail": "Laminectomy, 2–5 nights", "href": "/conditions/spinal-stenosis/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026. The figure for your own imaging comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of hospital and surgeon fees. Implants are itemised separately and included in the confirmed package before travel.",
+    "faq": [
+      {"q": "Why are the implants a separate line?", "a": "Because metalwork — cages, screws and rods — can be a large part of the bill and differs with every construct. We list it separately so you see exactly what you pay for, and it is included in your confirmed package."},
+      {"q": "Will I need physiotherapy after?", "a": "Yes, and it is built into your plan. The written opinion includes the follow-up visits before you fly home, so your recovery does not add surprise costs."},
+      {"q": "Can I avoid surgery with injections?", "a": "Sometimes. If a nerve block or epidural is genuinely an option, your surgeon will tell you — the figure for the procedure you actually need is quoted, not the most expensive one."}
+    ],
+    "faqTitle": "Questions about spine surgery cost",
+    "related": [
+      {"href": "/treatments/spine-surgery/", "c": "#96692A", "ic": "doc", "t": "Spine surgery in India", "d": "Discectomy, fusion and scoliosis care"},
+      {"href": "/conditions/slipped-disc/", "c": "#3D6B8A", "ic": "doccheck", "t": "Slipped disc", "d": "When surgery helps and when it does not"},
+      {"href": "/conditions/spinal-stenosis/", "c": "#2E6E6E", "ic": "heart", "t": "Spinal stenosis", "d": "Decompression options and results"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/bone-marrow-transplant/",
+    "id": "cost-bone-marrow-transplant",
+    "canonical": "https://tibhind.com/cost/bone-marrow-transplant/",
+    "crumb": "Bone marrow transplant cost",
+    "title": "Bone marrow transplant cost in India | TIB HIND",
+    "description": "Bone marrow transplant cost in India: autologous, matched sibling and haploidentical. Honest USD ranges at NABH and JCI accredited hospitals. Written figure in 48 hours.",
+    "h1": "Bone marrow transplant cost in India",
+    "lede": "A bone marrow transplant is one of the most complex treatments available, and in Delhi NCR it costs a fraction of Western prices. These ranges are honest estimates — your figure comes in writing within 48 hours.",
+    "heroBody": "The cost turns on the type of transplant: using your own stem cells, a matched sibling's, or a haploidentical donor. Conditioning drugs, ICU days and complications dominate the bill.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Total stay", "v": "3–6 weeks", "d": "In hospital for the transplant"},
+      {"k": "Donor tests", "v": "Included", "d": "For a matched family donor"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["The package covers the transplant team and hospital fees, your room, conditioning chemotherapy, stem cell infusion, ICU and isolation care, standard drugs and tests, an interpreter and your medical visa invitation letter.", "The cost is dominated by the long hospital stay and drugs — this is why the range sits well above other treatments."], "ul": ["Haematologist and hospital fees", "Conditioning chemo and stem cell infusion", "ICU and isolation room", "Standard drugs, tests and interpreter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the type of transplant matters", "ps": ["An autologous transplant re-infuses your own stem cells and is the least complex. An allogeneic transplant from a matched sibling needs stronger conditioning and longer support. Haploidentical — half-matched — adds further complexity.", "Your condition, donor availability and previous treatment are reviewed before a fixed figure is confirmed in writing."], "ul": ["Autologous, sibling or haploidentical", "Your conditioning protocol", "Days in isolation and ICU", "Treatment for any complications"]},
+      {"id": "plan", "label": "Your plan", "h": "How your transplant is priced", "ps": ["Send your diagnosis, previous chemotherapy history and blood work. Our team matches you to a transplant centre and the haematologist reviews your case before pricing.", "You receive a written opinion with the figure, the full transplant timeline and a visa letter for you and your donor."], "ul": ["Records reviewed by our team", "Transplant centre matched to you", "Fixed package price in writing"]}
+    ],
+    "costs": [
+      {"name": "Autologous BMT", "from": "USD 15,000–22,000", "detail": "Own stem cells, 3–4 weeks", "href": "/treatments/bone-marrow-transplant/"},
+      {"name": "Allogeneic (matched sibling)", "from": "USD 20,000–30,000", "detail": "Family donor, 4–6 weeks", "href": "/conditions/leukaemia/"},
+      {"name": "Haploidentical", "from": "USD 25,000–35,000", "detail": "Half-matched donor, 4–6 weeks", "href": "/treatments/bone-marrow-transplant/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026, for the full transplant admission. The figure for your case comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of the full transplant admission. Complications and non-standard drugs are managed and agreed with you before additional cost is incurred.",
+    "faq": [
+      {"q": "Why is a transplant so expensive compared to other surgery?", "a": "Because it is weeks of intensive care, not an operation. Conditioning chemotherapy, isolation nursing, the stem cell product and drugs for graft and infection all run alongside the bed — and every day of that is included in your quoted package."},
+      {"q": "Does my donor need to travel too?", "a": "A matched sibling donor usually does. We arrange visa invitation letters for both of you, and donor screening is included in the package so there are no surprise costs."},
+      {"q": "What if I get an infection after the transplant?", "a": "Infections are the most common complication, which is why the isolation room and supportive care are built into the package. If extended care is needed, it is discussed with you before the cost is incurred."}
+    ],
+    "faqTitle": "Questions about bone marrow transplant cost",
+    "related": [
+      {"href": "/treatments/bone-marrow-transplant/", "c": "#2F6E52", "ic": "heart", "t": "Bone marrow transplant in India", "d": "Autologous and allogeneic programmes"},
+      {"href": "/conditions/leukaemia/", "c": "#7A4C86", "ic": "doc", "t": "Leukaemia", "d": "When transplant is the right treatment"},
+      {"href": "/conditions/thalassemia/", "c": "#A03D33", "ic": "doccheck", "t": "Thalassaemia", "d": "Transplant as a cure in children and adults"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/transplant/",
+    "id": "cost-transplant",
+    "canonical": "https://tibhind.com/cost/transplant/",
+    "crumb": "Organ transplant cost",
+    "title": "Organ transplant cost in India | TIB HIND",
+    "description": "Kidney, liver and heart transplant cost in India. Honest USD ranges for living and deceased donor transplants at NABH and JCI accredited hospitals. Written figure in 48 hours.",
+    "h1": "Organ transplant cost in India",
+    "lede": "Kidney, liver and heart transplants in Delhi NCR cost a fraction of Western prices, performed by experienced transplant teams at accredited hospitals. These ranges are honest estimates — your figure comes in writing within 48 hours.",
+    "heroBody": "The donor type drives the cost: a planned living donor transplant with a matched relative is usually the most affordable and safest route. Deceased donor transplants add waiting and coordination costs.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Hospital stay", "v": "2–4 weeks", "d": "For the recipient"},
+      {"k": "Donor included", "v": "Yes", "d": "Screening and surgery for living donors"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["The package covers the transplant team and hospital fees, your room, ICU, the donor's evaluation and surgery where a living donor is used, immunosuppression drugs for the first period, basic tests, an interpreter and your visa invitation letter.", "Immunosuppression beyond the included period, flights and family hotels are quoted separately."], "ul": ["Transplant surgeon and hospital fees", "Donor evaluation and surgery", "ICU, room and nursing care", "Initial immunosuppression and tests"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the donor type changes the price", "ps": ["A planned living donor transplant from a relative is the most cost-effective and can be scheduled. A deceased donor transplant avoids a living donor but adds coordination and longer waiting and stay.", "Your kidney or liver function, the donor's health and the transplant centre's protocol are all reviewed before a fixed figure is confirmed."], "ul": ["Living versus deceased donor", "Your organ function and health", "Days in ICU and hospital", "Immunosuppression protocol"]},
+      {"id": "plan", "label": "Your plan", "h": "How your transplant is priced", "ps": ["Send your current blood work, imaging and dialysis records. Our team matches you to a transplant centre and the transplant physician reviews your case before pricing.", "You receive a written opinion with the figure, the transplant timeline and visa letters for you and your donor."], "ul": ["Records reviewed by our team", "Centre matched to your case", "Fixed package price in writing"]}
+    ],
+    "costs": [
+      {"name": "Living donor kidney", "from": "USD 10,000–14,000", "detail": "Matched relative, 2–3 weeks", "href": "/conditions/end-stage-kidney-disease/"},
+      {"name": "Deceased donor kidney", "from": "USD 15,000–20,000", "detail": "Includes waiting coordination", "href": "/treatments/transplant/"},
+      {"name": "Living donor liver", "from": "USD 25,000–35,000", "detail": "Partial liver from a relative", "href": "/conditions/liver-cirrhosis/"},
+      {"name": "Heart transplant", "from": "USD 30,000–40,000", "detail": "Deceased donor programme", "href": "/treatments/transplant/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026, for the full transplant admission. The figure for your case comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of the transplant admission and donor care where applicable. Long-term immunosuppression beyond the package is quoted separately.",
+    "faq": [
+      {"q": "Can my relative be my donor?", "a": "In most cases, yes. A living donor transplant from a family member is usually safer and cheaper than a deceased donor transplant, and donor evaluation is included in the package. The transplant team checks compatibility and safety first."},
+      {"q": "What happens with my dialysis during the wait?", "a": "Your dialysis is managed by the transplant centre from arrival, and it is included in the quoted package for the pre-transplant period. There are no hidden daily charges."},
+      {"q": "Do I need to stay long after the transplant?", "a": "Recipients usually stay two to four weeks in hospital, then a follow-up period in Delhi. The written opinion includes the post-transplant visits before you fly home."}
+    ],
+    "faqTitle": "Questions about transplant cost",
+    "related": [
+      {"href": "/treatments/transplant/", "c": "#2F6E52", "ic": "heart", "t": "Transplant in India", "d": "Kidney, liver and heart programmes"},
+      {"href": "/conditions/end-stage-kidney-disease/", "c": "#3D6B8A", "ic": "doc", "t": "End-stage kidney disease", "d": "Dialysis and transplant options"},
+      {"href": "/conditions/liver-cirrhosis/", "c": "#8A6A28", "ic": "doccheck", "t": "Liver cirrhosis", "d": "When a liver transplant is needed"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/gastroenterology/",
+    "id": "cost-gastroenterology",
+    "canonical": "https://tibhind.com/cost/gastroenterology/",
+    "crumb": "Gastro surgery cost",
+    "title": "Gastrointestinal surgery cost in India | TIB HIND",
+    "description": "Gastrointestinal surgery cost in India: gallbladder, hernia, liver resection and pancreatic surgery. Honest USD ranges at NABH and JCI accredited hospitals. Written figure in 48 hours.",
+    "h1": "Gastrointestinal surgery cost in India",
+    "lede": "Gallbladder, hernia, liver and pancreatic surgery in Delhi NCR is done laparoscopically where possible, at a fraction of Western prices. These ranges are honest estimates — your figure comes in writing within 48 hours.",
+    "heroBody": "Most routine gastro surgery is keyhole, which shortens the stay and the bill. Liver and pancreatic resections are major surgery — complexity and ICU days drive those costs.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Hospital stay", "v": "1–10 nights", "d": "Short for keyhole, longer for resections"},
+      {"k": "Approach", "v": "Laparoscopic", "d": "Where it is safe for your case"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["The package covers the surgeon and hospital fees, your room, standard medicines and tests, ICU time where the operation needs it, an interpreter and your medical visa invitation letter.", "Laparoscopic instruments and disposables are included, and the invoice shows every line."], "ul": ["Surgeon and hospital fees", "Room and nursing care", "Laparoscopic instruments", "Medicines, tests and interpreter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the range varies", "ps": ["A keyhole gallbladder removal is a short stay with modest cost. A pancreatic resection can take hours, involve ICU days and a longer recovery — the range reflects that gap honestly.", "Your imaging is reviewed with the surgeon before a fixed package figure is confirmed in writing."], "ul": ["Open versus laparoscopic approach", "Complexity of the resection", "ICU days needed", "Days in hospital"]},
+      {"id": "plan", "label": "Your plan", "h": "How your case is priced", "ps": ["Send your ultrasound, CT or endoscopy reports. Our team matches you to a gastrointestinal surgeon and the package is quoted for your scans.", "You receive a written opinion with the figure, the surgical plan and a visa letter before you travel."], "ul": ["Imaging reviewed by our team", "Surgeon matched to your case", "Fixed package price in writing"]}
+    ],
+    "costs": [
+      {"name": "Gallbladder surgery", "from": "USD 2,500–4,500", "detail": "Laparoscopic cholecystectomy", "href": "/conditions/gallstones/"},
+      {"name": "Hernia repair", "from": "USD 2,000–3,500", "detail": "Laparoscopic with mesh, 1–3 nights", "href": "/treatments/gastroenterology/"},
+      {"name": "Liver resection", "from": "USD 6,000–10,000", "detail": "Segmental or lobar, 5–8 nights", "href": "/treatments/gastroenterology/"},
+      {"name": "Pancreatic surgery", "from": "USD 7,000–12,000", "detail": "Whipple and related resections", "href": "/conditions/pancreatitis/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026. The figure for your own case comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of hospital and surgeon fees for the standard package. Your exact figure depends on your case and is confirmed in writing before travel.",
+    "faq": [
+      {"q": "Is keyhole surgery always the option?", "a": "Where it is safe, yes — it means a shorter stay and a lower bill. For complex resections an open approach may be safer, and the quote you receive is for the operation you will actually have."},
+      {"q": "Why is pancreatic surgery so much more expensive?", "a": "Because it is major surgery — often hours on the table, ICU days and a longer recovery. The range reflects that honestly rather than quoting a low figure that rises later."},
+      {"q": "Do I need special preparation before travelling?", "a": "The written opinion tells you exactly what to bring and what to expect, including your blood group, allergies and current medicines. Nothing is left to guesswork."}
+    ],
+    "faqTitle": "Questions about gastrointestinal surgery cost",
+    "related": [
+      {"href": "/treatments/gastroenterology/", "c": "#8A6A28", "ic": "doc", "t": "Gastro surgery in India", "d": "Keyhole and open abdominal procedures"},
+      {"href": "/conditions/gallstones/", "c": "#96692A", "ic": "doccheck", "t": "Gallstones", "d": "Symptoms and when to remove the gallbladder"},
+      {"href": "/conditions/pancreatitis/", "c": "#2E6E6E", "ic": "heart", "t": "Pancreatitis", "d": "Medical and surgical treatment options"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/bariatric-surgery/",
+    "id": "cost-bariatric-surgery",
+    "canonical": "https://tibhind.com/cost/bariatric-surgery/",
+    "crumb": "Bariatric surgery cost",
+    "title": "Bariatric surgery cost in India | TIB HIND",
+    "description": "Bariatric surgery cost in India: gastric sleeve, bypass and revisional surgery. Honest USD ranges at NABH and JCI accredited hospitals. Written figure in 48 hours.",
+    "h1": "Bariatric surgery cost in India",
+    "lede": "Weight-loss surgery in Delhi NCR costs a fraction of Western prices, performed laparoscopically at accredited hospitals. These ranges are honest estimates — your figure comes in writing within 48 hours.",
+    "heroBody": "The sleeve and the bypass are different operations with different long-term care. Revisional surgery for someone who has had a previous procedure costs more because the anatomy is more complex.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Hospital stay", "v": "2–5 nights", "d": "Laparoscopic, most cases"},
+      {"k": "Follow-up", "v": "Included", "d": "First post-op visits before you fly home"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["The package covers the bariatric surgeon and hospital fees, your room, standard medicines and tests, dietitian sessions during your stay, an interpreter and your medical visa invitation letter.", "The preoperative evaluation that confirms you are a candidate for surgery is also part of the pathway."], "ul": ["Bariatric surgeon and hospital fees", "Room and nursing care", "Pre-op evaluation and dietitian", "Medicines, tests and interpreter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the range varies", "ps": ["The sleeve is a simpler, shorter operation than the bypass. Revisional surgery means operating on someone who has already been operated on — scar tissue and changed anatomy make it slower and costlier.", "Your BMI, other conditions and previous surgery are reviewed before a fixed figure is confirmed in writing."], "ul": ["Sleeve, bypass or revisional", "Your weight and co-morbidities", "Days in hospital", "Follow-up care needed"]},
+      {"id": "plan", "label": "Your plan", "h": "How your case is priced", "ps": ["Send your height, weight, medical history and any cardiac or diabetes reports. Our team matches you to a bariatric surgeon, and a package is quoted after the pre-op evaluation.", "You receive a written opinion with the figure and a visa letter before you travel."], "ul": ["Medical history reviewed by our team", "Surgeon matched to your case", "Fixed package price in writing"]}
+    ],
+    "costs": [
+      {"name": "Gastric sleeve", "from": "USD 4,500–7,000", "detail": "Laparoscopic sleeve gastrectomy", "href": "/conditions/severe-obesity/"},
+      {"name": "Gastric bypass", "from": "USD 5,500–8,500", "detail": "Roux-en-Y, 3–5 nights", "href": "/treatments/bariatric-surgery/"},
+      {"name": "Revisional surgery", "from": "USD 6,500–10,000", "detail": "For a previous procedure", "href": "/conditions/weight-regain/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026. The figure for your own case comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD, inclusive of hospital and surgeon fees for the standard package. Your exact figure depends on your case and is confirmed in writing before travel.",
+    "faq": [
+      {"q": "Do I qualify for surgery?", "a": "Bariatric surgery is for people with significant obesity, usually with a BMI above a level your surgeon will confirm, especially with diabetes or heart risk. The pre-op evaluation settles it honestly — surgery is not pushed on anyone."},
+      {"q": "Why is revisional surgery more expensive?", "a": "Because it is a second operation on an already-changed anatomy. It takes longer, needs more skill and carries a longer stay — the range reflects that, and the package is confirmed before you travel."},
+      {"q": "Is the dietitian included?", "a": "Yes — nutrition sessions during your stay are part of the package, because the surgery works only with the eating plan that follows it."}
+    ],
+    "faqTitle": "Questions about bariatric surgery cost",
+    "related": [
+      {"href": "/treatments/bariatric-surgery/", "c": "#96692A", "ic": "doc", "t": "Bariatric surgery in India", "d": "Sleeve, bypass and the team behind it"},
+      {"href": "/conditions/severe-obesity/", "c": "#7A4C86", "ic": "heart", "t": "Severe obesity", "d": "When weight-loss surgery is the right step"},
+      {"href": "/conditions/weight-regain/", "c": "#A03D33", "ic": "doccheck", "t": "Weight regain", "d": "Revisional options after a first procedure"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/ivf/",
+    "id": "cost-ivf",
+    "canonical": "https://tibhind.com/cost/ivf/",
+    "crumb": "IVF cost",
+    "title": "IVF cost in India | TIB HIND",
+    "description": "IVF cost in India: IVF cycle, ICSI, egg and sperm donation, and PGT-A testing. Honest USD ranges at accredited fertility centres. Written figure in 48 hours.",
+    "h1": "IVF cost in India",
+    "lede": "Fertility treatment in Delhi NCR costs a fraction of Western prices while matching international laboratory standards. These ranges are honest estimates — the figure for your cycle comes in writing within 48 hours.",
+    "heroBody": "Your age, your ovarian reserve, whether ICSI is needed and whether you use donated eggs or sperm all change the cost. The clinic's lab accreditation matters more than marketing.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/how-we-are-paid/", "label": "How we are paid"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Cycle length", "v": "2–3 weeks", "d": "From stimulation to embryo transfer"},
+      {"k": "Languages", "v": "Arabic, English, Russian", "d": "Also Bengali — spoken on-site"}
+    ],
+    "sections": [
+      {"id": "what", "label": "Overview", "h": "What the price includes", "ps": ["A typical package covers stimulation medication, monitoring scans and blood tests, egg retrieval, laboratory fertilisation, embryo culture and transfer, and the embryologist's time. An interpreter and visa letter are included.", "Donor egg or sperm, PGT-A genetic testing and embryo freezing for future cycles are quoted separately or as add-ons."], "ul": ["Stimulation drugs and monitoring", "Egg retrieval and fertilisation", "Embryo culture and transfer", "Interpreter and visa letter"]},
+      {"id": "range", "label": "Why ranges", "h": "Why the cost varies between patients", "ps": ["A standard IVF cycle assumes your own eggs are fertilised with your partner's sperm. ICSI adds a lab step for male-factor cases. Using donated eggs or sperm adds donor costs, and PGT-A adds genetic testing on top.", "Your hormone profile and any previous cycles are reviewed before a fixed figure for one cycle is confirmed."], "ul": ["Own or donated eggs and sperm", "ICSI versus standard fertilisation", "PGT-A genetic testing", "Medication dose your case needs"]},
+      {"id": "plan", "label": "Your plan", "h": "How your cycle is priced", "ps": ["Send your hormone reports, ultrasound and any previous cycle history. Our team matches you to an accredited fertility centre and the clinic confirms a package for one cycle.", "You receive a written opinion with the figure and a visa letter before you travel."], "ul": ["Reports reviewed by our team", "Centre matched to your case", "Fixed price per cycle in writing"]}
+    ],
+    "costs": [
+      {"name": "IVF cycle", "from": "USD 3,000–4,500", "detail": "One full cycle, own eggs", "href": "/treatments/fertility/"},
+      {"name": "ICSI", "from": "USD 3,500–5,000", "detail": "IVF with sperm injection", "href": "/treatments/fertility/"},
+      {"name": "IVF with egg or sperm donation", "from": "USD 5,000–7,000", "detail": "One cycle with donor gametes", "href": "/conditions/pcos/"},
+      {"name": "PGT-A testing add-on", "from": "USD 1,200–1,800", "detail": "Genetic screening of embryos", "href": "/treatments/fertility/"}
+    ],
+    "costsNote": "Ranges are typical for Delhi NCR in 2026, per cycle. The figure for your case comes in writing within 48 hours.",
+    "costsFooter": "Prices in USD per cycle. Frozen embryo transfer in a later cycle, and medications beyond the standard protocol, are quoted separately before you commit.",
+    "faq": [
+      {"q": "Does the price include medication?", "a": "The stimulation medication is included in the package for the standard dose your protocol needs. If your dose is unusually high, the difference is agreed with you before the cycle starts."},
+      {"q": "What if a cycle fails?", "a": "The package covers one complete cycle as stated. If you have frozen embryos, a frozen transfer in a later cycle costs far less than a fresh cycle — that figure is quoted transparently, with no pressure to continue."},
+      {"q": "Is PGT-A testing necessary?", "a": "Not for everyone. It is recommended in some cases, such as advanced maternal age or repeated failed cycles. We present it as an option with its cost, and the decision stays with you and your doctor."}
+    ],
+    "faqTitle": "Questions about IVF cost",
+    "related": [
+      {"href": "/treatments/fertility/", "c": "#7A4C86", "ic": "heart", "t": "Fertility treatment in India", "d": "IVF, ICSI and the lab behind the numbers"},
+      {"href": "/conditions/endometriosis/", "c": "#A03D33", "ic": "doc", "t": "Endometriosis", "d": "How it affects fertility and treatment"},
+      {"href": "/conditions/pcos/", "c": "#8A6A28", "ic": "doccheck", "t": "PCOS", "d": "Ovulation, treatment and pregnancy outcomes"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/cost/what-is-included/",
+    "id": "cost-what-is-included",
+    "canonical": "https://tibhind.com/cost/what-is-included/",
+    "crumb": "What is included",
+    "title": "What is included in a TIB HIND cost | TIB HIND",
+    "description": "Exactly what a TIB HIND treatment package covers and what it does not: surgeon and hospital fees, room, medicines, ICU, tests, translator and visa letter — itemised, no hidden charges.",
+    "h1": "What is included in your cost",
+    "lede": "Before you compare quotes, know what they contain. This page sets out exactly what a TIB HIND package covers, what it does not, and how the invoice is itemised — so there are no surprises.",
+    "heroBody": "The package price we confirm in writing is the price for your planned treatment. Every line appears on an itemised invoice, and anything beyond the plan is agreed with you before it is done.",
+    "cta": { "solid": {"href": "/contact/", "label": "Get a figure for my case"}, "line": {"href": "/cost/", "label": "See treatment costs"}, "note": "Free. No obligation. A written opinion within 48 hours." },
+    "byline": ["Clinically reviewed by <b>Dr. Annie Varughese</b>", "Prices last verified <b>August 2026</b>", "<a href=\"/editorial-policy/\">Editorial and medical review policy</a>"],
+    "facts": [
+      {"k": "Written opinion", "v": "48 hours", "d": "Including a cost figure for your own case"},
+      {"k": "Invoice", "v": "Itemised", "d": "Every line shown, in your language"},
+      {"k": "Hospitals pay us", "v": "Never you", "d": "No guidance fees on your bill"}
+    ],
+    "sections": [
+      {"id": "included", "label": "Included", "h": "What the quoted figure includes", "ps": ["The written package price covers the surgeon and hospital fees, your room, nursing care, standard medicines, ICU time where the procedure needs it, and the basic tests your treatment requires.", "It also covers an interpreter so you always understand what is happening, and the medical visa invitation letter for the countries TIB HIND supports."], "ul": ["Surgeon and hospital fees", "Room and nursing care", "Standard medicines and ICU where needed", "Basic tests for your procedure", "Interpreter during your stay", "Medical visa invitation letter"]},
+      {"id": "excluded", "label": "Excluded", "h": "What it does not include", "ps": ["Flights, hotels for family members and everyday meals are outside the package, as is any non-essential drug or test your doctor does not consider part of the standard protocol.", "Complications are the one thing no honest quote can fully price in advance. If one arises, we discuss the plan and its cost with you before proceeding — never after."], "ul": ["Flights and airport transfers", "Family hotels and meals", "Non-essential drugs and tests", "Complications — agreed with you as they occur"]},
+      {"id": "invoice", "label": "Invoice", "h": "How the invoice is itemised", "ps": ["You receive a line-by-line invoice in a language you understand, covering the hospital, the surgeon, the room, medicines, tests and any ICU days. It matches the package we confirmed in writing.", "Because the hospitals pay TIB HIND, there is no guidance fee, translation fee or service charge on your bill — you pay for treatment only."], "ul": ["Line-by-line itemisation", "Matches the written package", "No agency or service fees"]}
+    ],
+    "faq": [
+      {"q": "Are there hidden charges?", "a": "No. The written opinion states what the package covers, and the hospital invoice is itemised line by line in your language. Anything beyond the confirmed plan — a non-standard drug, a longer stay, a complication — is agreed with you before any cost is incurred."},
+      {"q": "Do I pay TIB HIND anything?", "a": "No. The hospitals pay us, never you. Your bill covers your treatment and the itemised items listed on it — our guidance, translation and visa support are not charged to you."},
+      {"q": "What if the invoice shows more than the package?", "a": "Tell us immediately. The invoice must match the written package. Any difference should only reflect an item you agreed to add beforehand — if it is unexplained, we resolve it with the hospital before you pay."}
+    ],
+    "faqTitle": "Questions about charges",
+    "related": [
+      {"href": "/cost/", "c": "#2E6E6E", "ic": "doc", "t": "Treatment costs in India", "d": "Honest ranges across specialties"},
+      {"href": "/how-we-are-paid/", "c": "#3D6B8A", "ic": "doccheck", "t": "How we are paid", "d": "Hospitals pay us — what that means for you"},
+      {"href": "/medical-visa/", "c": "#8A6A28", "ic": "plane", "t": "Medical visa for India", "d": "Visa invitation letters for eight countries"}
+    ],
+    "relatedTitle": "Related pages"
+  }
+]

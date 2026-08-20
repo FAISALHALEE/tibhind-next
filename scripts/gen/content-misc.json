@@ -1,0 +1,823 @@
+[
+  {
+    "route": "/blog/",
+    "id": "blog",
+    "canonical": "https://tibhind.com/blog/",
+    "crumb": "Blog",
+    "title": "Blog | TIB HIND",
+    "description": "Plain-text, medically reviewed notes on travelling to India for treatment — choosing a hospital, visas, reading your reports and what treatment really costs.",
+    "h1": "TIB HIND blog",
+    "lede": "A plain-text journal on travelling to India for treatment, written for patients and their families rather than for search engines.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Start with your reports" },
+      "line": { "href": "/faq/", "label": "Read the FAQ" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [ { "k": "Updated", "v": "Monthly", "d": "Medically reviewed" } ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "Overview",
+        "h": "A journal about getting treated in India",
+        "ps": [
+          "This blog is a plain-text, medically reviewed journal about travelling to India for treatment. We write it for patients and families who are weighing an unfamiliar healthcare system, not for search engines.",
+          "Every post is checked against current practice before it is published and revised when the evidence changes."
+        ],
+        "ul": [
+          "How to choose a hospital in Delhi NCR",
+          "Medical visas and invitation letters for eight countries",
+          "How to read your own angiogram and scan reports",
+          "What a written opinion with costs actually includes",
+          "Realistic costs for common cardiac and surgical procedures",
+          "Questions to ask before agreeing to surgery",
+          "What to expect in the first 48 hours after arriving"
+        ]
+      },
+      {
+        "id": "review",
+        "label": "Review",
+        "h": "Medically reviewed, updated monthly",
+        "ps": [
+          "New posts are added monthly. Each one is reviewed by Dr. Annie Varughese, MD, FACC — a US board-certified interventional cardiologist — before it is published.",
+          "Nothing here replaces your own doctor's advice, but it should help you ask better questions."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Do you sell anything in these posts?", "a": "No. The blog contains no affiliate links and no product promotions. Hospitals pay us, and we say so plainly." },
+      { "q": "Can I suggest a topic?", "a": "Yes. Write to tibhind@gmail.com and we will add it to our review queue." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/editorial-policy/", "c": "#2E6E6E", "ic": "doccheck", "t": "Editorial policy", "d": "How our content is reviewed" },
+      { "href": "/faq/", "c": "#3D6B8A", "ic": "doc", "t": "FAQ", "d": "Common questions answered" },
+      { "href": "/conditions/", "c": "#7A4C86", "ic": "heart", "t": "Conditions", "d": "Medical conditions we help with" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/doctors/",
+    "id": "doctors",
+    "canonical": "https://tibhind.com/doctors/",
+    "crumb": "Doctors",
+    "title": "Doctors | TIB HIND",
+    "description": "How TIB HIND chooses the doctors we work with — case volume, outcomes, accredited hospitals and transparent fees — and how Dr. Annie Varughese reviews every case.",
+    "h1": "How we choose doctors",
+    "lede": "We are not a directory. We work with a small, vetted panel of surgeons and physicians, selected on results rather than marketing.",
+    "heroBody": "You should be able to know who would treat you, what it costs, and why that doctor was chosen — before you spend a rupee.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Send your reports" },
+      "line": { "href": "/how-we-select/", "label": "How we select" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [ { "k": "Approach", "v": "Vetted panel", "d": "Not a directory" }, { "k": "Review", "v": "Dr. Annie Varughese", "d": "MD, FACC" } ],
+    "sections": [
+      {
+        "id": "criteria",
+        "label": "Criteria",
+        "h": "What we check before a doctor joins the panel",
+        "ps": [
+          "A surgeon's name on a website means little. We look at how often a doctor actually does the procedure, what the outcomes and complication rates are, and how the doctor communicates with international patients.",
+          "Each doctor on our panel practises at a hospital with NABH or JCI accreditation, publishes their fees clearly, and is willing to be named to you before you commit."
+        ],
+        "ul": [
+          "Case volume — how often the doctor does your specific procedure",
+          "Outcomes and complication data, where available",
+          "Hospital accreditation, NABH or JCI",
+          "Transparent, agreed fees shown before travel",
+          "Clear English communication with patients and families"
+        ]
+      },
+      {
+        "id": "panel",
+        "label": "The panel",
+        "h": "A vetted panel, not a directory",
+        "ps": [
+          "We are not an online directory of every doctor in India. We maintain a small panel that we know personally, visit, and re-check each year.",
+          "Once we review your reports we name the specific doctors who would treat your condition, with their backgrounds and their fees, before you decide anything."
+        ]
+      },
+      {
+        "id": "review",
+        "label": "Clinical review",
+        "h": "Clinical review by Dr. Annie Varughese",
+        "ps": [
+          "Every case is reviewed by Dr. Annie Varughese, MD, FACC, a US board-certified interventional cardiologist. She reads your reports, decides whether treatment in India is genuinely appropriate, and writes the opinion you receive.",
+          "If she believes another centre or no treatment at all is the right answer, that is what we tell you."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Can I see a named surgeon before paying anything?", "a": "Yes, on request. Once we know your condition, we name the specific doctors who would treat you and share their backgrounds and fees before you commit." },
+      { "q": "Do you take commissions from doctors?", "a": "No. We take no commission from any doctor. Hospitals pay us a fee, which we disclose — you are never asked to pay us." },
+      { "q": "Will the doctor who reviews my reports be the one who operates?", "a": "No, and we say so honestly. Dr. Varughese reviews your case clinically; the surgery is performed by the treating surgeon on our panel, who is named to you in advance." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/how-we-select/", "c": "#2E6E6E", "ic": "doccheck", "t": "How we select", "d": "Our full selection process" },
+      { "href": "/about/", "c": "#3D6B8A", "ic": "doc", "t": "About TIB HIND", "d": "Who we are" },
+      { "href": "/contact/", "c": "#2F6E52", "ic": "mail", "t": "Contact", "d": "Start with your reports" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/hospitals/",
+    "id": "hospitals",
+    "canonical": "https://tibhind.com/hospitals/",
+    "crumb": "Hospitals",
+    "title": "Hospitals | TIB HIND",
+    "description": "How TIB HIND vets partner hospitals — NABH and JCI accreditation, ICU standards, infection control and published tariffs — and why accreditation matters.",
+    "h1": "How we choose hospitals",
+    "lede": "Every hospital we refer to is vetted before any patient is sent there. Accreditation is the floor, not the ceiling.",
+    "heroBody": "A glossy brochure tells you little. We check what happens on the ward and in the ICU, and what the bill will actually say.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Ask about a hospital" },
+      "line": { "href": "/how-we-are-paid/", "label": "How we are paid" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [ { "k": "Standard", "v": "NABH / JCI", "d": "Accredited only" }, { "k": "Billing", "v": "Direct", "d": "You pay the hospital" } ],
+    "sections": [
+      {
+        "id": "vetting",
+        "label": "Vetting",
+        "h": "What we check before a hospital joins us",
+        "ps": [
+          "We start with accreditation, then go further: we visit the ICU, review infection control and nursing ratios, confirm that published tariff cards are honoured, and check the track record of the specific team that would treat you.",
+          "A hospital is only as good as the team, ICU and billing practices behind a single bed."
+        ],
+        "ul": [
+          "Current NABH or JCI accreditation, verified directly",
+          "ICU standards — staffing, isolation and monitoring equipment",
+          "Infection control measures and reported rates",
+          "Published tariff cards, honoured on the final bill",
+          "The track record of the specific surgeon and unit, not the whole hospital"
+        ]
+      },
+      {
+        "id": "accreditation",
+        "label": "Accreditation",
+        "h": "Why accreditation matters",
+        "ps": [
+          "NABH (India) and JCI (international) set minimum, auditable standards for safety, nursing ratios, drug handling, sterilisation and infection control. Unaccredited hospitals are excluded from our panel, no matter how persuasive their marketing is."
+        ]
+      },
+      {
+        "id": "billing",
+        "label": "Billing",
+        "h": "You are billed by the hospital, not by us",
+        "ps": [
+          "You receive your bill directly from the hospital, at the published tariff, and you pay the hospital yourself. We never mark up treatment and never handle your money.",
+          "Hospitals pay us a fee for referring patients, and we disclose that openly."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Are hospitals in Delhi safe?", "a": "The accredited hospitals we use are safe by international standards. We check ICU standards, infection control and published tariffs, not just the brochure." },
+      { "q": "Can I visit before deciding?", "a": "Yes. If you are already in India, we arrange hospital visits before you commit. Many families confirm online first, then visit on arrival." },
+      { "q": "Do you earn from the hospitals?", "a": "Yes. Hospitals pay us a fee, and we disclose it. Your bill comes directly from the hospital and we never mark up treatment." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/how-we-select/", "c": "#2E6E6E", "ic": "doccheck", "t": "How we select", "d": "Our full selection process" },
+      { "href": "/how-we-are-paid/", "c": "#96692A", "ic": "shield", "t": "How we are paid", "d": "Hospitals pay us, not you" },
+      { "href": "/contact/", "c": "#2F6E52", "ic": "mail", "t": "Contact", "d": "Start with your reports" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/ar/",
+    "id": "ar",
+    "canonical": "https://tibhind.com/ar/",
+    "crumb": "العربية",
+    "title": "العلاج في الهند | TIB HIND",
+    "description": "تيب هيند — مرافقتك للعلاج في دلهي بالهند. رأي طبي مكتوب من طبيب معتمد من البورد الأمريكي مع التكاليف خلال 48 ساعة.",
+    "h1": "تيب هيند — العلاج في الهند",
+    "lede": "نرافقك في رحلة علاجك في منطقة دلهي الكبرى (NCR) في الهند. يفحص طبيب معتمد من البورد الأمريكي تقاريرك، وتحصل على رأي مكتوب مع التكاليف خلال 48 ساعة.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "ابدأ بإرسال تقاريرك" },
+      "line": { "href": "/faq/", "label": "اقرأ الأسئلة الشائعة" },
+      "note": "مجانية ودون أي التزام — رأي مكتوب خلال 48 ساعة."
+    },
+    "facts": [ { "k": "اللغة", "v": "العربية والإنجليزية", "d": "فريق يتحدث لغتك" } ],
+    "sections": [
+      {
+        "id": "why",
+        "label": "لماذا تيب هيند",
+        "h": "لماذا يختارنا المرضى",
+        "ps": [
+          "نحن فريق طبي، ولسنا مجرد وسيط. نعمل فقط مع مستشفيات معتمدة من NABH وJCI، وتدفع المستشفيات رسومنا وليس أنت."
+        ],
+        "ul": [
+          "أكثر من 5,000 مريض تمت مرافقتهم",
+          "رأي مكتوب مع التكاليف خلال 48 ساعة",
+          "نتحدث العربية والإنجليزية والروسية والبنغالية",
+          "مستشفيات معتمدة من NABH وJCI فقط"
+        ]
+      },
+      {
+        "id": "visa",
+        "label": "التأشيرات",
+        "h": "خطابات دعوة للتأشيرة الطبية",
+        "ps": [
+          "نقدم خطابات دعوة للتأشيرة الطبية لثماني دول، من بينها العراق واليمن، لمساعدتك على السفر بأقل تعقيد."
+        ]
+      },
+      {
+        "id": "contact",
+        "label": "التواصل",
+        "h": "تواصل معنا",
+        "ps": [
+          "أرسل تقاريرك عبر واتساب على الرقم 918303586344+ أو عبر البريد الإلكتروني tibhind@gmail.com. الاستشارة مجانية ودون أي التزام."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "كيف أرسل تقاريري الطبية؟", "a": "أرسلها عبر واتساب على الرقم 918303586344+ أو عبر البريد الإلكتروني tibhind@gmail.com." },
+      { "q": "هل الاستشارة مجانية؟", "a": "نعم، الاستشارة مجانية ودون أي التزام، وتحصل على رأي مكتوب خلال 48 ساعة." }
+    ],
+    "faqTitle": "أسئلة شائعة",
+    "related": [
+      { "href": "/medical-visa/iraq/", "c": "#2E6E6E", "ic": "plane", "t": "تأشيرة العراق", "d": "دعوات التأشيرة الطبية للمرضى العراقيين" },
+      { "href": "/medical-visa/yemen/", "c": "#3D6B8A", "ic": "plane", "t": "تأشيرة اليمن", "d": "دعوات التأشيرة الطبية للمرضى اليمنيين" },
+      { "href": "/contact/", "c": "#2F6E52", "ic": "mail", "t": "تواصل معنا", "d": "أرسل تقاريرك اليوم" }
+    ],
+    "relatedTitle": "صفحات ذات صلة"
+  },
+  {
+    "route": "/ru/",
+    "id": "ru",
+    "canonical": "https://tibhind.com/ru/",
+    "crumb": "Русский",
+    "title": "Лечение в Индии | TIB HIND",
+    "description": "TIB HIND — лечение в Индии. Письменное заключение американского врача с расходами в течение 48 часов. Аккредитованные NABH и JCI больницы.",
+    "h1": "TIB HIND — лечение в Индии",
+    "lede": "Мы сопровождаем вас на лечение в регионе Дели (NCR). Врач с сертификацией Американского совета изучит ваши документы, и в течение 48 часов вы получите письменное заключение с расходами.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Отправьте свои документы" },
+      "line": { "href": "/faq/", "label": "Часто задаваемые вопросы" },
+      "note": "Бесплатно и ни к чему не обязывает. Заключение в течение 48 часов."
+    },
+    "facts": [ { "k": "Язык", "v": "Русский и английский", "d": "Мы говорим на вашем языке" } ],
+    "sections": [
+      {
+        "id": "why",
+        "label": "О нас",
+        "h": "Почему пациенты выбирают TIB HIND",
+        "ps": [
+          "Мы медицинская команда, а не просто посредник. Работаем только с больницами, аккредитованными NABH и JCI. Больницы платят нам, а не вы."
+        ],
+        "ul": [
+          "Более 5 000 пациентов получили помощь",
+          "Письменное заключение с расходами в течение 48 часов",
+          "Работаем на арабском, английском, русском и бенгальском",
+          "Только аккредитованные NABH и JCI больницы"
+        ]
+      },
+      {
+        "id": "visa",
+        "label": "Виза",
+        "h": "Пригласительные письма для медицинской визы",
+        "ps": [
+          "Мы выдаём пригласительные письма для медицинской визы для восьми стран, включая Узбекистан, чтобы упростить вашу поездку."
+        ]
+      },
+      {
+        "id": "contact",
+        "label": "Связь",
+        "h": "Свяжитесь с нами",
+        "ps": [
+          "Отправьте свои документы по WhatsApp на номер +91 83035 86344 или по электронной почте tibhind@gmail.com. Консультация бесплатна и ни к чему вас не обязывает."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Как отправить медицинские документы?", "a": "Отправьте их по WhatsApp на номер +91 83035 86344 или по электронной почте tibhind@gmail.com." },
+      { "q": "Консультация бесплатная?", "a": "Да, консультация бесплатна и ни к чему не обязывает. Заключение придёт в течение 48 часов." }
+    ],
+    "faqTitle": "Вопросы",
+    "related": [
+      { "href": "/medical-visa/uzbekistan/", "c": "#2E6E6E", "ic": "plane", "t": "Узбекистан", "d": "Пригласительные письма для медицинской визы" },
+      { "href": "/contact/", "c": "#2F6E52", "ic": "mail", "t": "Связаться с нами", "d": "Отправьте свои документы" }
+    ],
+    "relatedTitle": "Похожие страницы"
+  },
+  {
+    "route": "/bn/",
+    "id": "bn",
+    "canonical": "https://tibhind.com/bn/",
+    "crumb": "বাংলা",
+    "title": "ভারতে চিকিৎসা | TIB HIND",
+    "description": "টিব হিন্দ — ভারতে চিকিৎসা। মার্কিন বোর্ড-সার্টিফাইড চিকিৎসকের লিখিত মতামত খরচসহ ৪৮ ঘণ্টায়। NABH ও JCI স্বীকৃত হাসপাতাল।",
+    "h1": "টিব হিন্দ — ভারতে চিকিৎসা",
+    "lede": "আমরা দিল্লি এনসিআর (NCR) অঞ্চলে চিকিৎসার জন্য আপনাকে সঙ্গ দিই। মার্কিন বোর্ড-সার্টিফাইড চিকিৎসক আপনার রিপোর্ট পরীক্ষা করবেন এবং ৪৮ ঘণ্টার মধ্যে খরচসহ লিখিত মতামত পাবেন।",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "রিপোর্ট পাঠান" },
+      "line": { "href": "/faq/", "label": "সাধারণ প্রশ্নাবলী" },
+      "note": "বিনামূল্যে, কোনো বাধ্যবাধকতা ছাড়া। ৪৮ ঘণ্টার মধ্যে লিখিত মতামত।"
+    },
+    "facts": [ { "k": "ভাষা", "v": "বাংলা ও ইংরেজি", "d": "আমরা আপনার ভাষায় কথা বলি" } ],
+    "sections": [
+      {
+        "id": "why",
+        "label": "আমাদের সম্পর্কে",
+        "h": "কেন রোগীরা টিব হিন্দ বেছে নেন",
+        "ps": [
+          "আমরা একটি মেডিকেল টিম, নিছক মধ্যস্থতাকারী নই। আমরা শুধুমাত্র NABH ও JCI স্বীকৃত হাসপাতালের সঙ্গে কাজ করি। হাসপাতাল আমাদের ফি দেয়, আপনাকে নয়।"
+        ],
+        "ul": [
+          "৫,০০০+ রোগীকে সাহায্য করা হয়েছে",
+          "৪৮ ঘণ্টার মধ্যে খরচসহ লিখিত মতামত",
+          "আরবি, ইংরেজি, রুশ ও বাংলা ভাষায় সহায়তা",
+          "শুধুমাত্র NABH ও JCI স্বীকৃত হাসপাতাল"
+        ]
+      },
+      {
+        "id": "visa",
+        "label": "ভিসা",
+        "h": "মেডিকেল ভিসার আমন্ত্রণপত্র",
+        "ps": [
+          "আমরা আটটি দেশের জন্য মেডিকেল ভিসার আমন্ত্রণপত্র দিই, যার মধ্যে বাংলাদেশও রয়েছে, যাতে আপনার ভ্রমণ সহজ হয়।"
+        ]
+      },
+      {
+        "id": "contact",
+        "label": "যোগাযোগ",
+        "h": "আমাদের সঙ্গে যোগাযোগ করুন",
+        "ps": [
+          "আপনার রিপোর্ট হোয়াটসঅ্যাপে +91 83035 86344 নম্বরে বা tibhind@gmail.com ইমেইলে পাঠান। পরামর্শ বিনামূল্যে এবং কোনো বাধ্যবাধকতা নেই।"
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "কীভাবে আমার মেডিকেল রিপোর্ট পাঠাব?", "a": "হোয়াটসঅ্যাপে +91 83035 86344 নম্বরে বা tibhind@gmail.com ইমেইলে পাঠান।" },
+      { "q": "পরামর্শ কি বিনামূল্যে?", "a": "হ্যাঁ, পরামর্শ সম্পূর্ণ বিনামূল্যে এবং কোনো বাধ্যবাধকতা ছাড়া। ৪৮ ঘণ্টার মধ্যে লিখিত মতামত পাবেন।" }
+    ],
+    "faqTitle": "প্রশ্ন",
+    "related": [
+      { "href": "/medical-visa/bangladesh/", "c": "#2E6E6E", "ic": "plane", "t": "বাংলাদেশ", "d": "মেডিকেল ভিসার আমন্ত্রণপত্র" },
+      { "href": "/contact/", "c": "#2F6E52", "ic": "mail", "t": "যোগাযোগ করুন", "d": "আজই রিপোর্ট পাঠান" }
+    ],
+    "relatedTitle": "সম্পর্কিত পাতা"
+  },
+  {
+    "route": "/conditions/coarctation-of-the-aorta/",
+    "id": "conditions-coarctation-of-the-aorta",
+    "canonical": "https://tibhind.com/conditions/coarctation-of-the-aorta/",
+    "crumb": "Coarctation of the aorta",
+    "title": "Coarctation of the aorta | TIB HIND",
+    "description": "Coarctation of the aorta — a congenital narrowing of the main artery from the heart. Symptoms, diagnosis and treatment with surgery or stenting in Delhi NCR.",
+    "h1": "Coarctation of the aorta",
+    "lede": "Coarctation of the aorta is a congenital narrowing of the main artery leaving the heart. Treated well and early, most patients live a normal life.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Send your reports" },
+      "line": { "href": "/treatments/heart/", "label": "Heart treatment" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [
+      { "k": "Type", "v": "Congenital narrowing of the aorta", "d": "Present from birth" },
+      { "k": "Treatment", "v": "Surgery or stenting", "d": "Depends on age and anatomy" },
+      { "k": "Time in India", "v": "2–3 weeks", "d": "Including follow-up" }
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "Overview",
+        "h": "What coarctation of the aorta is",
+        "ps": [
+          "Coarctation is a narrowing of the aorta, usually just after the artery that supplies the left arm. Blood pressure builds up above the narrowing and the lower body gets less flow.",
+          "It is a congenital defect — present from birth — and it is often discovered in childhood, though milder forms can surface in adults during a routine blood-pressure check."
+        ]
+      },
+      {
+        "id": "symptoms",
+        "label": "Symptoms",
+        "h": "Symptoms and how it is noticed",
+        "ps": [
+          "In infants, a tight coarctation causes poor feeding, breathlessness and heart strain. In older children and adults it is often found because blood pressure in the arms is much higher than in the legs.",
+          "Some people feel headaches, cold legs or leg cramps with exercise."
+        ],
+        "ul": [
+          "High blood pressure in the arms, normal or low in the legs",
+          "Weak or delayed femoral pulses",
+          "Headaches and dizziness",
+          "Leg cramps or cold feet with exercise",
+          "In babies — poor feeding and rapid breathing"
+        ]
+      },
+      {
+        "id": "diagnosis",
+        "label": "Diagnosis",
+        "h": "How it is diagnosed",
+        "ps": [
+          "The first clue is usually a blood-pressure difference between arms and legs, or a murmur. An echocardiogram confirms the narrowing, and a CT or MRI angiography maps its exact position and length before any treatment."
+        ]
+      },
+      {
+        "id": "treatment",
+        "label": "Treatment",
+        "h": "Treatment: surgery or stenting",
+        "ps": [
+          "In children, the standard is surgery — removing the narrow segment and joining the aorta back together. Most children are home within a week.",
+          "In selected adults, angioplasty with a stent can widen the narrowing without open surgery. Which option is right depends on age and anatomy, and your child or you would be assessed by the treating cardiac team in Delhi NCR."
+        ]
+      },
+      {
+        "id": "outcomes",
+        "label": "Outcomes",
+        "h": "Outcomes",
+        "ps": [
+          "Results are excellent when the defect is corrected early, and long-term survival approaches that of the general population.",
+          "If treatment is delayed, high blood pressure can persist even after repair, which is one reason early referral matters."
+        ]
+      },
+      {
+        "id": "when",
+        "label": "When to treat",
+        "h": "When to treat",
+        "ps": [
+          "A significant coarctation should be treated once it is found — there is no benefit in waiting, and the narrowing strains the heart. If you have a child diagnosed with coarctation, we can arrange a written review by our cardiology team within 48 hours."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Can coarctation be treated without surgery?", "a": "In some adults, yes — angioplasty with a stent can widen the narrowing. In children, surgery is usually the standard, safest option." },
+      { "q": "How long would my child stay in India?", "a": "Allow 2–3 weeks: a week or so in hospital after surgery, a short recovery period, and a follow-up before travelling home." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/treatments/heart/", "c": "#A03D33", "ic": "heart", "t": "Heart treatment", "d": "Cardiac care in Delhi NCR" },
+      { "href": "/conditions/hole-in-the-heart/", "c": "#3D6B8A", "ic": "doc", "t": "Hole in the heart", "d": "ASD and VSD explained" },
+      { "href": "/cost/heart-surgery/", "c": "#96692A", "ic": "arrow", "t": "Heart surgery cost", "d": "What it really costs" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/conditions/ibd-crohns/",
+    "id": "conditions-ibd-crohns",
+    "canonical": "https://tibhind.com/conditions/ibd-crohns/",
+    "crumb": "IBD and Crohn's disease",
+    "title": "IBD and Crohn's disease | TIB HIND",
+    "description": "IBD and Crohn's disease — chronic bowel inflammation. Symptoms, diagnosis with colonoscopy and MRI, and treatment from medication to surgery and biologics in India.",
+    "h1": "IBD and Crohn's disease",
+    "lede": "Crohn's disease and ulcerative colitis are chronic inflammation of the bowel. Most patients are managed with medication; surgery is reserved for complications.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Send your reports" },
+      "line": { "href": "/treatments/gastroenterology/", "label": "Gastroenterology" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [
+      { "k": "Type", "v": "Chronic bowel inflammation", "d": "Crohn's and ulcerative colitis" },
+      { "k": "First-line", "v": "Medical therapy", "d": "Usually effective for years" },
+      { "k": "Surgery when", "v": "Complications or stricture", "d": "Not first choice" }
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "Overview",
+        "h": "What IBD and Crohn's disease are",
+        "ps": [
+          "Inflammatory bowel disease covers two lifelong conditions — Crohn's disease and ulcerative colitis. Crohn's can affect any part of the digestive tract and inflames the full thickness of the bowel wall.",
+          "It runs a relapsing and remitting course: periods of active disease with symptoms, followed by quieter phases."
+        ]
+      },
+      {
+        "id": "symptoms",
+        "label": "Symptoms",
+        "h": "Symptoms",
+        "ul": [
+          "Frequent diarrhoea, sometimes with blood or mucus",
+          "Abdominal pain and cramping",
+          "Weight loss and loss of appetite",
+          "Fatigue and low energy",
+          "Complications — strictures (narrowings) and fistulas"
+        ]
+      },
+      {
+        "id": "diagnosis",
+        "label": "Diagnosis",
+        "h": "How it is diagnosed",
+        "ps": [
+          "Colonoscopy with biopsies is the key test — it shows the pattern of inflammation and confirms the diagnosis under the microscope.",
+          "MRI is used to see the full thickness of the bowel and to map strictures and fistulas, and stool tests rule out infection first."
+        ]
+      },
+      {
+        "id": "medical",
+        "label": "Medical treatment",
+        "h": "Medical treatment first",
+        "ps": [
+          "Treatment starts with medication: aminosalicylates for mild disease, steroids to settle flares, and immunomodulators to keep the disease quiet.",
+          "Biologic therapies are the next step for moderate to severe disease, and are now routinely available in India at a fraction of Western prices — a major reason patients travel here."
+        ]
+      },
+      {
+        "id": "surgical",
+        "label": "Surgery",
+        "h": "When surgery is needed",
+        "ps": [
+          "Surgery is reserved for complications — strictures that block the bowel, fistulas, abscesses, or disease that no longer responds to medication.",
+          "The approach is conservative: surgeons remove only the diseased segment and preserve as much bowel as possible. Many patients who have surgery still need long-term medication afterwards."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Is surgery always needed for Crohn's?", "a": "No. Most patients are treated with medication for years. Surgery is used for complications like strictures or fistulas that do not settle medically." },
+      { "q": "Are biologic drugs available in India?", "a": "Yes. The main biologic therapies for IBD are available in Delhi NCR at considerably lower cost than in most Western countries." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/treatments/gastroenterology/", "c": "#2F6E52", "ic": "doc", "t": "Gastroenterology", "d": "Digestive care in India" },
+      { "href": "/conditions/ibd/", "c": "#3D6B8A", "ic": "doc", "t": "IBD", "d": "Inflammatory bowel disease" },
+      { "href": "/cost/gastroenterology/", "c": "#96692A", "ic": "arrow", "t": "Gastroenterology cost", "d": "What it really costs" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/conditions/lymphoma/",
+    "id": "conditions-lymphoma",
+    "canonical": "https://tibhind.com/conditions/lymphoma/",
+    "crumb": "Lymphoma",
+    "title": "Lymphoma | TIB HIND",
+    "description": "Lymphoma — Hodgkin and non-Hodgkin. Symptoms, diagnosis with biopsy and PET-CT, and treatment from chemotherapy to transplant for relapsed disease in India.",
+    "h1": "Lymphoma",
+    "lede": "Lymphoma is a cancer of the immune cells. Hodgkin and most non-Hodgkin lymphomas respond well to chemotherapy, and many patients are cured.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Send your reports" },
+      "line": { "href": "/treatments/bone-marrow-transplant/", "label": "Transplant care" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [
+      { "k": "Types", "v": "Hodgkin and non-Hodgkin", "d": "Two main families" },
+      { "k": "Main treatment", "v": "Chemotherapy ± transplant", "d": "Radiotherapy in some cases" },
+      { "k": "Time in India", "v": "6–8 weeks for a cycle", "d": "Assessment plus treatment" }
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "Overview",
+        "h": "What lymphoma is",
+        "ps": [
+          "Lymphoma is a cancer that starts in lymphocytes — the infection-fighting white blood cells of the lymphatic system. It is broadly divided into Hodgkin lymphoma and non-Hodgkin lymphoma (NHL), which behave differently and are treated differently.",
+          "Both are among the most treatable cancers, particularly Hodgkin lymphoma."
+        ]
+      },
+      {
+        "id": "symptoms",
+        "label": "Symptoms",
+        "h": "Symptoms",
+        "ul": [
+          "Painless swollen lymph nodes in the neck, armpits or groin",
+          "Night sweats that soak the bedding",
+          "Unexplained fever",
+          "Weight loss without trying",
+          "Fatigue and itching"
+        ]
+      },
+      {
+        "id": "diagnosis",
+        "label": "Diagnosis",
+        "h": "How it is diagnosed",
+        "ps": [
+          "A lymph node biopsy is essential — imaging alone cannot confirm lymphoma. The biopsy is reviewed by a specialist haematopathologist, and the tissue type decides treatment.",
+          "PET-CT is then used to stage the disease accurately, and a bone marrow biopsy is added when needed."
+        ]
+      },
+      {
+        "id": "treatment",
+        "label": "Treatment",
+        "h": "Treatment",
+        "ps": [
+          "Standard treatment is chemotherapy — ABVD for Hodgkin lymphoma and CHOP-based regimens for most non-Hodgkin lymphomas, often with targeted antibody therapy added.",
+          "For relapsed or high-risk disease, high-dose chemotherapy with an autologous stem cell transplant is used, and India offers modern transplant units at a fraction of Western cost."
+        ]
+      },
+      {
+        "id": "india",
+        "label": "Treatment in India",
+        "h": "What a cycle in India involves",
+        "ps": [
+          "A typical plan means 6–8 weeks in Delhi NCR: initial assessment and staging, the first chemotherapy cycle with hospital support, and a review before you travel home for the next cycle, which your local oncologist can supervise."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Is lymphoma curable?", "a": "Many lymphomas are curable, especially Hodgkin lymphoma and high-grade NHL treated promptly. Outcome depends on the exact subtype and stage." },
+      { "q": "Do I have to stay in India for the whole treatment?", "a": "Usually not. After the first cycle and a clear plan, later cycles can often be coordinated with your oncologist at home." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/treatments/bone-marrow-transplant/", "c": "#7A4C86", "ic": "shield", "t": "Bone marrow transplant", "d": "Transplant care in India" },
+      { "href": "/conditions/lymphoma-multiple-myeloma/", "c": "#3D6B8A", "ic": "doc", "t": "Lymphoma and myeloma", "d": "Related blood cancers" },
+      { "href": "/cost/cancer-treatment/", "c": "#96692A", "ic": "arrow", "t": "Cancer treatment cost", "d": "What it really costs" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/conditions/paediatric-neurosurgery/",
+    "id": "conditions-paediatric-neurosurgery",
+    "canonical": "https://tibhind.com/conditions/paediatric-neurosurgery/",
+    "crumb": "Paediatric neurosurgery",
+    "title": "Paediatric neurosurgery | TIB HIND",
+    "description": "Paediatric neurosurgery in India — brain tumours, hydrocephalus, epilepsy surgery and spina bifida, and what a child's treatment pathway looks like.",
+    "h1": "Paediatric neurosurgery",
+    "lede": "Children with brain and spinal conditions deserve a team that treats children. Our paediatric pathway pairs a paediatric neurosurgeon with a dedicated paediatric ICU.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Send your child's reports" },
+      "line": { "href": "/treatments/neurosurgery/", "label": "Neurosurgery" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [
+      { "k": "Focus", "v": "Brain tumours, hydrocephalus", "d": "Plus epilepsy surgery and spina bifida" },
+      { "k": "Team", "v": "Paediatric neuro + ICU", "d": "Dedicated children's pathway" },
+      { "k": "Time in India", "v": "3–4 weeks", "d": "Surgery plus recovery" }
+    ],
+    "sections": [
+      {
+        "id": "conditions",
+        "label": "Conditions",
+        "h": "Conditions we help with",
+        "ps": [
+          "We help with conditions where the child's age changes everything — a tumour, a fluid build-up or a spinal defect in a small child is not treated the way an adult would be."
+        ],
+        "ul": [
+          "Brain tumours, including posterior fossa and midline tumours",
+          "Hydrocephalus and cerebrospinal fluid shunts",
+          "Epilepsy surgery for drug-resistant seizures",
+          "Spina bifida and neural tube defects",
+          "Head trauma and skull malformations"
+        ]
+      },
+      {
+        "id": "pathway",
+        "label": "The pathway",
+        "h": "What the paediatric pathway looks like",
+        "ps": [
+          "Your child's scans are reviewed by our clinical team first, then by a paediatric neurosurgeon, so you know before travelling whether surgery is genuinely appropriate.",
+          "In India, your child is seen by a paediatric neurologist, operated on by a paediatric neurosurgeon in a children's hospital, and nursed afterwards in a dedicated paediatric ICU — not a general adult ward.",
+          "Recovery and rehabilitation are planned with the family, and follow-up is arranged with your doctor at home before you leave."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Are children operated on in adult hospitals?", "a": "No. We route children through paediatric hospitals with dedicated paediatric ICUs, paediatric anaesthetists and paediatric neurosurgeons." },
+      { "q": "How long should we plan to stay?", "a": "Plan for 3–4 weeks in India: surgery, time in the paediatric ICU and ward, and a recovery review before flying home." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/treatments/neurosurgery/", "c": "#3D6B8A", "ic": "doc", "t": "Neurosurgery", "d": "Brain and spine surgery" },
+      { "href": "/conditions/hydrocephalus/", "c": "#2E6E6E", "ic": "doc", "t": "Hydrocephalus", "d": "Fluid on the brain" },
+      { "href": "/conditions/paediatric-brain-tumours/", "c": "#7A4C86", "ic": "heart", "t": "Paediatric brain tumours", "d": "Tumours in children" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/conditions/reflux-ulcers/",
+    "id": "conditions-reflux-ulcers",
+    "canonical": "https://tibhind.com/conditions/reflux-ulcers/",
+    "crumb": "Acid reflux and peptic ulcers",
+    "title": "Acid reflux and peptic ulcers | TIB HIND",
+    "description": "Acid reflux (GERD) and peptic ulcers — symptoms, diagnosis with endoscopy, and treatment from PPI medication to fundoplication surgery in India.",
+    "h1": "Acid reflux and peptic ulcers",
+    "lede": "Heartburn is common; persistent reflux and ulcers are treatable. Most people improve with medication, and surgery helps a selected few.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Send your reports" },
+      "line": { "href": "/treatments/gastroenterology/", "label": "Gastroenterology" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [
+      { "k": "First-line", "v": "PPI drugs", "d": "Heal most ulcers" },
+      { "k": "Surgery when", "v": "Failed medical therapy", "d": "Fundoplication in selected cases" },
+      { "k": "Diagnosis", "v": "Endoscopy", "d": "The key test" }
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "Overview",
+        "h": "What reflux and ulcers are",
+        "ps": [
+          "Gastro-oesophageal reflux disease (GERD) is when stomach acid repeatedly washes back into the oesophagus. Peptic ulcers are sores in the lining of the stomach or the first part of the duodenum.",
+          "Both are very common, both are usually manageable, and both respond well to treatment."
+        ]
+      },
+      {
+        "id": "symptoms",
+        "label": "Symptoms",
+        "h": "Symptoms",
+        "ul": [
+          "Heartburn after meals and lying down",
+          "Regurgitation of acid into the mouth",
+          "Chest pain or trouble swallowing",
+          "For ulcers — a burning stomach pain between meals",
+          "Black stools or vomiting blood, needing urgent attention"
+        ]
+      },
+      {
+        "id": "diagnosis",
+        "label": "Diagnosis",
+        "h": "How it is diagnosed",
+        "ps": [
+          "Endoscopy is the key test. The camera shows reflux damage to the oesophagus and confirms any ulcer, and a biopsy tests for H. pylori — the bacterium behind most ulcers.",
+          "For reflux that does not settle, a pH study measures acid exposure over 24 hours."
+        ]
+      },
+      {
+        "id": "medical",
+        "label": "Medical treatment",
+        "h": "Medical treatment first",
+        "ps": [
+          "Proton pump inhibitors (PPIs) are the first-line treatment — they reduce acid so the oesophagus and ulcer can heal. When H. pylori is present, antibiotics clear it, and most ulcers heal within 4–8 weeks.",
+          "Lifestyle changes — weight, meals and sleeping position — do more than people expect."
+        ]
+      },
+      {
+        "id": "surgical",
+        "label": "Surgery",
+        "h": "When surgery is considered",
+        "ps": [
+          "Surgery is for the minority: people whose reflux is severe despite medication, who cannot tolerate long-term PPIs, or who have complications.",
+          "Fundoplication wraps the top of the stomach around the lower oesophagus to reinforce the valve, and is now done keyhole in Delhi NCR with a short hospital stay."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Do most people with reflux need surgery?", "a": "No. The large majority are well controlled with PPI medication and lifestyle changes. Surgery is for severe or medication-resistant cases." },
+      { "q": "Is fundoplication done without a big cut?", "a": "Yes. In most cases it is done laparoscopically — keyhole — with a hospital stay of a few days." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/treatments/gastroenterology/", "c": "#2F6E52", "ic": "doc", "t": "Gastroenterology", "d": "Digestive care in India" },
+      { "href": "/conditions/peptic-ulcer/", "c": "#3D6B8A", "ic": "doc", "t": "Peptic ulcer", "d": "Stomach and duodenal ulcers" },
+      { "href": "/cost/gastroenterology/", "c": "#96692A", "ic": "arrow", "t": "Gastroenterology cost", "d": "What it really costs" }
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/conditions/transposition-great-arteries/",
+    "id": "conditions-transposition-great-arteries",
+    "canonical": "https://tibhind.com/conditions/transposition-great-arteries/",
+    "crumb": "Transposition of the great arteries",
+    "title": "Transposition of the great arteries | TIB HIND",
+    "description": "Transposition of the great arteries (TGA) — a cyanotic congenital heart defect corrected in the first weeks of life, and why early referral matters.",
+    "h1": "Transposition of the great arteries",
+    "lede": "TGA is a serious congenital heart defect that must be corrected in the first weeks of life. With early surgery, the outlook is good.",
+    "cta": {
+      "solid": { "href": "/contact/", "label": "Send your child's reports" },
+      "line": { "href": "/treatments/heart/", "label": "Heart treatment" },
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": ["Written by <b>TIB HIND clinical team</b>", "<a href=\"/editorial-policy/\">Editorial policy</a>"],
+    "facts": [
+      { "k": "Type", "v": "Cyanotic congenital defect", "d": "Present from birth" },
+      { "k": "Treatment", "v": "Arterial switch operation", "d": "Corrective surgery" },
+      { "k": "When", "v": "First weeks of life", "d": "Early referral is critical" }
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "Overview",
+        "h": "What TGA is",
+        "ps": [
+          "In transposition of the great arteries, the two main arteries leaving the heart are swapped: the aorta comes off the right ventricle and the pulmonary artery off the left. Oxygen-poor blood circulates the body while oxygen-rich blood circles the lungs.",
+          "The baby survives only if a connection between the two circulations exists — a hole or a duct — and even then the oxygen level is dangerously low. This is why the baby is blue from birth."
+        ]
+      },
+      {
+        "id": "early",
+        "label": "Why early referral matters",
+        "h": "Why early referral matters",
+        "ps": [
+          "TGA is a surgical emergency, not an elective condition. In the first days of life a prostaglandin infusion keeps the connecting duct open, and a balloon septostomy may be done in the catheter lab to buy time.",
+          "The definitive operation — the arterial switch — reconnects the aorta to the left ventricle and the pulmonary artery to the right, restoring normal blood flow. It is best done in the first weeks of life, in a unit experienced in neonatal heart surgery."
+        ]
+      },
+      {
+        "id": "outcomes",
+        "label": "Outcomes",
+        "h": "Outcomes",
+        "ps": [
+          "In experienced congenital heart units, survival for the arterial switch operation is above 90 percent, and most children grow up normally with long-term cardiology follow-up.",
+          "A newborn with TGA should be referred without delay — every day of severe cyanosis adds risk. We can have a US board-certified cardiologist review the echo and a written opinion back within 48 hours."
+        ]
+      }
+    ],
+    "faq": [
+      { "q": "Why does TGA need surgery so early?", "a": "Because the baby's body is circulating oxygen-poor blood. Surgery in the first weeks of life restores normal flow before the heart and lungs are damaged." },
+      { "q": "What is the arterial switch operation?", "a": "It is the corrective operation that swaps the great arteries back to their correct positions, so each ventricle pumps to the right destination." }
+    ],
+    "faqTitle": "Questions",
+    "related": [
+      { "href": "/treatments/heart/", "c": "#A03D33", "ic": "heart", "t": "Heart treatment", "d": "Cardiac care in Delhi NCR" },
+      { "href": "/conditions/complex-congenital-heart-defects/", "c": "#3D6B8A", "ic": "doc", "t": "Complex congenital heart defects", "d": "Related heart defects" },
+      { "href": "/cost/heart-surgery/", "c": "#96692A", "ic": "arrow", "t": "Heart surgery cost", "d": "What it really costs" }
+    ],
+    "relatedTitle": "Related pages"
+  }
+]

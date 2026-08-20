@@ -1,0 +1,750 @@
+[
+  {
+    "route": "/medical-visa/",
+    "id": "medical-visa",
+    "canonical": "https://tibhind.com/medical-visa/",
+    "crumb": "Medical visa",
+    "title": "Medical visa for treatment in India | TIB HIND",
+    "description": "Medical visa invitation letters for treatment in India. Written opinion with costs within 48 hours. NABH and JCI accredited hospitals only.",
+    "h1": "Medical visa for treatment in India",
+    "lede": "India issues e-Medical Visas for treatment. TIB HIND provides your hospital invitation letter so you can apply with the documents immigration expects to see.",
+    "heroBody": "Treatment in India needs more than a diagnosis and a flight. The e-Medical Visa asks you to prove that a genuine hospital appointment exists. Our invitation letter does exactly that.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"}
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "label": "Overview",
+        "h": "Why a visa letter is needed",
+        "ps": [
+          "India issues an e-Medical Visa to patients travelling for treatment. Applying online is straightforward, but the visa officer and immigration expect to see a genuine medical reason: a hospital letter, a medical summary, and for many nationalities an invitation letter from the treating hospital or facilitator.",
+          "That letter is the difference between a smooth arrival and a difficult one. The patient must be able to produce it at immigration on arrival."
+        ],
+        "ul": [
+          "Confirms the treatment and the hospital to the visa officer",
+          "Shows immigration why you are in India and how long you will stay",
+          "Matches your application with your actual hospital appointment"
+        ]
+      },
+      {
+        "id": "countries",
+        "label": "Countries",
+        "h": "The eight countries we cover",
+        "ps": [
+          "TIB HIND issues medical visa invitation letters for patients from eight countries. If yours is not listed, write to us anyway — we will tell you honestly what you need."
+        ],
+        "ul": [
+          "<a href=\"/medical-visa/iraq/\">Iraq</a>",
+          "<a href=\"/medical-visa/bangladesh/\">Bangladesh</a>",
+          "<a href=\"/medical-visa/uzbekistan/\">Uzbekistan</a>",
+          "<a href=\"/medical-visa/oman/\">Oman</a>",
+          "<a href=\"/medical-visa/yemen/\">Yemen</a>",
+          "<a href=\"/medical-visa/sudan/\">Sudan</a>",
+          "<a href=\"/medical-visa/ghana/\">Ghana</a>",
+          "<a href=\"/medical-visa/ethiopia/\">Ethiopia</a>"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "The e-Medical Visa is applied for online through the official Indian government portal. You must apply at least four days before travel — we recommend starting about a week ahead."
+        ],
+        "ul": [
+          "Send your reports and passport copy to TIB HIND",
+          "Receive your invitation letter and hospital documents within 2–3 working days",
+          "Apply online for the e-Medical Visa with your letter",
+          "Wait for the approved e-visa, then book your flight to Delhi",
+          "Carry your invitation letter and medical summary, and show them at immigration on arrival"
+        ]
+      },
+      {
+        "id": "issue",
+        "label": "What we issue",
+        "h": "What TIB HIND issues",
+        "ps": [
+          "When your case is accepted, TIB HIND issues a formal invitation letter on hospital letterhead together with the supporting documents you need for the visa application."
+        ],
+        "ul": [
+          "A medical visa invitation letter naming the hospital and treatment",
+          "A written medical opinion with costs, usually within 48 hours",
+          "Hospital contact details for the visa officer",
+          "Only NABH and JCI accredited hospitals in Delhi NCR"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How long does it take?", "a": "Your invitation letter is usually issued within 2–3 working days of our reviewing your reports. The e-Medical Visa is applied for online and you should allow at least four days — we recommend starting about a week before you plan to travel."},
+      {"q": "How much does the letter cost?", "a": "Usually nothing. We do not charge for the invitation letter itself. You still pay the Indian government's e-visa fee directly when you apply."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice. We will review it with you, adjust the invitation or documents if that is the problem, and support a fresh application. We will not press you to spend money on a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/how-it-works/", "c": "#2E6E6E", "ic": "doc", "t": "How it works", "d": "What happens after you write to us"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "Send your reports by WhatsApp, email or the contact form"},
+      {"href": "/cost/", "c": "#8A6A28", "ic": "heart", "t": "Treatment costs", "d": "A written opinion with costs within 48 hours"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/iraq/",
+    "id": "medical-visa-iraq",
+    "canonical": "https://tibhind.com/medical-visa/iraq/",
+    "crumb": "Visa for Iraqi patients",
+    "title": "Medical visa for Iraqi patients | TIB HIND",
+    "description": "e-Medical Visa invitation letter for Iraqi patients travelling to India for treatment. Arabic-speaking team. Written opinion within 48 hours.",
+    "h1": "Medical visa for Iraqi patients",
+    "lede": "Most Iraqi patients travel to Delhi for treatment on the e-Medical Visa. TIB HIND issues your invitation letter and supports you in Arabic from your first message to your arrival.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "Iraqi patients applying for an e-Medical Visa to India are expected to show a genuine, documented need for treatment. The invitation letter confirms that a real hospital appointment exists before you fly."
+        ],
+        "ul": [
+          "You have a diagnosis and a treatment plan for a Delhi NCR hospital",
+          "The visa officer can confirm the hospital and the treating doctor",
+          "Immigration sees a letter that matches your visa application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Send us these and we will do the rest. Our Arabic-speaking team in Delhi helps you prepare the paperwork and answers your questions in Arabic."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "Allow roughly a week between applying and travelling. The e-Medical Visa must be applied for at least four days before your flight."
+        ],
+        "ul": [
+          "Send your reports — we review your case and issue your invitation letter within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for your letter, up to a week for the e-visa, then flights. Plan for a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Your companions apply together with you and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice and we will review it with you in Arabic. We correct the invitation or documents if that is the cause and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/transplant/", "c": "#A03D33", "ic": "heart", "t": "Organ transplant in India", "d": "Kidney and liver transplant in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "Arabic-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/bangladesh/",
+    "id": "medical-visa-bangladesh",
+    "canonical": "https://tibhind.com/medical-visa/bangladesh/",
+    "crumb": "Visa for Bangladeshi patients",
+    "title": "Medical visa for Bangladeshi patients | TIB HIND",
+    "description": "e-Medical Visa invitation letter for patients from Bangladesh. Bengali-speaking team in Delhi NCR. Written opinion with costs within 48 hours.",
+    "h1": "Medical visa for patients from Bangladesh",
+    "lede": "Patients from Bangladesh most often fly to Delhi for treatment. TIB HIND issues your e-Medical Visa invitation letter and our Bengali-speaking team supports you at every step.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "The Indian e-Medical Visa is issued for genuine medical treatment. The invitation letter confirms your hospital appointment and treatment plan to the visa officer before you travel."
+        ],
+        "ul": [
+          "You have a confirmed treatment plan at a Delhi NCR hospital",
+          "The visa officer can verify the hospital and the treating doctor",
+          "Immigration sees a letter that matches your application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Our Bengali-speaking team in Delhi helps you prepare and check everything before you apply, so nothing is missing at the last minute."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "The e-Medical Visa must be applied for at least four days before travel. From Dhaka the flight is short, but the paperwork still takes about a week."
+        ],
+        "ul": [
+          "Send your reports — your invitation letter is issued within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for the letter, up to a week for the e-visa, then the short flight from Dhaka. Count on a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Apply together and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice. We review it with you in Bengali, correct the invitation or documents if needed, and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/heart/", "c": "#A03D33", "ic": "heart", "t": "Heart treatment in India", "d": "Bypass, valve and angioplasty in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "Bengali-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/uzbekistan/",
+    "id": "medical-visa-uzbekistan",
+    "canonical": "https://tibhind.com/medical-visa/uzbekistan/",
+    "crumb": "Visa for patients from Uzbekistan",
+    "title": "Medical visa for patients from Uzbekistan | TIB HIND",
+    "description": "e-Medical Visa invitation letter for patients from Uzbekistan. Russian-speaking team. NABH and JCI accredited hospitals in Delhi NCR.",
+    "h1": "Medical visa for patients from Uzbekistan",
+    "lede": "Uzbek patients travel to Delhi for treatment that is hard to reach at home. TIB HIND issues your invitation letter and our Russian-speaking team guides you through the e-Medical Visa.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "The e-Medical Visa is issued for genuine treatment in India. The invitation letter confirms that a real hospital appointment exists, which is exactly what the visa officer and immigration want to see."
+        ],
+        "ul": [
+          "You have a diagnosis and a treatment plan for a Delhi NCR hospital",
+          "The visa officer can confirm the hospital and the treating doctor",
+          "Immigration sees a letter that matches your visa application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Our Russian-speaking team in Delhi helps you prepare the paperwork and explains each step of the process in your language."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "Allow roughly a week between applying and travelling. The e-Medical Visa must be applied for at least four days before your flight."
+        ],
+        "ul": [
+          "Send your reports — your invitation letter is issued within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for the letter, up to a week for the e-visa, then flights. Plan for a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Your companions apply together with you and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice and we will review it with you in Russian. We correct the invitation or documents if that is the cause and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/neurosurgery/", "c": "#A03D33", "ic": "doc", "t": "Neurosurgery in India", "d": "Brain and spine surgery in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "Russian-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/oman/",
+    "id": "medical-visa-oman",
+    "canonical": "https://tibhind.com/medical-visa/oman/",
+    "crumb": "Visa for patients from Oman",
+    "title": "Medical visa for patients from Oman | TIB HIND",
+    "description": "e-Medical Visa invitation letter for patients from Oman. Arabic-speaking team in Delhi NCR. Written opinion with costs within 48 hours.",
+    "h1": "Medical visa for patients from Oman",
+    "lede": "Most patients from Oman fly into Delhi for treatment. TIB HIND issues your e-Medical Visa invitation letter and our Arabic-speaking team supports you from application to arrival.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "The e-Medical Visa is issued for genuine treatment in India. The invitation letter confirms your hospital appointment and treatment plan to the visa officer before you travel."
+        ],
+        "ul": [
+          "You have a confirmed treatment plan at a Delhi NCR hospital",
+          "The visa officer can verify the hospital and the treating doctor",
+          "Immigration sees a letter that matches your application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Our Arabic-speaking team in Delhi helps you prepare the paperwork and answers your questions in Arabic."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "Allow roughly a week between applying and travelling. The e-Medical Visa must be applied for at least four days before your flight."
+        ],
+        "ul": [
+          "Send your reports — your invitation letter is issued within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for the letter, up to a week for the e-visa, then flights. Plan for a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Your companions apply together with you and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice and we will review it with you in Arabic. We correct the invitation or documents if that is the cause and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/cancer/", "c": "#A03D33", "ic": "shield", "t": "Cancer treatment in India", "d": "Surgery, radiation and chemotherapy in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "Arabic-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/yemen/",
+    "id": "medical-visa-yemen",
+    "canonical": "https://tibhind.com/medical-visa/yemen/",
+    "crumb": "Visa for patients from Yemen",
+    "title": "Medical visa for patients from Yemen | TIB HIND",
+    "description": "e-Medical Visa invitation letter for patients from Yemen. Arabic-speaking team. Written opinion with costs within 48 hours.",
+    "h1": "Medical visa for patients from Yemen",
+    "lede": "Patients from Yemen come to Delhi for treatment that is often unavailable at home. TIB HIND issues your invitation letter and our Arabic-speaking team helps you through every step.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "The e-Medical Visa is issued for genuine treatment in India. The invitation letter confirms that a real hospital appointment exists before you make the journey."
+        ],
+        "ul": [
+          "You have a diagnosis and a treatment plan for a Delhi NCR hospital",
+          "The visa officer can confirm the hospital and the treating doctor",
+          "Immigration sees a letter that matches your visa application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Our Arabic-speaking team in Delhi helps you prepare the paperwork and keeps you informed in Arabic at every step."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "Allow roughly a week between applying and travelling. The e-Medical Visa must be applied for at least four days before your flight."
+        ],
+        "ul": [
+          "Send your reports — your invitation letter is issued within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for the letter, up to a week for the e-visa, then flights. Plan for a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Your companions apply together with you and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice and we will review it with you in Arabic. We correct the invitation or documents if that is the cause and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/transplant/", "c": "#A03D33", "ic": "heart", "t": "Organ transplant in India", "d": "Kidney and liver transplant in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "Arabic-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/sudan/",
+    "id": "medical-visa-sudan",
+    "canonical": "https://tibhind.com/medical-visa/sudan/",
+    "crumb": "Visa for patients from Sudan",
+    "title": "Medical visa for patients from Sudan | TIB HIND",
+    "description": "e-Medical Visa invitation letter for patients from Sudan. Arabic-speaking team in Delhi NCR. Written opinion with costs within 48 hours.",
+    "h1": "Medical visa for patients from Sudan",
+    "lede": "Sudanese patients commonly fly to Delhi for treatment. TIB HIND issues your e-Medical Visa invitation letter and our Arabic-speaking team supports you at every step.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "The e-Medical Visa is issued for genuine treatment in India. The invitation letter confirms your hospital appointment and treatment plan to the visa officer before you travel."
+        ],
+        "ul": [
+          "You have a confirmed treatment plan at a Delhi NCR hospital",
+          "The visa officer can verify the hospital and the treating doctor",
+          "Immigration sees a letter that matches your application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Our Arabic-speaking team in Delhi helps you prepare the paperwork and answers your questions in Arabic."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "Allow roughly a week between applying and travelling. The e-Medical Visa must be applied for at least four days before your flight."
+        ],
+        "ul": [
+          "Send your reports — your invitation letter is issued within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for the letter, up to a week for the e-visa, then flights. Plan for a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Your companions apply together with you and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice and we will review it with you in Arabic. We correct the invitation or documents if that is the cause and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/orthopaedics/", "c": "#A03D33", "ic": "doc", "t": "Joint replacement in India", "d": "Knee and hip replacement in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "Arabic-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/ghana/",
+    "id": "medical-visa-ghana",
+    "canonical": "https://tibhind.com/medical-visa/ghana/",
+    "crumb": "Visa for patients from Ghana",
+    "title": "Medical visa for patients from Ghana | TIB HIND",
+    "description": "e-Medical Visa invitation letter for patients from Ghana travelling to India for treatment. Written opinion with costs within 48 hours.",
+    "h1": "Medical visa for patients from Ghana",
+    "lede": "Ghanaians come to Delhi for treatment at a fraction of European or US cost. TIB HIND issues your invitation letter and guides you through the e-Medical Visa step by step.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "The e-Medical Visa is issued for genuine treatment in India. The invitation letter confirms that a real hospital appointment exists, which is exactly what the visa officer and immigration want to see."
+        ],
+        "ul": [
+          "You have a diagnosis and a treatment plan for a Delhi NCR hospital",
+          "The visa officer can confirm the hospital and the treating doctor",
+          "Immigration sees a letter that matches your visa application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Our team in Delhi helps you prepare the paperwork. We work in English, so there is no language barrier at any step."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "Allow roughly a week between applying and travelling. The e-Medical Visa must be applied for at least four days before your flight."
+        ],
+        "ul": [
+          "Send your reports — your invitation letter is issued within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for the letter, up to a week for the e-visa, then flights. Plan for a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Your companions apply together with you and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice and we will review it with you. We correct the invitation or documents if that is the cause and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/cancer/", "c": "#A03D33", "ic": "shield", "t": "Cancer treatment in India", "d": "Surgery, radiation and chemotherapy in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "English-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  },
+  {
+    "route": "/medical-visa/ethiopia/",
+    "id": "medical-visa-ethiopia",
+    "canonical": "https://tibhind.com/medical-visa/ethiopia/",
+    "crumb": "Visa for patients from Ethiopia",
+    "title": "Medical visa for patients from Ethiopia | TIB HIND",
+    "description": "e-Medical Visa invitation letter for patients from Ethiopia. Written opinion with costs within 48 hours. NABH and JCI accredited hospitals only.",
+    "h1": "Medical visa for patients from Ethiopia",
+    "lede": "Ethiopian patients travel to Delhi for treatment that is hard to access at home. TIB HIND issues your invitation letter and guides you through the e-Medical Visa step by step.",
+    "cta": {
+      "solid": {"href": "/contact/", "label": "Get my visa letter"},
+      "line": {"href": "/how-it-works/", "label": "How it works"},
+      "note": "Free. No obligation. A written opinion within 48 hours."
+    },
+    "byline": [
+      "Visa guidance prepared by <b>TIB HIND Healthcare</b>",
+      "Invitation letters issued within <b>2–3 working days</b>",
+      "<a href=\"/editorial-policy/\">Editorial policy</a>"
+    ],
+    "facts": [
+      {"k": "Visa type", "v": "e-Medical Visa", "d": "Usually valid 60 days, double entry"},
+      {"k": "Letter issued", "v": "2–3 working days", "d": "After reports are reviewed"},
+      {"k": "Companions", "v": "Up to 3", "d": "One patient, up to three attendants"}
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "label": "Who it's for",
+        "h": "Who needs this letter",
+        "ps": [
+          "The e-Medical Visa is issued for genuine treatment in India. The invitation letter confirms your hospital appointment and treatment plan to the visa officer before you travel."
+        ],
+        "ul": [
+          "You have a confirmed treatment plan at a Delhi NCR hospital",
+          "The visa officer can verify the hospital and the treating doctor",
+          "Immigration sees a letter that matches your application"
+        ]
+      },
+      {
+        "id": "send",
+        "label": "What we need",
+        "h": "What you send us",
+        "ps": [
+          "Our team in Delhi helps you prepare the paperwork. We work in English, so there is no language barrier at any step."
+        ],
+        "ul": [
+          "Passport copies — valid six months beyond your stay, with blank pages",
+          "Your medical reports and current diagnosis",
+          "Proof of funds and your planned travel dates",
+          "A return ticket once your travel dates are fixed"
+        ]
+      },
+      {
+        "id": "steps",
+        "label": "Steps",
+        "h": "The e-Medical Visa steps",
+        "ps": [
+          "Allow roughly a week between applying and travelling. The e-Medical Visa must be applied for at least four days before your flight."
+        ],
+        "ul": [
+          "Send your reports — your invitation letter is issued within 2–3 working days",
+          "Apply online for the e-Medical Visa, at least four days before you travel",
+          "Wait for the approved e-visa — allow about a week",
+          "Fly to Delhi and carry your invitation letter and medical summary",
+          "Show your letter at immigration on arrival"
+        ]
+      }
+    ],
+    "faq": [
+      {"q": "How soon can I travel?", "a": "Usually within two weeks of sending your reports: 2–3 working days for the letter, up to a week for the e-visa, then flights. Plan for a week of assessment in Delhi before any procedure."},
+      {"q": "Can my family come with me?", "a": "Yes. The e-Medical Visa allows up to three companions per patient. Your companions apply together with you and carry the same invitation letter."},
+      {"q": "What if my visa is refused?", "a": "Send us the refusal notice and we will review it with you. We correct the invitation or documents if that is the cause and support a fresh application. We will not push you toward a visa that is unlikely to be granted."}
+    ],
+    "faqTitle": "Visa questions",
+    "related": [
+      {"href": "/medical-visa/", "c": "#2E6E6E", "ic": "plane", "t": "Medical visa to India", "d": "The general e-Medical Visa process"},
+      {"href": "/treatments/fertility/", "c": "#A03D33", "ic": "heart", "t": "IVF treatment in India", "d": "Fertility and IVF care in Delhi NCR"},
+      {"href": "/contact/", "c": "#3D6B8A", "ic": "phone", "t": "Contact TIB HIND", "d": "English-speaking team. Send your reports today"}
+    ],
+    "relatedTitle": "Related pages"
+  }
+]

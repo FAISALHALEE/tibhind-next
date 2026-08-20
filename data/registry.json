@@ -626,7 +626,2431 @@
   {
     "id": "treatments",
     "route": "/treatments/",
-    "title": "Medical Treatments in India for International Patients | TIB HIND",
-    "source": "tib-hind-treatments-page.html"
+    "title": "Medical Treatment in India: 26 Specialties | TIB HIND",
+    "source": "new changes/tib-hind-treatments-page (1).html"
+  },
+  {
+    "id": "cost",
+    "route": "/cost/",
+    "title": "Treatment Costs in India | Compare Medical Procedure Costs | TIB HIND",
+    "source": "new changes/tib-hind-treatment-cost-page.html"
+  },
+  {
+    "id": "cost-heart-surgery",
+    "route": "/cost/heart-surgery/",
+    "title": "Heart surgery cost in India | TIB HIND",
+    "source": "generated/cost-heart-surgery.json"
+  },
+  {
+    "id": "cost-cancer-treatment",
+    "route": "/cost/cancer-treatment/",
+    "title": "Cancer treatment cost in India | TIB HIND",
+    "source": "generated/cost-cancer-treatment.json"
+  },
+  {
+    "id": "cost-neurosurgery",
+    "route": "/cost/neurosurgery/",
+    "title": "Neurosurgery cost in India | TIB HIND",
+    "source": "generated/cost-neurosurgery.json"
+  },
+  {
+    "id": "cost-spine-surgery",
+    "route": "/cost/spine-surgery/",
+    "title": "Spine surgery cost in India | TIB HIND",
+    "source": "generated/cost-spine-surgery.json"
+  },
+  {
+    "id": "cost-bone-marrow-transplant",
+    "route": "/cost/bone-marrow-transplant/",
+    "title": "Bone marrow transplant cost in India | TIB HIND",
+    "source": "generated/cost-bone-marrow-transplant.json"
+  },
+  {
+    "id": "cost-transplant",
+    "route": "/cost/transplant/",
+    "title": "Organ transplant cost in India | TIB HIND",
+    "source": "generated/cost-transplant.json"
+  },
+  {
+    "id": "cost-gastroenterology",
+    "route": "/cost/gastroenterology/",
+    "title": "Gastrointestinal surgery cost in India | TIB HIND",
+    "source": "generated/cost-gastroenterology.json"
+  },
+  {
+    "id": "cost-bariatric-surgery",
+    "route": "/cost/bariatric-surgery/",
+    "title": "Bariatric surgery cost in India | TIB HIND",
+    "source": "generated/cost-bariatric-surgery.json"
+  },
+  {
+    "id": "cost-ivf",
+    "route": "/cost/ivf/",
+    "title": "IVF cost in India | TIB HIND",
+    "source": "generated/cost-ivf.json"
+  },
+  {
+    "id": "cost-what-is-included",
+    "route": "/cost/what-is-included/",
+    "title": "What a Medical Treatment Quote Should Include | TIB HIND",
+    "source": "new changes/tib-hind-what-a-treatment-quote-should-include.html"
+  },
+  {
+    "id": "medical-visa",
+    "route": "/medical-visa/",
+    "title": "India Medical Visa Guide for International Patients | TIB HIND",
+    "source": "new changes/tib-hind-india-medical-visa-guide.html"
+  },
+  {
+    "id": "medical-visa-iraq",
+    "route": "/medical-visa/iraq/",
+    "title": "Medical visa for Iraqi patients | TIB HIND",
+    "source": "generated/medical-visa-iraq.json"
+  },
+  {
+    "id": "medical-visa-bangladesh",
+    "route": "/medical-visa/bangladesh/",
+    "title": "Medical visa for Bangladeshi patients | TIB HIND",
+    "source": "generated/medical-visa-bangladesh.json"
+  },
+  {
+    "id": "medical-visa-uzbekistan",
+    "route": "/medical-visa/uzbekistan/",
+    "title": "Medical visa for patients from Uzbekistan | TIB HIND",
+    "source": "generated/medical-visa-uzbekistan.json"
+  },
+  {
+    "id": "medical-visa-oman",
+    "route": "/medical-visa/oman/",
+    "title": "Medical visa for patients from Oman | TIB HIND",
+    "source": "generated/medical-visa-oman.json"
+  },
+  {
+    "id": "medical-visa-yemen",
+    "route": "/medical-visa/yemen/",
+    "title": "Medical visa for patients from Yemen | TIB HIND",
+    "source": "generated/medical-visa-yemen.json"
+  },
+  {
+    "id": "medical-visa-sudan",
+    "route": "/medical-visa/sudan/",
+    "title": "Medical visa for patients from Sudan | TIB HIND",
+    "source": "generated/medical-visa-sudan.json"
+  },
+  {
+    "id": "medical-visa-ghana",
+    "route": "/medical-visa/ghana/",
+    "title": "Medical visa for patients from Ghana | TIB HIND",
+    "source": "generated/medical-visa-ghana.json"
+  },
+  {
+    "id": "medical-visa-ethiopia",
+    "route": "/medical-visa/ethiopia/",
+    "title": "Medical visa for patients from Ethiopia | TIB HIND",
+    "source": "generated/medical-visa-ethiopia.json"
+  },
+  {
+    "id": "about",
+    "route": "/about/",
+    "title": "About TIB HIND | Clinician-Led Medical Travel to India | TIB HIND",
+    "source": "new changes/tib-hind-about-us.html"
+  },
+  {
+    "id": "about-dr-annie-varughese",
+    "route": "/about/dr-annie-varughese/",
+    "title": "Dr. Annie T. Varughese, MD, FACC | TIB HIND Medical Review Partner | TIB HIND",
+    "source": "new changes/tib-hind-dr-annie-varughese-profile (1).html"
+  },
+  {
+    "id": "contact",
+    "route": "/contact/",
+    "title": "Contact TIB HIND | Send your reports for a free written opinion",
+    "source": "generated/contact.json"
+  },
+  {
+    "id": "faq",
+    "route": "/faq/",
+    "title": "Medical Travel to India FAQs | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-medical-travel-faq.html"
+  },
+  {
+    "id": "how-it-works",
+    "route": "/how-it-works/",
+    "title": "How Medical Travel With TIB HIND Works | Step by Step | TIB HIND",
+    "source": "new changes/tib-hind-how-medical-travel-works.html"
+  },
+  {
+    "id": "how-we-are-paid",
+    "route": "/how-we-are-paid/",
+    "title": "How TIB HIND Is Paid | Medical Travel Fee Transparency | TIB HIND",
+    "source": "new changes/tib-hind-how-we-are-paid.html"
+  },
+  {
+    "id": "how-we-select",
+    "route": "/how-we-select/",
+    "title": "How TIB HIND Selects Hospitals and Doctors in India | TIB HIND",
+    "source": "new changes/tib-hind-selection-criteria (1).html"
+  },
+  {
+    "id": "editorial-policy",
+    "route": "/editorial-policy/",
+    "title": "TIB HIND Editorial and Medical Review Policy | TIB HIND",
+    "source": "new changes/tib-hind-editorial-review-policy.html"
+  },
+  {
+    "id": "medical-disclaimer",
+    "route": "/medical-disclaimer/",
+    "title": "Medical Disclaimer and Patient Safety Notice | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-medical-disclaimer.html"
+  },
+  {
+    "id": "privacy",
+    "route": "/privacy/",
+    "title": "Privacy and Medical Data Protection Policy | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-privacy-data-protection.html"
+  },
+  {
+    "id": "terms",
+    "route": "/terms/",
+    "title": "Terms of Use and Medical Travel Coordination | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-terms-of-use.html"
+  },
+  {
+    "id": "refund-policy",
+    "route": "/refund-policy/",
+    "title": "Refund and Cancellation Policy | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-refund-cancellation-policy.html"
+  },
+  {
+    "id": "complaints",
+    "route": "/complaints/",
+    "title": "Complaints and Concerns Procedure | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-complaints-procedure.html"
+  },
+  {
+    "id": "transplant-law-india",
+    "route": "/transplant-law-india/",
+    "title": "Organ transplant law in India | TIB HIND",
+    "source": "generated/transplant-law-india.json"
+  },
+  {
+    "id": "patient-stories",
+    "route": "/patient-stories/",
+    "title": "Patient Stories and Medical Travel Journeys | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-patient-stories.html"
+  },
+  {
+    "id": "blog",
+    "route": "/blog/",
+    "title": "Blog | TIB HIND",
+    "source": "generated/blog.json"
+  },
+  {
+    "id": "doctors",
+    "route": "/doctors/",
+    "title": "Doctors | TIB HIND",
+    "source": "generated/doctors.json"
+  },
+  {
+    "id": "hospitals",
+    "route": "/hospitals/",
+    "title": "Hospitals | TIB HIND",
+    "source": "generated/hospitals.json"
+  },
+  {
+    "id": "ar",
+    "route": "/ar/",
+    "title": "العلاج في الهند | TIB HIND",
+    "source": "generated/ar.json"
+  },
+  {
+    "id": "ru",
+    "route": "/ru/",
+    "title": "Лечение в Индии | TIB HIND",
+    "source": "generated/ru.json"
+  },
+  {
+    "id": "bn",
+    "route": "/bn/",
+    "title": "ভারতে চিকিৎসা | TIB HIND",
+    "source": "generated/bn.json"
+  },
+  {
+    "id": "conditions-coarctation-of-the-aorta",
+    "route": "/conditions/coarctation-of-the-aorta/",
+    "title": "Coarctation of the aorta | TIB HIND",
+    "source": "generated/conditions-coarctation-of-the-aorta.json"
+  },
+  {
+    "id": "conditions-ibd-crohns",
+    "route": "/conditions/ibd-crohns/",
+    "title": "IBD and Crohn's disease | TIB HIND",
+    "source": "generated/conditions-ibd-crohns.json"
+  },
+  {
+    "id": "conditions-lymphoma",
+    "route": "/conditions/lymphoma/",
+    "title": "Lymphoma | TIB HIND",
+    "source": "generated/conditions-lymphoma.json"
+  },
+  {
+    "id": "conditions-paediatric-neurosurgery",
+    "route": "/conditions/paediatric-neurosurgery/",
+    "title": "Paediatric neurosurgery | TIB HIND",
+    "source": "generated/conditions-paediatric-neurosurgery.json"
+  },
+  {
+    "id": "conditions-reflux-ulcers",
+    "route": "/conditions/reflux-ulcers/",
+    "title": "Acid reflux and peptic ulcers | TIB HIND",
+    "source": "generated/conditions-reflux-ulcers.json"
+  },
+  {
+    "id": "conditions-transposition-great-arteries",
+    "route": "/conditions/transposition-great-arteries/",
+    "title": "Transposition of the great arteries | TIB HIND",
+    "source": "generated/conditions-transposition-great-arteries.json"
+  },
+  {
+    "id": "doctors-dr-monik-mehta",
+    "route": "/doctors/dr-monik-mehta/",
+    "title": "Col Dr. Monik Mehta | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-col-dr-monik-mehta.html"
+  },
+  {
+    "id": "doctors-dr-a-arun-kumar",
+    "route": "/doctors/dr-a-arun-kumar/",
+    "title": "Dr. A Arun Kumar | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-a-arun-kumar.html"
+  },
+  {
+    "id": "doctors-dr-ajay-k-sharma",
+    "route": "/doctors/dr-ajay-k-sharma/",
+    "title": "Dr. Ajay K Sharma | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-ajay-k-sharma.html"
+  },
+  {
+    "id": "doctors-dr-ajay-kaul",
+    "route": "/doctors/dr-ajay-kaul/",
+    "title": "Dr. Ajay Kaul | Cardiac Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-ajay-kaul.html"
+  },
+  {
+    "id": "doctors-dr-akhil-kumar-rustagi",
+    "route": "/doctors/dr-akhil-kumar-rustagi/",
+    "title": "Dr. Akhil Kumar Rustagi | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-akhil-kumar-rustagi.html"
+  },
+  {
+    "id": "doctors-dr-amish-mhatre",
+    "route": "/doctors/dr-amish-mhatre/",
+    "title": "Dr. Amish Mhatre | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-amish-mhatre.html"
+  },
+  {
+    "id": "doctors-dr-amit-bathla",
+    "route": "/doctors/dr-amit-bathla/",
+    "title": "Dr. Amit Bathla | Cardiothoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-amit-bathla.html"
+  },
+  {
+    "id": "doctors-dr-amit-chaudhary",
+    "route": "/doctors/dr-amit-chaudhary/",
+    "title": "Dr. Amit Chaudhary | Cardiac Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-amit-chaudhary.html"
+  },
+  {
+    "id": "doctors-dr-anil-bhan",
+    "route": "/doctors/dr-anil-bhan/",
+    "title": "Dr. Anil Bhan | Cardiovascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-anil-bhan.html"
+  },
+  {
+    "id": "doctors-dr-anoop-k-ganjoo",
+    "route": "/doctors/dr-anoop-k-ganjoo/",
+    "title": "Dr. Anoop K Ganjoo | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-anoop-k-ganjoo.html"
+  },
+  {
+    "id": "doctors-dr-anurag-passi",
+    "route": "/doctors/dr-anurag-passi/",
+    "title": "Dr. Anurag Passi | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-anurag-passi.html"
+  },
+  {
+    "id": "doctors-dr-arif-wahab",
+    "route": "/doctors/dr-arif-wahab/",
+    "title": "Dr. Arif Wahab | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-arif-wahab.html"
+  },
+  {
+    "id": "doctors-dr-ashish-gupta",
+    "route": "/doctors/dr-ashish-gupta/",
+    "title": "Dr. Ashish Gupta | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-ashish-gupta.html"
+  },
+  {
+    "id": "doctors-dr-ashok-kumar-omar",
+    "route": "/doctors/dr-ashok-kumar-omar/",
+    "title": "Dr. Ashok Kumar Omar | Non-Invasive Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-ashok-kumar-omar.html"
+  },
+  {
+    "id": "doctors-dr-ashok-seth",
+    "route": "/doctors/dr-ashok-seth/",
+    "title": "Dr. Ashok Seth | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-ashok-seth.html"
+  },
+  {
+    "id": "doctors-dr-balaji-v",
+    "route": "/doctors/dr-balaji-v/",
+    "title": "Dr. Balaji V | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-balaji-v.html"
+  },
+  {
+    "id": "doctors-dr-balasubramoniam-k-r",
+    "route": "/doctors/dr-balasubramoniam-k-r/",
+    "title": "Dr. Balasubramoniam K R | Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-balasubramoniam-k-r.html"
+  },
+  {
+    "id": "doctors-dr-balbir-singh",
+    "route": "/doctors/dr-balbir-singh/",
+    "title": "Dr. Balbir Singh | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-balbir-singh.html"
+  },
+  {
+    "id": "doctors-dr-balram-mishra",
+    "route": "/doctors/dr-balram-mishra/",
+    "title": "Dr. Balram Mishra | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-balram-mishra.html"
+  },
+  {
+    "id": "doctors-dr-bhaba-nanda-das",
+    "route": "/doctors/dr-bhaba-nanda-das/",
+    "title": "Dr. Bhaba Nanda Das | Cardiothoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-bhaba-nanda-das.html"
+  },
+  {
+    "id": "doctors-dr-bharat-b-kukreti",
+    "route": "/doctors/dr-bharat-b-kukreti/",
+    "title": "Dr. Bharat B Kukreti | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-bharat-b-kukreti.html"
+  },
+  {
+    "id": "doctors-dr-biju-sivam-pillai",
+    "route": "/doctors/dr-biju-sivam-pillai/",
+    "title": "Dr. Biju Sivam Pillai | Cardiac Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-biju-sivam-pillai.html"
+  },
+  {
+    "id": "doctors-dr-bipin-dubey",
+    "route": "/doctors/dr-bipin-dubey/",
+    "title": "Dr. Bipin Dubey | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-bipin-dubey.html"
+  },
+  {
+    "id": "doctors-dr-biswajit-paul",
+    "route": "/doctors/dr-biswajit-paul/",
+    "title": "Dr. Biswajit Paul | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-biswajit-paul.html"
+  },
+  {
+    "id": "doctors-dr-c-chandra-sekhar",
+    "route": "/doctors/dr-c-chandra-sekhar/",
+    "title": "Dr. C. Chandra Sekhar | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-c-chandra-sekhar.html"
+  },
+  {
+    "id": "doctors-dr-col-subroto-kumar-dutta",
+    "route": "/doctors/dr-col-subroto-kumar-dutta/",
+    "title": "Dr (Col.) Subroto Kumar Dutta | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-col-subroto-kumar-dutta.html"
+  },
+  {
+    "id": "doctors-dr-col-v-hariharan",
+    "route": "/doctors/dr-col-v-hariharan/",
+    "title": "Dr. Col V Hariharan | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-col-v-hariharan.html"
+  },
+  {
+    "id": "doctors-dr-devender-singh",
+    "route": "/doctors/dr-devender-singh/",
+    "title": "Dr. Devender Singh | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-devender-singh.html"
+  },
+  {
+    "id": "doctors-dr-dk-jhamb",
+    "route": "/doctors/dr-dk-jhamb/",
+    "title": "Dr. D.K Jhamb | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-dk-jhamb.html"
+  },
+  {
+    "id": "doctors-dr-durairaj-n",
+    "route": "/doctors/dr-durairaj-n/",
+    "title": "Dr. Durairaj N | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-durairaj-n.html"
+  },
+  {
+    "id": "doctors-dr-ganeshakrishnan-iyer",
+    "route": "/doctors/dr-ganeshakrishnan-iyer/",
+    "title": "Dr. Ganeshakrishnan Iyer | Cardiothoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-ganeshakrishnan-iyer.html"
+  },
+  {
+    "id": "doctors-dr-george-karimundackal",
+    "route": "/doctors/dr-george-karimundackal/",
+    "title": "Dr. George Karimundackal | Surgical Oncologist- Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-george-karimundackal.html"
+  },
+  {
+    "id": "doctors-dr-gobu-p",
+    "route": "/doctors/dr-gobu-p/",
+    "title": "Dr. Gobu P | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-gobu-p.html"
+  },
+  {
+    "id": "doctors-dr-harsh-vardhan",
+    "route": "/doctors/dr-harsh-vardhan/",
+    "title": "Dr. Harsh Vardhan | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-harsh-vardhan.html"
+  },
+  {
+    "id": "doctors-dr-hemant-gandhi",
+    "route": "/doctors/dr-hemant-gandhi/",
+    "title": "Dr. Hemant Gandhi | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-hemant-gandhi.html"
+  },
+  {
+    "id": "doctors-dr-hemant-madan",
+    "route": "/doctors/dr-hemant-madan/",
+    "title": "Dr. Hemant Madan | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-hemant-madan.html"
+  },
+  {
+    "id": "doctors-dr-himanshu-verma",
+    "route": "/doctors/dr-himanshu-verma/",
+    "title": "Dr. Himanshu Verma | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-himanshu-verma.html"
+  },
+  {
+    "id": "doctors-dr-jagdeep-yadav",
+    "route": "/doctors/dr-jagdeep-yadav/",
+    "title": "Dr. Jagdeep Yadav | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-jagdeep-yadav.html"
+  },
+  {
+    "id": "doctors-dr-jaisom-chopra",
+    "route": "/doctors/dr-jaisom-chopra/",
+    "title": "Dr. Jaisom Chopra | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-jaisom-chopra.html"
+  },
+  {
+    "id": "doctors-dr-jamshed-dalal",
+    "route": "/doctors/dr-jamshed-dalal/",
+    "title": "Dr. Jamshed Dalal | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-jamshed-dalal.html"
+  },
+  {
+    "id": "doctors-dr-k-k-pandey",
+    "route": "/doctors/dr-k-k-pandey/",
+    "title": "Dr. K K Pandey | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-k-k-pandey.html"
+  },
+  {
+    "id": "doctors-dr-k-k-saxena",
+    "route": "/doctors/dr-k-k-saxena/",
+    "title": "Dr. K K Saxena | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-k-k-saxena.html"
+  },
+  {
+    "id": "doctors-dr-k-subramanyan",
+    "route": "/doctors/dr-k-subramanyan/",
+    "title": "Dr. K Subramanyan | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-k-subramanyan.html"
+  },
+  {
+    "id": "doctors-dr-kamran-ali",
+    "route": "/doctors/dr-kamran-ali/",
+    "title": "Dr. Kamran Ali | Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-kamran-ali.html"
+  },
+  {
+    "id": "doctors-dr-kk-talwar",
+    "route": "/doctors/dr-kk-talwar/",
+    "title": "Dr. K.K. Talwar | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-kk-talwar.html"
+  },
+  {
+    "id": "doctors-dr-krishan-yadav",
+    "route": "/doctors/dr-krishan-yadav/",
+    "title": "Dr. Krishan Yadav | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-krishan-yadav.html"
+  },
+  {
+    "id": "doctors-dr-krishna-chaitanya",
+    "route": "/doctors/dr-krishna-chaitanya/",
+    "title": "Dr. Krishna Chaitanya | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-krishna-chaitanya.html"
+  },
+  {
+    "id": "doctors-dr-kuldeep-arora",
+    "route": "/doctors/dr-kuldeep-arora/",
+    "title": "Dr. Kuldeep Arora | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-kuldeep-arora.html"
+  },
+  {
+    "id": "doctors-dr-kumud-rai",
+    "route": "/doctors/dr-kumud-rai/",
+    "title": "Dr. Kumud Rai | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-kumud-rai.html"
+  },
+  {
+    "id": "doctors-dr-m-vijayakumar",
+    "route": "/doctors/dr-m-vijayakumar/",
+    "title": "Dr M. Vijayakumar | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-m-vijayakumar.html"
+  },
+  {
+    "id": "doctors-dr-madan-kumar-k",
+    "route": "/doctors/dr-madan-kumar-k/",
+    "title": "Dr. Madan Kumar K | Heart Lung Transplant Specialist | TIB HIND",
+    "source": "new changes/cardiologist-dr-madan-kumar-k.html"
+  },
+  {
+    "id": "doctors-dr-mahadev-d-dixit",
+    "route": "/doctors/dr-mahadev-d-dixit/",
+    "title": "Dr. Mahadev D Dixit | Cardiothoracic Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-mahadev-d-dixit.html"
+  },
+  {
+    "id": "doctors-dr-mahesh-b-n",
+    "route": "/doctors/dr-mahesh-b-n/",
+    "title": "Dr. Mahesh B N | Cardiothoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-mahesh-b-n.html"
+  },
+  {
+    "id": "doctors-dr-mahesh-chandra-garg",
+    "route": "/doctors/dr-mahesh-chandra-garg/",
+    "title": "Dr. Mahesh Chandra Garg | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-mahesh-chandra-garg.html"
+  },
+  {
+    "id": "doctors-dr-manish-aggarwal",
+    "route": "/doctors/dr-manish-aggarwal/",
+    "title": "Dr. Manish Aggarwal | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-manish-aggarwal.html"
+  },
+  {
+    "id": "doctors-dr-manjinder-singh-sandhu",
+    "route": "/doctors/dr-manjinder-singh-sandhu/",
+    "title": "Dr. Manjinder Singh Sandhu | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-manjinder-singh-sandhu.html"
+  },
+  {
+    "id": "doctors-dr-manoj-kumar",
+    "route": "/doctors/dr-manoj-kumar/",
+    "title": "Dr. Manoj Kumar | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-manoj-kumar.html"
+  },
+  {
+    "id": "doctors-dr-mukesh-goel",
+    "route": "/doctors/dr-mukesh-goel/",
+    "title": "Dr. Mukesh Goel | Cardiothoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-mukesh-goel.html"
+  },
+  {
+    "id": "doctors-dr-murali-manohar-verappa",
+    "route": "/doctors/dr-murali-manohar-verappa/",
+    "title": "Dr. Murali Manohar Verappa | Cardiovascular and Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-murali-manohar-verappa.html"
+  },
+  {
+    "id": "doctors-dr-muralidharan-k-v",
+    "route": "/doctors/dr-muralidharan-k-v/",
+    "title": "Dr. Muralidharan K V | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-muralidharan-k-v.html"
+  },
+  {
+    "id": "doctors-dr-murtaza-ahmed-chishti",
+    "route": "/doctors/dr-murtaza-ahmed-chishti/",
+    "title": "Dr. Murtaza Ahmed Chishti | Cardiothoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-murtaza-ahmed-chishti.html"
+  },
+  {
+    "id": "doctors-dr-n-sastri",
+    "route": "/doctors/dr-n-sastri/",
+    "title": "Dr. N Sastri | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-n-sastri.html"
+  },
+  {
+    "id": "doctors-dr-n-sekar",
+    "route": "/doctors/dr-n-sekar/",
+    "title": "Dr. N. Sekar | Vascular and Endovascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-n-sekar.html"
+  },
+  {
+    "id": "doctors-dr-narendra-nath-khanna",
+    "route": "/doctors/dr-narendra-nath-khanna/",
+    "title": "Dr. Narendra Nath Khanna | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-narendra-nath-khanna.html"
+  },
+  {
+    "id": "doctors-dr-narendranadh-meda",
+    "route": "/doctors/dr-narendranadh-meda/",
+    "title": "Dr. Narendranadh Meda | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-narendranadh-meda.html"
+  },
+  {
+    "id": "doctors-dr-naresh-trehan",
+    "route": "/doctors/dr-naresh-trehan/",
+    "title": "Dr. Naresh Trehan | Cardiovascular &amp; Cardiothoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-naresh-trehan.html"
+  },
+  {
+    "id": "doctors-dr-navin-chobdar",
+    "route": "/doctors/dr-navin-chobdar/",
+    "title": "Dr. Navin Chobdar | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-navin-chobdar.html"
+  },
+  {
+    "id": "doctors-dr-neeraj-bhalla",
+    "route": "/doctors/dr-neeraj-bhalla/",
+    "title": "Dr. Neeraj Bhalla | Cardiologist, Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-neeraj-bhalla.html"
+  },
+  {
+    "id": "doctors-dr-neerav-bansal",
+    "route": "/doctors/dr-neerav-bansal/",
+    "title": "Dr. Neerav Bansal | Cardiothoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-neerav-bansal.html"
+  },
+  {
+    "id": "doctors-dr-nikhil-kumar",
+    "route": "/doctors/dr-nikhil-kumar/",
+    "title": "Dr. Nikhil Kumar | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-nikhil-kumar.html"
+  },
+  {
+    "id": "doctors-dr-nikhil-rane",
+    "route": "/doctors/dr-nikhil-rane/",
+    "title": "Dr. Nikhil Rane | Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-nikhil-rane.html"
+  },
+  {
+    "id": "doctors-dr-nishith-chandra",
+    "route": "/doctors/dr-nishith-chandra/",
+    "title": "Dr. Nishith Chandra | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-nishith-chandra.html"
+  },
+  {
+    "id": "doctors-dr-nitish-anchal",
+    "route": "/doctors/dr-nitish-anchal/",
+    "title": "Dr. Nitish Anchal | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-nitish-anchal.html"
+  },
+  {
+    "id": "doctors-dr-p-c-gupta",
+    "route": "/doctors/dr-p-c-gupta/",
+    "title": "Dr. P C Gupta | Vascular and Endovascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-p-c-gupta.html"
+  },
+  {
+    "id": "doctors-dr-pankaj-ranjan",
+    "route": "/doctors/dr-pankaj-ranjan/",
+    "title": "Dr. Pankaj Ranjan | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-pankaj-ranjan.html"
+  },
+  {
+    "id": "doctors-dr-peeyush-jain",
+    "route": "/doctors/dr-peeyush-jain/",
+    "title": "Dr. Peeyush Jain | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-peeyush-jain.html"
+  },
+  {
+    "id": "doctors-dr-pradeep-jain",
+    "route": "/doctors/dr-pradeep-jain/",
+    "title": "Dr. Pradeep Jain | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-pradeep-jain.html"
+  },
+  {
+    "id": "doctors-dr-pramod-kumar",
+    "route": "/doctors/dr-pramod-kumar/",
+    "title": "Dr. Pramod Kumar | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-pramod-kumar.html"
+  },
+  {
+    "id": "doctors-dr-pramoj-jindal",
+    "route": "/doctors/dr-pramoj-jindal/",
+    "title": "Dr. Pramoj Jindal | Thoracic and Robotic Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-pramoj-jindal.html"
+  },
+  {
+    "id": "doctors-dr-prashant-tarakant-upasani",
+    "route": "/doctors/dr-prashant-tarakant-upasani/",
+    "title": "Dr. Prashant Tarakant Upasani | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-prashant-tarakant-upasani.html"
+  },
+  {
+    "id": "doctors-dr-praveen-chandra",
+    "route": "/doctors/dr-praveen-chandra/",
+    "title": "Dr. Praveen Chandra | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-praveen-chandra.html"
+  },
+  {
+    "id": "doctors-dr-praveer-agarwal",
+    "route": "/doctors/dr-praveer-agarwal/",
+    "title": "Dr. Praveer Agarwal | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-praveer-agarwal.html"
+  },
+  {
+    "id": "doctors-dr-prof-arvind-kumar",
+    "route": "/doctors/dr-prof-arvind-kumar/",
+    "title": "Dr. Prof Arvind Kumar | Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-prof-arvind-kumar.html"
+  },
+  {
+    "id": "doctors-dr-prof-d-s-gambhir",
+    "route": "/doctors/dr-prof-d-s-gambhir/",
+    "title": "Dr. Prof D. S. Gambhir | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-prof-d-s-gambhir.html"
+  },
+  {
+    "id": "doctors-dr-prof-surendra-nath-khanna",
+    "route": "/doctors/dr-prof-surendra-nath-khanna/",
+    "title": "Dr. Prof. Surendra Nath Khanna | Adult Cardiac Surgery &amp; Heart-Lung Transplant Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-prof-surendra-nath-khanna.html"
+  },
+  {
+    "id": "doctors-dr-purshotam-lal",
+    "route": "/doctors/dr-purshotam-lal/",
+    "title": "Dr. Purshotam Lal | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-purshotam-lal.html"
+  },
+  {
+    "id": "doctors-dr-r-anantharaman",
+    "route": "/doctors/dr-r-anantharaman/",
+    "title": "Dr. R Anantharaman | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-r-anantharaman.html"
+  },
+  {
+    "id": "doctors-dr-raghuram-shekhar",
+    "route": "/doctors/dr-raghuram-shekhar/",
+    "title": "Dr. Raghuram Shekhar | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-raghuram-shekhar.html"
+  },
+  {
+    "id": "doctors-dr-rajiv-agarwal",
+    "route": "/doctors/dr-rajiv-agarwal/",
+    "title": "Dr. Rajiv Agarwal | Cardiologist, Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-rajiv-agarwal.html"
+  },
+  {
+    "id": "doctors-dr-rajiv-bajaj",
+    "route": "/doctors/dr-rajiv-bajaj/",
+    "title": "Dr. Rajiv Bajaj | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-rajiv-bajaj.html"
+  },
+  {
+    "id": "doctors-dr-rajiv-mehrotra",
+    "route": "/doctors/dr-rajiv-mehrotra/",
+    "title": "Dr. Rajiv Mehrotra | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-rajiv-mehrotra.html"
+  },
+  {
+    "id": "doctors-dr-rajiv-parakh",
+    "route": "/doctors/dr-rajiv-parakh/",
+    "title": "Dr. Rajiv Parakh | Endovascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-rajiv-parakh.html"
+  },
+  {
+    "id": "doctors-dr-rajkumar-m",
+    "route": "/doctors/dr-rajkumar-m/",
+    "title": "Dr. Rajkumar M | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-rajkumar-m.html"
+  },
+  {
+    "id": "doctors-dr-rajneesh-kapoor",
+    "route": "/doctors/dr-rajneesh-kapoor/",
+    "title": "Dr. Rajneesh Kapoor | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-rajneesh-kapoor.html"
+  },
+  {
+    "id": "doctors-dr-rajneesh-malhotra",
+    "route": "/doctors/dr-rajneesh-malhotra/",
+    "title": "Dr. Rajneesh Malhotra | Cardiac Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-rajneesh-malhotra.html"
+  },
+  {
+    "id": "doctors-dr-rakesh-mahajan-vascular-surgeon",
+    "route": "/doctors/dr-rakesh-mahajan-vascular-surgeon/",
+    "title": "Dr. Rakesh Mahajan (Vascular Surgeon) | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-rakesh-mahajan-vascular-surgeon.html"
+  },
+  {
+    "id": "doctors-dr-ramakanta-panda",
+    "route": "/doctors/dr-ramakanta-panda/",
+    "title": "Dr. Ramakanta Panda | Cardiovascular Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-ramakanta-panda.html"
+  },
+  {
+    "id": "doctors-dr-ramji-mehrotra",
+    "route": "/doctors/dr-ramji-mehrotra/",
+    "title": "Dr. Ramji Mehrotra | Cardiac and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-ramji-mehrotra.html"
+  },
+  {
+    "id": "doctors-dr-ravi-kumar-r",
+    "route": "/doctors/dr-ravi-kumar-r/",
+    "title": "Dr. Ravi Kumar R | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-ravi-kumar-r.html"
+  },
+  {
+    "id": "doctors-dr-ritwick-raj-bhuyan",
+    "route": "/doctors/dr-ritwick-raj-bhuyan/",
+    "title": "Dr. Ritwick Raj Bhuyan | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-ritwick-raj-bhuyan.html"
+  },
+  {
+    "id": "doctors-dr-robert-mao",
+    "route": "/doctors/dr-robert-mao/",
+    "title": "Dr. Robert Mao | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-robert-mao.html"
+  },
+  {
+    "id": "doctors-dr-rudrappa",
+    "route": "/doctors/dr-rudrappa/",
+    "title": "Dr. Rudrappa | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-rudrappa.html"
+  },
+  {
+    "id": "doctors-dr-s-balakumar",
+    "route": "/doctors/dr-s-balakumar/",
+    "title": "Dr. S Balakumar | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-s-balakumar.html"
+  },
+  {
+    "id": "doctors-dr-s-s-bansal",
+    "route": "/doctors/dr-s-s-bansal/",
+    "title": "Dr. S. S. Bansal | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-s-s-bansal.html"
+  },
+  {
+    "id": "doctors-dr-sai-satish",
+    "route": "/doctors/dr-sai-satish/",
+    "title": "Dr. Sai Satish | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sai-satish.html"
+  },
+  {
+    "id": "doctors-dr-saket-bhardwaj",
+    "route": "/doctors/dr-saket-bhardwaj/",
+    "title": "Dr. Saket Bhardwaj | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-saket-bhardwaj.html"
+  },
+  {
+    "id": "doctors-dr-samanjoy-mukherjee",
+    "route": "/doctors/dr-samanjoy-mukherjee/",
+    "title": "Dr. Samanjoy Mukherjee | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-samanjoy-mukherjee.html"
+  },
+  {
+    "id": "doctors-dr-sameer-mehrotra",
+    "route": "/doctors/dr-sameer-mehrotra/",
+    "title": "Dr. Sameer Mehrotra | Cardiologist &amp; Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sameer-mehrotra.html"
+  },
+  {
+    "id": "doctors-dr-sanjat-chiwane",
+    "route": "/doctors/dr-sanjat-chiwane/",
+    "title": "Dr. Sanjat Chiwane | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sanjat-chiwane.html"
+  },
+  {
+    "id": "doctors-dr-sanjeev-choudhary",
+    "route": "/doctors/dr-sanjeev-choudhary/",
+    "title": "Dr. Sanjeev Choudhary | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sanjeev-choudhary.html"
+  },
+  {
+    "id": "doctors-dr-sanjeev-gera",
+    "route": "/doctors/dr-sanjeev-gera/",
+    "title": "Dr. Sanjeev Gera | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sanjeev-gera.html"
+  },
+  {
+    "id": "doctors-dr-sanjeev-jadhav",
+    "route": "/doctors/dr-sanjeev-jadhav/",
+    "title": "Dr. Sanjeev Jadhav | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-sanjeev-jadhav.html"
+  },
+  {
+    "id": "doctors-dr-sanjiv-agrawal",
+    "route": "/doctors/dr-sanjiv-agrawal/",
+    "title": "Dr. Sanjiv Agrawal | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sanjiv-agrawal.html"
+  },
+  {
+    "id": "doctors-dr-sarita-gulati",
+    "route": "/doctors/dr-sarita-gulati/",
+    "title": "Dr. Sarita Gulati | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sarita-gulati.html"
+  },
+  {
+    "id": "doctors-dr-satbir-singh",
+    "route": "/doctors/dr-satbir-singh/",
+    "title": "Dr. Satbir Singh | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-satbir-singh.html"
+  },
+  {
+    "id": "doctors-dr-sk-gupta",
+    "route": "/doctors/dr-sk-gupta/",
+    "title": "Dr. S.K. Gupta | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sk-gupta.html"
+  },
+  {
+    "id": "doctors-dr-subhash-chandra",
+    "route": "/doctors/dr-subhash-chandra/",
+    "title": "Dr. Subhash Chandra | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-subhash-chandra.html"
+  },
+  {
+    "id": "doctors-dr-suhas-parikh",
+    "route": "/doctors/dr-suhas-parikh/",
+    "title": "Dr. Suhas Parikh | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-suhas-parikh.html"
+  },
+  {
+    "id": "doctors-dr-suman-bhandari",
+    "route": "/doctors/dr-suman-bhandari/",
+    "title": "Dr. Suman Bhandari | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-suman-bhandari.html"
+  },
+  {
+    "id": "doctors-dr-sunder-t",
+    "route": "/doctors/dr-sunder-t/",
+    "title": "Dr. Sunder T | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-sunder-t.html"
+  },
+  {
+    "id": "doctors-dr-sunil-kumar-wadhwa",
+    "route": "/doctors/dr-sunil-kumar-wadhwa/",
+    "title": "Dr. Sunil Kumar Wadhwa | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sunil-kumar-wadhwa.html"
+  },
+  {
+    "id": "doctors-dr-sunil-sofat",
+    "route": "/doctors/dr-sunil-sofat/",
+    "title": "Dr. Sunil Sofat | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-sunil-sofat.html"
+  },
+  {
+    "id": "doctors-dr-suresh-joshi",
+    "route": "/doctors/dr-suresh-joshi/",
+    "title": "Dr. Suresh Joshi | Cardiothoracic Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-suresh-joshi.html"
+  },
+  {
+    "id": "doctors-dr-suresh-rao-kg",
+    "route": "/doctors/dr-suresh-rao-kg/",
+    "title": "Dr. Suresh Rao KG | Cardiac Anesthesiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-suresh-rao-kg.html"
+  },
+  {
+    "id": "doctors-dr-surinder-singh-khatana",
+    "route": "/doctors/dr-surinder-singh-khatana/",
+    "title": "Dr. Surinder Singh Khatana | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-surinder-singh-khatana.html"
+  },
+  {
+    "id": "doctors-dr-sushant-srivastava",
+    "route": "/doctors/dr-sushant-srivastava/",
+    "title": "Dr. Sushant Srivastava | Cardio Thoracic and Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-sushant-srivastava.html"
+  },
+  {
+    "id": "doctors-dr-t-s-kler",
+    "route": "/doctors/dr-t-s-kler/",
+    "title": "Dr. T. S. Kler | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-t-s-kler.html"
+  },
+  {
+    "id": "doctors-dr-t-s-srinath",
+    "route": "/doctors/dr-t-s-srinath/",
+    "title": "Dr. T S Srinath | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-t-s-srinath.html"
+  },
+  {
+    "id": "doctors-dr-tapan-ghose",
+    "route": "/doctors/dr-tapan-ghose/",
+    "title": "Dr. Tapan Ghose | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-tapan-ghose.html"
+  },
+  {
+    "id": "doctors-dr-tarun-grover",
+    "route": "/doctors/dr-tarun-grover/",
+    "title": "Dr. Tarun Grover | Endovascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-tarun-grover.html"
+  },
+  {
+    "id": "doctors-dr-thomas-mathew",
+    "route": "/doctors/dr-thomas-mathew/",
+    "title": "Dr. Thomas Mathew | Pediatric Cardiothoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-thomas-mathew.html"
+  },
+  {
+    "id": "doctors-dr-v-k-chopra",
+    "route": "/doctors/dr-v-k-chopra/",
+    "title": "Dr V K Chopra | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-v-k-chopra.html"
+  },
+  {
+    "id": "doctors-dr-varun-bansal",
+    "route": "/doctors/dr-varun-bansal/",
+    "title": "Dr. Varun Bansal | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-varun-bansal.html"
+  },
+  {
+    "id": "doctors-dr-ved-prakash",
+    "route": "/doctors/dr-ved-prakash/",
+    "title": "Dr. Ved Prakash | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-ved-prakash.html"
+  },
+  {
+    "id": "doctors-dr-venkatesh-reddy",
+    "route": "/doctors/dr-venkatesh-reddy/",
+    "title": "Dr. Venkatesh Reddy | Vascular and Endovascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-venkatesh-reddy.html"
+  },
+  {
+    "id": "doctors-dr-vijay-kumar",
+    "route": "/doctors/dr-vijay-kumar/",
+    "title": "Dr. Vijay Kumar | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vijay-kumar.html"
+  },
+  {
+    "id": "doctors-dr-vijay-shankar-c-s",
+    "route": "/doctors/dr-vijay-shankar-c-s/",
+    "title": "Dr. Vijay Shankar C S | Cardio Thoracic Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-vijay-shankar-c-s.html"
+  },
+  {
+    "id": "doctors-dr-vinay-kumar-bahl",
+    "route": "/doctors/dr-vinay-kumar-bahl/",
+    "title": "Dr. Vinay Kumar Bahl | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vinay-kumar-bahl.html"
+  },
+  {
+    "id": "doctors-dr-vineet-arya",
+    "route": "/doctors/dr-vineet-arya/",
+    "title": "Dr. Vineet Arya | Vascular surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-vineet-arya.html"
+  },
+  {
+    "id": "doctors-dr-viney-jetley",
+    "route": "/doctors/dr-viney-jetley/",
+    "title": "Dr. Viney Jetley | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-viney-jetley.html"
+  },
+  {
+    "id": "doctors-dr-vinod-sharma",
+    "route": "/doctors/dr-vinod-sharma/",
+    "title": "Dr. Vinod Sharma | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vinod-sharma.html"
+  },
+  {
+    "id": "doctors-dr-vipul-narain-roy",
+    "route": "/doctors/dr-vipul-narain-roy/",
+    "title": "Dr. Vipul Narain Roy | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vipul-narain-roy.html"
+  },
+  {
+    "id": "doctors-dr-virender-k-sheorain",
+    "route": "/doctors/dr-virender-k-sheorain/",
+    "title": "Dr. Virender K Sheorain | Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-virender-k-sheorain.html"
+  },
+  {
+    "id": "doctors-dr-vishal-agarwal",
+    "route": "/doctors/dr-vishal-agarwal/",
+    "title": "Dr. Vishal Agarwal | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vishal-agarwal.html"
+  },
+  {
+    "id": "doctors-dr-vishal-rastogi",
+    "route": "/doctors/dr-vishal-rastogi/",
+    "title": "Dr. Vishal Rastogi | Interventional Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vishal-rastogi.html"
+  },
+  {
+    "id": "doctors-dr-vivek-chaturvedi",
+    "route": "/doctors/dr-vivek-chaturvedi/",
+    "title": "Dr. Vivek Chaturvedi | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vivek-chaturvedi.html"
+  },
+  {
+    "id": "doctors-dr-viveka-kumar",
+    "route": "/doctors/dr-viveka-kumar/",
+    "title": "Dr. Viveka Kumar | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-viveka-kumar.html"
+  },
+  {
+    "id": "doctors-dr-vivudh-pratap-singh",
+    "route": "/doctors/dr-vivudh-pratap-singh/",
+    "title": "Dr. Vivudh Pratap Singh | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vivudh-pratap-singh.html"
+  },
+  {
+    "id": "doctors-dr-vs-srinath",
+    "route": "/doctors/dr-vs-srinath/",
+    "title": "Dr. V.S. Srinath | Cardiologist | TIB HIND",
+    "source": "new changes/cardiologist-dr-vs-srinath.html"
+  },
+  {
+    "id": "doctors-dr-yugal-kishore-mishra",
+    "route": "/doctors/dr-yugal-kishore-mishra/",
+    "title": "Dr. Yugal Kishore Mishra | Cardiothoracic &amp; Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-yugal-kishore-mishra.html"
+  },
+  {
+    "id": "doctors-dr-zs-meharwal",
+    "route": "/doctors/dr-zs-meharwal/",
+    "title": "Dr. Z.S. Meharwal | Cardiothoracic Vascular Surgeon | TIB HIND",
+    "source": "new changes/cardiologist-dr-zs-meharwal.html"
+  },
+  {
+    "id": "hospitals-aakash-healthcare-super-speciality-hospital",
+    "route": "/hospitals/aakash-healthcare-super-speciality-hospital/",
+    "title": "Aakash Healthcare Super Speciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-aakash-healthcare-super-speciality-hospital.html"
+  },
+  {
+    "id": "hospitals-aditya-birla-memorial-hospital",
+    "route": "/hospitals/aditya-birla-memorial-hospital/",
+    "title": "Aditya Birla Memorial Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-aditya-birla-memorial-hospital.html"
+  },
+  {
+    "id": "hospitals-aig-hospitals",
+    "route": "/hospitals/aig-hospitals/",
+    "title": "AIG Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-aig-hospitals.html"
+  },
+  {
+    "id": "hospitals-alexis-multispeciality-hospital",
+    "route": "/hospitals/alexis-multispeciality-hospital/",
+    "title": "Alexis Multispeciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-alexis-multispeciality-hospital.html"
+  },
+  {
+    "id": "hospitals-amri-hospital-dhakuria",
+    "route": "/hospitals/amri-hospital-dhakuria/",
+    "title": "AMRI Hospital, Dhakuria | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-amri-hospital-dhakuria.html"
+  },
+  {
+    "id": "hospitals-amri-hospital-mukundapur",
+    "route": "/hospitals/amri-hospital-mukundapur/",
+    "title": "AMRI Hospital, Mukundapur | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-amri-hospital-mukundapur.html"
+  },
+  {
+    "id": "hospitals-amri-hospital-salt-lake",
+    "route": "/hospitals/amri-hospital-salt-lake/",
+    "title": "AMRI Hospital, Salt Lake | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-amri-hospital-salt-lake.html"
+  },
+  {
+    "id": "hospitals-amrita-hospital-faridabad",
+    "route": "/hospitals/amrita-hospital-faridabad/",
+    "title": "Amrita Hospital, Faridabad | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-amrita-hospital-faridabad.html"
+  },
+  {
+    "id": "hospitals-amrita-hospital-kochi",
+    "route": "/hospitals/amrita-hospital-kochi/",
+    "title": "Amrita Hospital, Kochi | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-amrita-hospital-kochi.html"
+  },
+  {
+    "id": "hospitals-ananthapuri-hospitals",
+    "route": "/hospitals/ananthapuri-hospitals/",
+    "title": "Ananthapuri Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ananthapuri-hospitals.html"
+  },
+  {
+    "id": "hospitals-apollo-hospitals-bannerghatta-road",
+    "route": "/hospitals/apollo-hospitals-bannerghatta-road/",
+    "title": "Apollo Hospitals, Bannerghatta Road | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-hospitals-bannerghatta-road.html"
+  },
+  {
+    "id": "hospitals-apollo-hospitals-greams-road",
+    "route": "/hospitals/apollo-hospitals-greams-road/",
+    "title": "Apollo Hospitals, Greams Road | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-hospitals-greams-road.html"
+  },
+  {
+    "id": "hospitals-apollo-hospitals-international",
+    "route": "/hospitals/apollo-hospitals-international/",
+    "title": "Apollo Hospitals International | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-hospitals-international.html"
+  },
+  {
+    "id": "hospitals-apollo-hospitals-jubilee-hills",
+    "route": "/hospitals/apollo-hospitals-jubilee-hills/",
+    "title": "Apollo Hospitals, Jubilee Hills | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-hospitals-jubilee-hills.html"
+  },
+  {
+    "id": "hospitals-apollo-hospitals-navi-mumbai",
+    "route": "/hospitals/apollo-hospitals-navi-mumbai/",
+    "title": "Apollo Hospitals, Navi Mumbai | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-hospitals-navi-mumbai.html"
+  },
+  {
+    "id": "hospitals-apollo-multispeciality-hospitals-kolkata",
+    "route": "/hospitals/apollo-multispeciality-hospitals-kolkata/",
+    "title": "Apollo Multispeciality Hospitals, Kolkata | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-multispeciality-hospitals-kolkata.html"
+  },
+  {
+    "id": "hospitals-apollo-proton-cancer-centre",
+    "route": "/hospitals/apollo-proton-cancer-centre/",
+    "title": "Apollo Proton Cancer Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-proton-cancer-centre.html"
+  },
+  {
+    "id": "hospitals-apollo-speciality-hospitals-vanagaram",
+    "route": "/hospitals/apollo-speciality-hospitals-vanagaram/",
+    "title": "Apollo Speciality Hospitals, Vanagaram | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-speciality-hospitals-vanagaram.html"
+  },
+  {
+    "id": "hospitals-apollo-spectra-hospital-nehru-place",
+    "route": "/hospitals/apollo-spectra-hospital-nehru-place/",
+    "title": "Apollo Spectra Hospital, Nehru Place | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollo-spectra-hospital-nehru-place.html"
+  },
+  {
+    "id": "hospitals-apollomedics-super-speciality-hospital",
+    "route": "/hospitals/apollomedics-super-speciality-hospital/",
+    "title": "Apollomedics Super Speciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-apollomedics-super-speciality-hospital.html"
+  },
+  {
+    "id": "hospitals-artemis-hospital",
+    "route": "/hospitals/artemis-hospital/",
+    "title": "Artemis Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-artemis-hospital.html"
+  },
+  {
+    "id": "hospitals-asian-heart-institute",
+    "route": "/hospitals/asian-heart-institute/",
+    "title": "Asian Heart Institute | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-asian-heart-institute.html"
+  },
+  {
+    "id": "hospitals-asian-institute-of-medical-sciences",
+    "route": "/hospitals/asian-institute-of-medical-sciences/",
+    "title": "Asian Institute of Medical Sciences | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-asian-institute-of-medical-sciences.html"
+  },
+  {
+    "id": "hospitals-asian-institute-of-nephrology-and-urology-ainu",
+    "route": "/hospitals/asian-institute-of-nephrology-and-urology-ainu/",
+    "title": "Asian Institute of Nephrology &amp; Urology (AINU) | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-asian-institute-of-nephrology-and-urology-ainu.html"
+  },
+  {
+    "id": "hospitals-aster-cmi-hospital",
+    "route": "/hospitals/aster-cmi-hospital/",
+    "title": "Aster CMI Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-aster-cmi-hospital.html"
+  },
+  {
+    "id": "hospitals-aster-medcity",
+    "route": "/hospitals/aster-medcity/",
+    "title": "Aster Medcity | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-aster-medcity.html"
+  },
+  {
+    "id": "hospitals-aster-prime-hospital",
+    "route": "/hospitals/aster-prime-hospital/",
+    "title": "Aster Prime Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-aster-prime-hospital.html"
+  },
+  {
+    "id": "hospitals-baby-memorial-hospital",
+    "route": "/hospitals/baby-memorial-hospital/",
+    "title": "Baby Memorial Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-baby-memorial-hospital.html"
+  },
+  {
+    "id": "hospitals-bangalore-baptist-hospital",
+    "route": "/hospitals/bangalore-baptist-hospital/",
+    "title": "Bangalore Baptist Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-bangalore-baptist-hospital.html"
+  },
+  {
+    "id": "hospitals-belle-vue-clinic",
+    "route": "/hospitals/belle-vue-clinic/",
+    "title": "Belle Vue Clinic | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-belle-vue-clinic.html"
+  },
+  {
+    "id": "hospitals-bgs-gleneagles-global-hospital",
+    "route": "/hospitals/bgs-gleneagles-global-hospital/",
+    "title": "BGS Gleneagles Global Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-bgs-gleneagles-global-hospital.html"
+  },
+  {
+    "id": "hospitals-billroth-hospitals",
+    "route": "/hospitals/billroth-hospitals/",
+    "title": "Billroth Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-billroth-hospitals.html"
+  },
+  {
+    "id": "hospitals-blk-max-super-speciality-hospital",
+    "route": "/hospitals/blk-max-super-speciality-hospital/",
+    "title": "BLK-Max Super Speciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-blk-max-super-speciality-hospital.html"
+  },
+  {
+    "id": "hospitals-bombay-hospital-and-medical-research-centre",
+    "route": "/hospitals/bombay-hospital-and-medical-research-centre/",
+    "title": "Bombay Hospital and Medical Research Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-bombay-hospital-and-medical-research-centre.html"
+  },
+  {
+    "id": "hospitals-breach-candy-hospital",
+    "route": "/hospitals/breach-candy-hospital/",
+    "title": "Breach Candy Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-breach-candy-hospital.html"
+  },
+  {
+    "id": "hospitals-care-hospitals-banjara-hills",
+    "route": "/hospitals/care-hospitals-banjara-hills/",
+    "title": "CARE Hospitals, Banjara Hills | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-care-hospitals-banjara-hills.html"
+  },
+  {
+    "id": "hospitals-care-hospitals-hitec-city",
+    "route": "/hospitals/care-hospitals-hitec-city/",
+    "title": "CARE Hospitals, Hitec City | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-care-hospitals-hitec-city.html"
+  },
+  {
+    "id": "hospitals-caritas-hospital",
+    "route": "/hospitals/caritas-hospital/",
+    "title": "Caritas Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-caritas-hospital.html"
+  },
+  {
+    "id": "hospitals-chettinad-hospital-and-research-institute",
+    "route": "/hospitals/chettinad-hospital-and-research-institute/",
+    "title": "Chettinad Hospital and Research Institute | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-chettinad-hospital-and-research-institute.html"
+  },
+  {
+    "id": "hospitals-ck-birla-hospital-jaipur",
+    "route": "/hospitals/ck-birla-hospital-jaipur/",
+    "title": "CK Birla Hospital, Jaipur | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ck-birla-hospital-jaipur.html"
+  },
+  {
+    "id": "hospitals-ck-birla-hospitals-cmri",
+    "route": "/hospitals/ck-birla-hospitals-cmri/",
+    "title": "CK Birla Hospitals – CMRI | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ck-birla-hospitals-cmri.html"
+  },
+  {
+    "id": "hospitals-continental-hospitals",
+    "route": "/hospitals/continental-hospitals/",
+    "title": "Continental Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-continental-hospitals.html"
+  },
+  {
+    "id": "hospitals-cytecare-cancer-hospitals",
+    "route": "/hospitals/cytecare-cancer-hospitals/",
+    "title": "Cytecare Cancer Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-cytecare-cancer-hospitals.html"
+  },
+  {
+    "id": "hospitals-deenanath-mangeshkar-hospital",
+    "route": "/hospitals/deenanath-mangeshkar-hospital/",
+    "title": "Deenanath Mangeshkar Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-deenanath-mangeshkar-hospital.html"
+  },
+  {
+    "id": "hospitals-desun-hospital",
+    "route": "/hospitals/desun-hospital/",
+    "title": "DESUN Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-desun-hospital.html"
+  },
+  {
+    "id": "hospitals-dharamshila-narayana-superspeciality-hospital",
+    "route": "/hospitals/dharamshila-narayana-superspeciality-hospital/",
+    "title": "Dharamshila Narayana Superspeciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-dharamshila-narayana-superspeciality-hospital.html"
+  },
+  {
+    "id": "hospitals-eternal-hospital",
+    "route": "/hospitals/eternal-hospital/",
+    "title": "Eternal Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-eternal-hospital.html"
+  },
+  {
+    "id": "hospitals-fortis-escorts-heart-institute",
+    "route": "/hospitals/fortis-escorts-heart-institute/",
+    "title": "Fortis Escorts Heart Institute | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-escorts-heart-institute.html"
+  },
+  {
+    "id": "hospitals-fortis-escorts-hospital-jaipur",
+    "route": "/hospitals/fortis-escorts-hospital-jaipur/",
+    "title": "Fortis Escorts Hospital, Jaipur | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-escorts-hospital-jaipur.html"
+  },
+  {
+    "id": "hospitals-fortis-hospital-anandapur",
+    "route": "/hospitals/fortis-hospital-anandapur/",
+    "title": "Fortis Hospital, Anandapur | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-hospital-anandapur.html"
+  },
+  {
+    "id": "hospitals-fortis-hospital-bannerghatta-road",
+    "route": "/hospitals/fortis-hospital-bannerghatta-road/",
+    "title": "Fortis Hospital, Bannerghatta Road | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-hospital-bannerghatta-road.html"
+  },
+  {
+    "id": "hospitals-fortis-hospital-mulund",
+    "route": "/hospitals/fortis-hospital-mulund/",
+    "title": "Fortis Hospital, Mulund | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-hospital-mulund.html"
+  },
+  {
+    "id": "hospitals-fortis-hospital-shalimar-bagh",
+    "route": "/hospitals/fortis-hospital-shalimar-bagh/",
+    "title": "Fortis Hospital, Shalimar Bagh | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-hospital-shalimar-bagh.html"
+  },
+  {
+    "id": "hospitals-fortis-hospital-vasant-kunj",
+    "route": "/hospitals/fortis-hospital-vasant-kunj/",
+    "title": "Fortis Hospital, Vasant Kunj | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-hospital-vasant-kunj.html"
+  },
+  {
+    "id": "hospitals-fortis-malar-hospital",
+    "route": "/hospitals/fortis-malar-hospital/",
+    "title": "Fortis Malar Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-malar-hospital.html"
+  },
+  {
+    "id": "hospitals-fortis-memorial-research-institute",
+    "route": "/hospitals/fortis-memorial-research-institute/",
+    "title": "Fortis Memorial Research Institute | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-fortis-memorial-research-institute.html"
+  },
+  {
+    "id": "hospitals-gleneagles-healthcity-chennai",
+    "route": "/hospitals/gleneagles-healthcity-chennai/",
+    "title": "Gleneagles HealthCity, Chennai | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-gleneagles-healthcity-chennai.html"
+  },
+  {
+    "id": "hospitals-gleneagles-hospital-lakdi-ka-pul",
+    "route": "/hospitals/gleneagles-hospital-lakdi-ka-pul/",
+    "title": "Gleneagles Hospital, Lakdi-ka-pul | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-gleneagles-hospital-lakdi-ka-pul.html"
+  },
+  {
+    "id": "hospitals-gleneagles-hospital-parel",
+    "route": "/hospitals/gleneagles-hospital-parel/",
+    "title": "Gleneagles Hospital, Parel | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-gleneagles-hospital-parel.html"
+  },
+  {
+    "id": "hospitals-hcg-cancer-centre-ahmedabad",
+    "route": "/hospitals/hcg-cancer-centre-ahmedabad/",
+    "title": "HCG Cancer Centre, Ahmedabad | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-hcg-cancer-centre-ahmedabad.html"
+  },
+  {
+    "id": "hospitals-hcg-cancer-centre-bengaluru",
+    "route": "/hospitals/hcg-cancer-centre-bengaluru/",
+    "title": "HCG Cancer Centre, Bengaluru | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-hcg-cancer-centre-bengaluru.html"
+  },
+  {
+    "id": "hospitals-ibs-hospital",
+    "route": "/hospitals/ibs-hospital/",
+    "title": "IBS Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ibs-hospital.html"
+  },
+  {
+    "id": "hospitals-ils-hospitals-dum-dum",
+    "route": "/hospitals/ils-hospitals-dum-dum/",
+    "title": "ILS Hospitals, Dum Dum | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ils-hospitals-dum-dum.html"
+  },
+  {
+    "id": "hospitals-indraprastha-apollo-hospital",
+    "route": "/hospitals/indraprastha-apollo-hospital/",
+    "title": "Indraprastha Apollo Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-indraprastha-apollo-hospital.html"
+  },
+  {
+    "id": "hospitals-jaslok-hospital-and-research-centre",
+    "route": "/hospitals/jaslok-hospital-and-research-centre/",
+    "title": "Jaslok Hospital and Research Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-jaslok-hospital-and-research-centre.html"
+  },
+  {
+    "id": "hospitals-jaypee-hospital",
+    "route": "/hospitals/jaypee-hospital/",
+    "title": "Jaypee Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-jaypee-hospital.html"
+  },
+  {
+    "id": "hospitals-jehangir-hospital",
+    "route": "/hospitals/jehangir-hospital/",
+    "title": "Jehangir Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-jehangir-hospital.html"
+  },
+  {
+    "id": "hospitals-jubilee-mission-medical-college-hospital",
+    "route": "/hospitals/jubilee-mission-medical-college-hospital/",
+    "title": "Jubilee Mission Medical College Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-jubilee-mission-medical-college-hospital.html"
+  },
+  {
+    "id": "hospitals-jupiter-hospital-baner",
+    "route": "/hospitals/jupiter-hospital-baner/",
+    "title": "Jupiter Hospital, Baner | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-jupiter-hospital-baner.html"
+  },
+  {
+    "id": "hospitals-jupiter-hospital-thane",
+    "route": "/hospitals/jupiter-hospital-thane/",
+    "title": "Jupiter Hospital, Thane | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-jupiter-hospital-thane.html"
+  },
+  {
+    "id": "hospitals-kailash-hospital-noida",
+    "route": "/hospitals/kailash-hospital-noida/",
+    "title": "Kailash Hospital, Noida | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kailash-hospital-noida.html"
+  },
+  {
+    "id": "hospitals-kauvery-hospital-alwarpet",
+    "route": "/hospitals/kauvery-hospital-alwarpet/",
+    "title": "Kauvery Hospital, Alwarpet | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kauvery-hospital-alwarpet.html"
+  },
+  {
+    "id": "hospitals-kauvery-hospital-electronic-city",
+    "route": "/hospitals/kauvery-hospital-electronic-city/",
+    "title": "Kauvery Hospital, Electronic City | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kauvery-hospital-electronic-city.html"
+  },
+  {
+    "id": "hospitals-kd-hospital",
+    "route": "/hospitals/kd-hospital/",
+    "title": "KD Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kd-hospital.html"
+  },
+  {
+    "id": "hospitals-kem-hospital-pune",
+    "route": "/hospitals/kem-hospital-pune/",
+    "title": "KEM Hospital, Pune | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kem-hospital-pune.html"
+  },
+  {
+    "id": "hospitals-kims-hospitals-secunderabad",
+    "route": "/hospitals/kims-hospitals-secunderabad/",
+    "title": "KIMS Hospitals, Secunderabad | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kims-hospitals-secunderabad.html"
+  },
+  {
+    "id": "hospitals-kims-sunshine-hospital",
+    "route": "/hospitals/kims-sunshine-hospital/",
+    "title": "KIMS-SUNSHINE Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kims-sunshine-hospital.html"
+  },
+  {
+    "id": "hospitals-kimshealth",
+    "route": "/hospitals/kimshealth/",
+    "title": "KIMSHEALTH | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kimshealth.html"
+  },
+  {
+    "id": "hospitals-kingsway-hospitals",
+    "route": "/hospitals/kingsway-hospitals/",
+    "title": "Kingsway Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kingsway-hospitals.html"
+  },
+  {
+    "id": "hospitals-kokilaben-dhirubhai-ambani-hospital",
+    "route": "/hospitals/kokilaben-dhirubhai-ambani-hospital/",
+    "title": "Kokilaben Dhirubhai Ambani Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-kokilaben-dhirubhai-ambani-hospital.html"
+  },
+  {
+    "id": "hospitals-lilavati-hospital-and-research-centre",
+    "route": "/hospitals/lilavati-hospital-and-research-centre/",
+    "title": "Lilavati Hospital and Research Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-lilavati-hospital-and-research-centre.html"
+  },
+  {
+    "id": "hospitals-mahatma-gandhi-hospital",
+    "route": "/hospitals/mahatma-gandhi-hospital/",
+    "title": "Mahatma Gandhi Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-mahatma-gandhi-hospital.html"
+  },
+  {
+    "id": "hospitals-manipal-hospital-baner",
+    "route": "/hospitals/manipal-hospital-baner/",
+    "title": "Manipal Hospital, Baner | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-manipal-hospital-baner.html"
+  },
+  {
+    "id": "hospitals-manipal-hospital-dwarka",
+    "route": "/hospitals/manipal-hospital-dwarka/",
+    "title": "Manipal Hospital, Dwarka | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-manipal-hospital-dwarka.html"
+  },
+  {
+    "id": "hospitals-manipal-hospital-hebbal",
+    "route": "/hospitals/manipal-hospital-hebbal/",
+    "title": "Manipal Hospital, Hebbal | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-manipal-hospital-hebbal.html"
+  },
+  {
+    "id": "hospitals-manipal-hospital-jaipur",
+    "route": "/hospitals/manipal-hospital-jaipur/",
+    "title": "Manipal Hospital, Jaipur | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-manipal-hospital-jaipur.html"
+  },
+  {
+    "id": "hospitals-manipal-hospital-old-airport-road",
+    "route": "/hospitals/manipal-hospital-old-airport-road/",
+    "title": "Manipal Hospital, Old Airport Road | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-manipal-hospital-old-airport-road.html"
+  },
+  {
+    "id": "hospitals-manipal-hospital-whitefield",
+    "route": "/hospitals/manipal-hospital-whitefield/",
+    "title": "Manipal Hospital, Whitefield | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-manipal-hospital-whitefield.html"
+  },
+  {
+    "id": "hospitals-manipal-hospitals-broadway",
+    "route": "/hospitals/manipal-hospitals-broadway/",
+    "title": "Manipal Hospitals, Broadway | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-manipal-hospitals-broadway.html"
+  },
+  {
+    "id": "hospitals-marengo-asia-hospitals-faridabad",
+    "route": "/hospitals/marengo-asia-hospitals-faridabad/",
+    "title": "Marengo Asia Hospitals, Faridabad | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-marengo-asia-hospitals-faridabad.html"
+  },
+  {
+    "id": "hospitals-marengo-asia-hospitals-gurugram",
+    "route": "/hospitals/marengo-asia-hospitals-gurugram/",
+    "title": "Marengo Asia Hospitals, Gurugram | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-marengo-asia-hospitals-gurugram.html"
+  },
+  {
+    "id": "hospitals-marengo-cims-hospital",
+    "route": "/hospitals/marengo-cims-hospital/",
+    "title": "Marengo CIMS Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-marengo-cims-hospital.html"
+  },
+  {
+    "id": "hospitals-max-hospital-gurugram",
+    "route": "/hospitals/max-hospital-gurugram/",
+    "title": "Max Hospital, Gurugram | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-max-hospital-gurugram.html"
+  },
+  {
+    "id": "hospitals-max-super-speciality-hospital-lucknow",
+    "route": "/hospitals/max-super-speciality-hospital-lucknow/",
+    "title": "Max Super Speciality Hospital, Lucknow | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-max-super-speciality-hospital-lucknow.html"
+  },
+  {
+    "id": "hospitals-max-super-speciality-hospital-patparganj",
+    "route": "/hospitals/max-super-speciality-hospital-patparganj/",
+    "title": "Max Super Speciality Hospital, Patparganj | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-max-super-speciality-hospital-patparganj.html"
+  },
+  {
+    "id": "hospitals-max-super-speciality-hospital-saket",
+    "route": "/hospitals/max-super-speciality-hospital-saket/",
+    "title": "Max Super Speciality Hospital, Saket | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-max-super-speciality-hospital-saket.html"
+  },
+  {
+    "id": "hospitals-max-super-speciality-hospital-shalimar-bagh",
+    "route": "/hospitals/max-super-speciality-hospital-shalimar-bagh/",
+    "title": "Max Super Speciality Hospital, Shalimar Bagh | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-max-super-speciality-hospital-shalimar-bagh.html"
+  },
+  {
+    "id": "hospitals-max-super-speciality-hospital-vaishali",
+    "route": "/hospitals/max-super-speciality-hospital-vaishali/",
+    "title": "Max Super Speciality Hospital, Vaishali | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-max-super-speciality-hospital-vaishali.html"
+  },
+  {
+    "id": "hospitals-mazumdar-shaw-medical-center",
+    "route": "/hospitals/mazumdar-shaw-medical-center/",
+    "title": "Mazumdar Shaw Medical Center | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-mazumdar-shaw-medical-center.html"
+  },
+  {
+    "id": "hospitals-medanta-hospital-lucknow",
+    "route": "/hospitals/medanta-hospital-lucknow/",
+    "title": "Medanta Hospital, Lucknow | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-medanta-hospital-lucknow.html"
+  },
+  {
+    "id": "hospitals-medanta-super-speciality-hospital-indore",
+    "route": "/hospitals/medanta-super-speciality-hospital-indore/",
+    "title": "Medanta Super Speciality Hospital, Indore | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-medanta-super-speciality-hospital-indore.html"
+  },
+  {
+    "id": "hospitals-medanta-the-medicity",
+    "route": "/hospitals/medanta-the-medicity/",
+    "title": "Medanta – The Medicity | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-medanta-the-medicity.html"
+  },
+  {
+    "id": "hospitals-medica-superspecialty-hospital",
+    "route": "/hospitals/medica-superspecialty-hospital/",
+    "title": "Medica Superspecialty Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-medica-superspecialty-hospital.html"
+  },
+  {
+    "id": "hospitals-medicover-hospitals-hitec-city",
+    "route": "/hospitals/medicover-hospitals-hitec-city/",
+    "title": "Medicover Hospitals, Hitec City | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-medicover-hospitals-hitec-city.html"
+  },
+  {
+    "id": "hospitals-meitra-hospital",
+    "route": "/hospitals/meitra-hospital/",
+    "title": "Meitra Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-meitra-hospital.html"
+  },
+  {
+    "id": "hospitals-metro-heart-institute-with-multispeciality",
+    "route": "/hospitals/metro-heart-institute-with-multispeciality/",
+    "title": "Metro Heart Institute with Multispeciality | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-metro-heart-institute-with-multispeciality.html"
+  },
+  {
+    "id": "hospitals-mgm-healthcare",
+    "route": "/hospitals/mgm-healthcare/",
+    "title": "MGM Healthcare | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-mgm-healthcare.html"
+  },
+  {
+    "id": "hospitals-mgm-new-bombay-hospital",
+    "route": "/hospitals/mgm-new-bombay-hospital/",
+    "title": "MGM New Bombay Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-mgm-new-bombay-hospital.html"
+  },
+  {
+    "id": "hospitals-miot-international",
+    "route": "/hospitals/miot-international/",
+    "title": "MIOT International | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-miot-international.html"
+  },
+  {
+    "id": "hospitals-moolchand-kharaiti-ram-hospital",
+    "route": "/hospitals/moolchand-kharaiti-ram-hospital/",
+    "title": "Moolchand Kharaiti Ram Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-moolchand-kharaiti-ram-hospital.html"
+  },
+  {
+    "id": "hospitals-nanavati-max-super-speciality-hospital",
+    "route": "/hospitals/nanavati-max-super-speciality-hospital/",
+    "title": "Nanavati Max Super Speciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-nanavati-max-super-speciality-hospital.html"
+  },
+  {
+    "id": "hospitals-narayana-health-city",
+    "route": "/hospitals/narayana-health-city/",
+    "title": "Narayana Health City | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-narayana-health-city.html"
+  },
+  {
+    "id": "hospitals-narayana-multispeciality-hospital-jaipur",
+    "route": "/hospitals/narayana-multispeciality-hospital-jaipur/",
+    "title": "Narayana Multispeciality Hospital, Jaipur | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-narayana-multispeciality-hospital-jaipur.html"
+  },
+  {
+    "id": "hospitals-narayana-rn-tagore-hospital",
+    "route": "/hospitals/narayana-rn-tagore-hospital/",
+    "title": "Narayana RN Tagore Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-narayana-rn-tagore-hospital.html"
+  },
+  {
+    "id": "hospitals-noble-hospitals-and-research-centre",
+    "route": "/hospitals/noble-hospitals-and-research-centre/",
+    "title": "Noble Hospitals &amp; Research Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-noble-hospitals-and-research-centre.html"
+  },
+  {
+    "id": "hospitals-omega-hospitals",
+    "route": "/hospitals/omega-hospitals/",
+    "title": "Omega Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-omega-hospitals.html"
+  },
+  {
+    "id": "hospitals-p-d-hinduja-hospital",
+    "route": "/hospitals/p-d-hinduja-hospital/",
+    "title": "P. D. Hinduja Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-p-d-hinduja-hospital.html"
+  },
+  {
+    "id": "hospitals-paras-health-gurugram",
+    "route": "/hospitals/paras-health-gurugram/",
+    "title": "Paras Health, Gurugram | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-paras-health-gurugram.html"
+  },
+  {
+    "id": "hospitals-peerless-hospital",
+    "route": "/hospitals/peerless-hospital/",
+    "title": "Peerless Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-peerless-hospital.html"
+  },
+  {
+    "id": "hospitals-poona-hospital-and-research-centre",
+    "route": "/hospitals/poona-hospital-and-research-centre/",
+    "title": "Poona Hospital and Research Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-poona-hospital-and-research-centre.html"
+  },
+  {
+    "id": "hospitals-prashanth-super-speciality-hospital",
+    "route": "/hospitals/prashanth-super-speciality-hospital/",
+    "title": "Prashanth Super Speciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-prashanth-super-speciality-hospital.html"
+  },
+  {
+    "id": "hospitals-prince-aly-khan-hospital",
+    "route": "/hospitals/prince-aly-khan-hospital/",
+    "title": "Prince Aly Khan Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-prince-aly-khan-hospital.html"
+  },
+  {
+    "id": "hospitals-psri-hospital",
+    "route": "/hospitals/psri-hospital/",
+    "title": "PSRI Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-psri-hospital.html"
+  },
+  {
+    "id": "hospitals-rajagiri-hospital",
+    "route": "/hospitals/rajagiri-hospital/",
+    "title": "Rajagiri Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-rajagiri-hospital.html"
+  },
+  {
+    "id": "hospitals-rajiv-gandhi-cancer-institute-and-research-centre",
+    "route": "/hospitals/rajiv-gandhi-cancer-institute-and-research-centre/",
+    "title": "Rajiv Gandhi Cancer Institute and Research Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-rajiv-gandhi-cancer-institute-and-research-centre.html"
+  },
+  {
+    "id": "hospitals-ramaiah-memorial-hospital",
+    "route": "/hospitals/ramaiah-memorial-hospital/",
+    "title": "Ramaiah Memorial Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ramaiah-memorial-hospital.html"
+  },
+  {
+    "id": "hospitals-rela-hospital",
+    "route": "/hospitals/rela-hospital/",
+    "title": "Rela Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-rela-hospital.html"
+  },
+  {
+    "id": "hospitals-renai-medicity",
+    "route": "/hospitals/renai-medicity/",
+    "title": "Renai Medicity | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-renai-medicity.html"
+  },
+  {
+    "id": "hospitals-ruby-general-hospital",
+    "route": "/hospitals/ruby-general-hospital/",
+    "title": "Ruby General Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ruby-general-hospital.html"
+  },
+  {
+    "id": "hospitals-ruby-hall-clinic",
+    "route": "/hospitals/ruby-hall-clinic/",
+    "title": "Ruby Hall Clinic | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-ruby-hall-clinic.html"
+  },
+  {
+    "id": "hospitals-s-l-raheja-hospital",
+    "route": "/hospitals/s-l-raheja-hospital/",
+    "title": "S. L. Raheja Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-s-l-raheja-hospital.html"
+  },
+  {
+    "id": "hospitals-sahyadri-super-speciality-hospital",
+    "route": "/hospitals/sahyadri-super-speciality-hospital/",
+    "title": "Sahyadri Super Speciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sahyadri-super-speciality-hospital.html"
+  },
+  {
+    "id": "hospitals-saifee-hospital",
+    "route": "/hospitals/saifee-hospital/",
+    "title": "Saifee Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-saifee-hospital.html"
+  },
+  {
+    "id": "hospitals-sakra-world-hospital",
+    "route": "/hospitals/sakra-world-hospital/",
+    "title": "Sakra World Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sakra-world-hospital.html"
+  },
+  {
+    "id": "hospitals-sarvodaya-hospital-sector-8",
+    "route": "/hospitals/sarvodaya-hospital-sector-8/",
+    "title": "Sarvodaya Hospital, Sector 8 | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sarvodaya-hospital-sector-8.html"
+  },
+  {
+    "id": "hospitals-sci-international-hospital",
+    "route": "/hospitals/sci-international-hospital/",
+    "title": "SCI International Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sci-international-hospital.html"
+  },
+  {
+    "id": "hospitals-sevenhills-hospital",
+    "route": "/hospitals/sevenhills-hospital/",
+    "title": "SevenHills Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sevenhills-hospital.html"
+  },
+  {
+    "id": "hospitals-shalby-hospitals",
+    "route": "/hospitals/shalby-hospitals/",
+    "title": "Shalby Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-shalby-hospitals.html"
+  },
+  {
+    "id": "hospitals-sharda-care-healthcity",
+    "route": "/hospitals/sharda-care-healthcity/",
+    "title": "Sharda Care – Healthcity | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sharda-care-healthcity.html"
+  },
+  {
+    "id": "hospitals-sharda-hospital",
+    "route": "/hospitals/sharda-hospital/",
+    "title": "Sharda Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sharda-hospital.html"
+  },
+  {
+    "id": "hospitals-sims-hospital",
+    "route": "/hospitals/sims-hospital/",
+    "title": "SIMS Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sims-hospital.html"
+  },
+  {
+    "id": "hospitals-sir-ganga-ram-hospital",
+    "route": "/hospitals/sir-ganga-ram-hospital/",
+    "title": "Sir Ganga Ram Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sir-ganga-ram-hospital.html"
+  },
+  {
+    "id": "hospitals-sir-h-n-reliance-foundation-hospital",
+    "route": "/hospitals/sir-h-n-reliance-foundation-hospital/",
+    "title": "Sir H. N. Reliance Foundation Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sir-h-n-reliance-foundation-hospital.html"
+  },
+  {
+    "id": "hospitals-sparsh-hospital",
+    "route": "/hospitals/sparsh-hospital/",
+    "title": "SPARSH Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sparsh-hospital.html"
+  },
+  {
+    "id": "hospitals-sri-ramachandra-medical-centre",
+    "route": "/hospitals/sri-ramachandra-medical-centre/",
+    "title": "Sri Ramachandra Medical Centre | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sri-ramachandra-medical-centre.html"
+  },
+  {
+    "id": "hospitals-st-johns-medical-college-hospital",
+    "route": "/hospitals/st-johns-medical-college-hospital/",
+    "title": "St. John’s Medical College Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-st-johns-medical-college-hospital.html"
+  },
+  {
+    "id": "hospitals-star-hospitals-banjara-hills",
+    "route": "/hospitals/star-hospitals-banjara-hills/",
+    "title": "STAR Hospitals, Banjara Hills | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-star-hospitals-banjara-hills.html"
+  },
+  {
+    "id": "hospitals-sterling-hospitals",
+    "route": "/hospitals/sterling-hospitals/",
+    "title": "Sterling Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-sterling-hospitals.html"
+  },
+  {
+    "id": "hospitals-tata-medical-center",
+    "route": "/hospitals/tata-medical-center/",
+    "title": "Tata Medical Center | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-tata-medical-center.html"
+  },
+  {
+    "id": "hospitals-venkateshwar-hospital",
+    "route": "/hospitals/venkateshwar-hospital/",
+    "title": "Venkateshwar Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-venkateshwar-hospital.html"
+  },
+  {
+    "id": "hospitals-vijaya-hospital",
+    "route": "/hospitals/vijaya-hospital/",
+    "title": "Vijaya Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-vijaya-hospital.html"
+  },
+  {
+    "id": "hospitals-vikram-hospital",
+    "route": "/hospitals/vikram-hospital/",
+    "title": "Vikram Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-vikram-hospital.html"
+  },
+  {
+    "id": "hospitals-virinchi-hospitals",
+    "route": "/hospitals/virinchi-hospitals/",
+    "title": "Virinchi Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-virinchi-hospitals.html"
+  },
+  {
+    "id": "hospitals-vps-lakeshore-hospital",
+    "route": "/hospitals/vps-lakeshore-hospital/",
+    "title": "VPS Lakeshore Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-vps-lakeshore-hospital.html"
+  },
+  {
+    "id": "hospitals-vs-hospitals",
+    "route": "/hospitals/vs-hospitals/",
+    "title": "VS Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-vs-hospitals.html"
+  },
+  {
+    "id": "hospitals-wockhardt-hospitals-mumbai-central",
+    "route": "/hospitals/wockhardt-hospitals-mumbai-central/",
+    "title": "Wockhardt Hospitals, Mumbai Central | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-wockhardt-hospitals-mumbai-central.html"
+  },
+  {
+    "id": "hospitals-wockhardt-hospitals-nagpur",
+    "route": "/hospitals/wockhardt-hospitals-nagpur/",
+    "title": "Wockhardt Hospitals, Nagpur | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-wockhardt-hospitals-nagpur.html"
+  },
+  {
+    "id": "hospitals-woodlands-multispeciality-hospital",
+    "route": "/hospitals/woodlands-multispeciality-hospital/",
+    "title": "Woodlands Multispeciality Hospital | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-woodlands-multispeciality-hospital.html"
+  },
+  {
+    "id": "hospitals-yashoda-hospitals-hitec-city",
+    "route": "/hospitals/yashoda-hospitals-hitec-city/",
+    "title": "Yashoda Hospitals, Hitec City | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-yashoda-hospitals-hitec-city.html"
+  },
+  {
+    "id": "hospitals-yashoda-hospitals-secunderabad",
+    "route": "/hospitals/yashoda-hospitals-secunderabad/",
+    "title": "Yashoda Hospitals, Secunderabad | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-yashoda-hospitals-secunderabad.html"
+  },
+  {
+    "id": "hospitals-yatharth-super-speciality-hospital-greater-noida",
+    "route": "/hospitals/yatharth-super-speciality-hospital-greater-noida/",
+    "title": "Yatharth Super Speciality Hospital, Greater Noida | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-yatharth-super-speciality-hospital-greater-noida.html"
+  },
+  {
+    "id": "hospitals-yatharth-super-speciality-hospital-noida",
+    "route": "/hospitals/yatharth-super-speciality-hospital-noida/",
+    "title": "Yatharth Super Speciality Hospital, Noida | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-yatharth-super-speciality-hospital-noida.html"
+  },
+  {
+    "id": "hospitals-zydus-hospitals",
+    "route": "/hospitals/zydus-hospitals/",
+    "title": "Zydus Hospitals | Hospital Profile | TIB HIND",
+    "source": "new changes/hospital-zydus-hospitals.html"
+  },
+  {
+    "id": "best-doctors-india",
+    "route": "/best-doctors-india/",
+    "title": "Cardiology Doctors in India | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-01.html"
+  },
+  {
+    "id": "best-doctors-india-page-2",
+    "route": "/best-doctors-india/page/2/",
+    "title": "Cardiology Doctors in India – Page 2 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-02.html"
+  },
+  {
+    "id": "best-doctors-india-page-3",
+    "route": "/best-doctors-india/page/3/",
+    "title": "Cardiology Doctors in India – Page 3 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-03.html"
+  },
+  {
+    "id": "best-doctors-india-page-4",
+    "route": "/best-doctors-india/page/4/",
+    "title": "Cardiology Doctors in India – Page 4 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-04.html"
+  },
+  {
+    "id": "best-doctors-india-page-5",
+    "route": "/best-doctors-india/page/5/",
+    "title": "Cardiology Doctors in India – Page 5 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-05.html"
+  },
+  {
+    "id": "best-doctors-india-page-6",
+    "route": "/best-doctors-india/page/6/",
+    "title": "Cardiology Doctors in India – Page 6 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-06.html"
+  },
+  {
+    "id": "best-doctors-india-page-7",
+    "route": "/best-doctors-india/page/7/",
+    "title": "Cardiology Doctors in India – Page 7 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-07.html"
+  },
+  {
+    "id": "best-doctors-india-page-8",
+    "route": "/best-doctors-india/page/8/",
+    "title": "Cardiology Doctors in India – Page 8 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-08.html"
+  },
+  {
+    "id": "best-doctors-india-page-9",
+    "route": "/best-doctors-india/page/9/",
+    "title": "Cardiology Doctors in India – Page 9 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-09.html"
+  },
+  {
+    "id": "best-doctors-india-page-10",
+    "route": "/best-doctors-india/page/10/",
+    "title": "Cardiology Doctors in India – Page 10 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-10.html"
+  },
+  {
+    "id": "best-doctors-india-page-11",
+    "route": "/best-doctors-india/page/11/",
+    "title": "Cardiology Doctors in India – Page 11 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-11.html"
+  },
+  {
+    "id": "best-doctors-india-page-12",
+    "route": "/best-doctors-india/page/12/",
+    "title": "Cardiology Doctors in India – Page 12 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-12.html"
+  },
+  {
+    "id": "best-doctors-india-page-13",
+    "route": "/best-doctors-india/page/13/",
+    "title": "Cardiology Doctors in India – Page 13 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-13.html"
+  },
+  {
+    "id": "best-doctors-india-page-14",
+    "route": "/best-doctors-india/page/14/",
+    "title": "Cardiology Doctors in India – Page 14 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-14.html"
+  },
+  {
+    "id": "best-doctors-india-page-15",
+    "route": "/best-doctors-india/page/15/",
+    "title": "Cardiology Doctors in India – Page 15 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-15.html"
+  },
+  {
+    "id": "best-doctors-india-page-16",
+    "route": "/best-doctors-india/page/16/",
+    "title": "Cardiology Doctors in India – Page 16 | TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-cardiology-directory-page-16.html"
+  },
+  {
+    "id": "treatments-ent",
+    "route": "/treatments/ent/",
+    "title": "ENT and Cochlear Implants in India: Deafness in Children | TIB HIND",
+    "source": "new changes/tib-hind-ent-page.html"
+  },
+  {
+    "id": "treatments-eye-surgery",
+    "route": "/treatments/eye-surgery/",
+    "title": "Eye Surgery in India: Cataract, Retina and Cornea | TIB HIND",
+    "source": "new changes/tib-hind-eye-surgery-page.html"
+  },
+  {
+    "id": "treatments-gynaecology",
+    "route": "/treatments/gynaecology/",
+    "title": "Gynaecology in India: Fibroids, Prolapse and Keyhole Surgery | TIB HIND",
+    "source": "new changes/tib-hind-gynaecology-page.html"
+  },
+  {
+    "id": "best-hospitals-india",
+    "route": "/best-hospitals-india/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-01.html"
+  },
+  {
+    "id": "best-hospitals-india-page-2",
+    "route": "/best-hospitals-india/page/2/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-02.html"
+  },
+  {
+    "id": "best-hospitals-india-page-3",
+    "route": "/best-hospitals-india/page/3/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-03.html"
+  },
+  {
+    "id": "best-hospitals-india-page-4",
+    "route": "/best-hospitals-india/page/4/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-04.html"
+  },
+  {
+    "id": "best-hospitals-india-page-5",
+    "route": "/best-hospitals-india/page/5/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-05.html"
+  },
+  {
+    "id": "best-hospitals-india-page-6",
+    "route": "/best-hospitals-india/page/6/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-06.html"
+  },
+  {
+    "id": "best-hospitals-india-page-7",
+    "route": "/best-hospitals-india/page/7/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-07.html"
+  },
+  {
+    "id": "best-hospitals-india-page-8",
+    "route": "/best-hospitals-india/page/8/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-08.html"
+  },
+  {
+    "id": "best-hospitals-india-page-9",
+    "route": "/best-hospitals-india/page/9/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-09.html"
+  },
+  {
+    "id": "best-hospitals-india-page-10",
+    "route": "/best-hospitals-india/page/10/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-10.html"
+  },
+  {
+    "id": "best-hospitals-india-page-11",
+    "route": "/best-hospitals-india/page/11/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-11.html"
+  },
+  {
+    "id": "best-hospitals-india-page-12",
+    "route": "/best-hospitals-india/page/12/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-12.html"
+  },
+  {
+    "id": "best-hospitals-india-page-13",
+    "route": "/best-hospitals-india/page/13/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-13.html"
+  },
+  {
+    "id": "best-hospitals-india-page-14",
+    "route": "/best-hospitals-india/page/14/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-14.html"
+  },
+  {
+    "id": "best-hospitals-india-page-15",
+    "route": "/best-hospitals-india/page/15/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-15.html"
+  },
+  {
+    "id": "best-hospitals-india-page-16",
+    "route": "/best-hospitals-india/page/16/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-16.html"
+  },
+  {
+    "id": "best-hospitals-india-page-17",
+    "route": "/best-hospitals-india/page/17/",
+    "title": "Best Hospitals in India | TIB HIND",
+    "source": "new changes/tib-hind-hospital-page-17.html"
+  },
+  {
+    "id": "sitemap",
+    "route": "/sitemap/",
+    "title": "HTML Sitemap | Browse TIB HIND | TIB HIND",
+    "source": "new changes/tib-hind-html-sitemap.html"
+  },
+  {
+    "id": "treatments-psychiatry",
+    "route": "/treatments/psychiatry/",
+    "title": "Psychiatry in India: Assessment Alongside Medical Treatment | TIB HIND",
+    "source": "new changes/tib-hind-psychiatry-page.html"
+  },
+  {
+    "id": "treatments-pulmonology",
+    "route": "/treatments/pulmonology/",
+    "title": "Pulmonology in India: Tuberculosis, Asthma and Lung Disease | TIB HIND",
+    "source": "new changes/tib-hind-pulmonology-page.html"
+  },
+  {
+    "id": "treatments-rehabilitation",
+    "route": "/treatments/rehabilitation/",
+    "title": "Rehabilitation in India: Stroke and Spinal Cord Injury | TIB HIND",
+    "source": "new changes/tib-hind-rehabilitation-page.html"
+  },
+  {
+    "id": "treatments-urology",
+    "route": "/treatments/urology/",
+    "title": "Urology in India: Kidney Stones, Prostate and Reconstruction | TIB HIND",
+    "source": "new changes/tib-hind-urology-page.html"
+  },
+  {
+    "id": "treatments-vascular-surgery",
+    "route": "/treatments/vascular-surgery/",
+    "title": "Vascular Surgery in India: Diabetic Foot and Limb Salvage | TIB HIND",
+    "source": "new changes/tib-hind-vascular-surgery-page.html"
+  },
+  {
+    "id": "doctors-pediatric-surgery-dr-annie-varughese",
+    "route": "/doctors/pediatric-surgery/dr-annie-varughese/",
+    "title": "Dr. Annie T. Varughese, MD, FACC | TIB HIND Medical Review Partner | TIB HIND",
+    "source": "new changes 2/tib-hind-dr-annie-varughese-profile (1).html"
   }
 ]
