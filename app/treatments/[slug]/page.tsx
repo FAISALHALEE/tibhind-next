@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 import PageHTML from "@/lib/PageHTML";
 import { pageMetadata } from "@/lib/metadata";
-import { getPageByRoute, listPages } from "@/lib/pages";
+import { tryGetPageByRoute, listPages } from "@/lib/pages";
 
 const PREFIX = "/treatments/";
 
@@ -17,7 +18,9 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  return pageMetadata(getPageByRoute(`${PREFIX}${slug}/`));
+  const page = tryGetPageByRoute(`${PREFIX}${slug}/`);
+  if (!page) notFound();
+  return pageMetadata(page);
 }
 
 export default async function TreatmentPage({
@@ -26,5 +29,7 @@ export default async function TreatmentPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  return <PageHTML page={getPageByRoute(`${PREFIX}${slug}/`)} />;
+  const page = tryGetPageByRoute(`${PREFIX}${slug}/`);
+  if (!page) notFound();
+  return <PageHTML page={page} />;
 }

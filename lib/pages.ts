@@ -35,8 +35,12 @@ export function listPages(): Page[] {
     .map((f) => getPage(f.replace(/\.json$/, "")));
 }
 
+export function tryGetPageByRoute(route: string): Page | undefined {
+  return listPages().find((x) => x.route === route);
+}
+
 export function getPageByRoute(route: string): Page {
-  const p = listPages().find((x) => x.route === route);
+  const p = tryGetPageByRoute(route);
   if (!p) throw new Error(`No migrated page for route ${route}`);
   return p;
 }

@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 import PageHTML from "@/lib/PageHTML";
 import { pageMetadata } from "@/lib/metadata";
-import { getPageByRoute, listPages } from "@/lib/pages";
+import { tryGetPageByRoute, listPages } from "@/lib/pages";
 
 const EXCLUDED = new Set([
   "conditions",
@@ -28,7 +29,9 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  return pageMetadata(getPageByRoute(`/${slug}/`));
+  const page = tryGetPageByRoute(`/${slug}/`);
+  if (!page) notFound();
+  return pageMetadata(page);
 }
 
 export default async function TopLevelPage({
@@ -37,5 +40,7 @@ export default async function TopLevelPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  return <PageHTML page={getPageByRoute(`/${slug}/`)} />;
+  const page = tryGetPageByRoute(`/${slug}/`);
+  if (!page) notFound();
+  return <PageHTML page={page} />;
 }
