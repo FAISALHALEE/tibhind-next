@@ -20,7 +20,7 @@ function replaceMarks(html: string): string {
   });
 }
 
-const LOGO_CSS = `.site-logo{height:auto;max-width:100%;object-fit:contain}.site-logo--header{height:clamp(34px,5.5vw,52px);width:auto}.site-logo--footer{height:clamp(32px,4.5vw,48px);width:auto}`;
+const LOGO_CSS = `.site-logo{height:auto;max-width:100%;object-fit:contain}.site-logo--header{height:clamp(38px,6.5vw,58px);width:auto}.site-logo--footer{height:clamp(32px,4.5vw,48px);width:auto}`;
 
 export default function PageHTML({ page }: { page: Page }) {
   const bodyHtml =
