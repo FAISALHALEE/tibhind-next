@@ -1,4 +1,12 @@
 import type { Page } from "./pages";
+import { SITE_HEADER } from "./SiteHeader";
+
+function useSharedHeader(html: string): string {
+  if (/<header[\s>]/.test(html)) {
+    return html.replace(/<header[\s\S]*?<\/header>/, SITE_HEADER);
+  }
+  return SITE_HEADER + html;
+}
 
 function injectHeaderContact(html: string): string {
   const button =
@@ -292,7 +300,7 @@ export default function PageHTML({ page }: { page: Page }) {
   const isTreatment = page.route.startsWith("/treatments/");
   const bodyHtml =
     (page.headScripts ? `<script>${page.headScripts}</script>` : "") +
-    injectHeaderContact(fixSvgDimensions(page.body));
+    injectHeaderContact(fixSvgDimensions(useSharedHeader(page.body)));
   return (
     <>
       {page.styles.map((css, i) => (
