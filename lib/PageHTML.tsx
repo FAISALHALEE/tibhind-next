@@ -53,6 +53,7 @@ const SHARED_CHROME_CSS = [
   `.burger{border:1px solid var(--rule);cursor:pointer;background:0 0;border-radius:3px;margin-inline-start:auto;padding:9px 11px}`,
   `.burger svg{width:18px;height:18px;stroke:var(--ink);fill:none;stroke-width:1.8px;stroke-linecap:round}`,
   `.foot{background:var(--ink);color:#c9d6d1;margin:0;padding:46px 0 0}`,
+  `section.band--ink:last-of-type{border-block-end:clamp(28px,4vw,52px) solid var(--paper)}`,
   `.foot a{color:#c9d6d1;text-decoration:none;transition:color .2s}`,
   `.foot a:hover{color:#fff}`,
   `.foot__top{grid-template-columns:1.3fr repeat(4,1fr);gap:28px;padding-bottom:38px;display:grid}`,
@@ -103,6 +104,51 @@ const SHARED_CHROME_CSS = [
   `@media(width<=680px){.foot__lang,.foot__legal{gap:8px 12px}}`,
   `@media(width<=600px){.foot__top{grid-template-columns:1fr;gap:30px}}`,
   `@media(prefers-reduced-motion:reduce){.mega{transition:opacity 10ms}}`,
+].join("");
+
+const FAQ_ACCORDION_CSS = [
+  `.faq__item{border-block-end:1px solid var(--rule);position:relative}`,
+  `.faq__item:last-child{border-block-end:0}`,
+  `.faq__item::before{content:"";position:absolute;inset-block:0;inset-inline-start:0;width:0;background:var(--seal);transition:width .28s ease}`,
+  `.faq__item.open::before{width:3px}`,
+  `.faq__item.open{background:var(--tone)}`,
+  `.faq__q{width:100%;text-align:start;background:none;border:0;cursor:pointer;font-family:var(--display);font-size:17.5px;color:var(--ink);line-height:1.35;padding:20px 56px 20px 22px;position:relative;transition:color .2s ease}`,
+  `.faq__q:hover{color:var(--seal)}`,
+  `.faq__item.open .faq__q{color:var(--seal)}`,
+  `.faq__sign{position:absolute;inset-inline-end:20px;top:50%;translate:0 -50%;width:20px;height:20px}`,
+  `.faq__sign::before,.faq__sign::after{content:"";position:absolute;background:var(--seal);border-radius:1px;transition:transform .3s cubic-bezier(.4,0,.2,1),opacity .25s ease}`,
+  `.faq__sign::before{inset-inline:0;top:9px;height:2px}`,
+  `.faq__sign::after{inset-block:0;left:9px;width:2px}`,
+  `.faq__item.open .faq__sign::after{transform:rotate(90deg);opacity:0}`,
+  `.faq__item.open .faq__sign::before{transform:rotate(180deg)}`,
+  `.faq__a{display:grid;grid-template-rows:0fr;transition:grid-template-rows .35s cubic-bezier(.4,0,.2,1)}`,
+  `.faq__item.open .faq__a{grid-template-rows:1fr}`,
+  `.faq__a>div{overflow:hidden}`,
+  `.faq__a p{padding:0 56px 22px 22px;margin:0;color:var(--ink-soft);font-size:16px;opacity:0;transform:translateY(-6px);transition:opacity .3s ease .08s,transform .3s ease .08s}`,
+  `.faq__item.open .faq__a p{opacity:1;transform:none}`,
+].join("");
+
+const FAQ_TOGGLE_JS = `(function(){document.querySelectorAll('.faq__item').forEach(function(item){var btn=item.querySelector('.faq__q');if(!btn||btn.dataset.faqBound)return;btn.dataset.faqBound='1';btn.addEventListener('click',function(){var open=item.classList.toggle('open');btn.setAttribute('aria-expanded',open);});});})()`;
+
+const REPORTS_CTA_CSS = [
+  `.rcta{background:var(--tone);border-block:1px solid var(--rule);padding-block:clamp(56px,7vw,104px)}`,
+  `.rcta__grid{align-items:start;display:grid;gap:clamp(32px,5vw,72px);grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr)}`,
+  `.rcta__k{font:500 11px/1.5 var(--data);letter-spacing:.16em;text-transform:uppercase;color:var(--muted);border-inline-start:2px solid var(--seal);padding:4px 0 0 12px;display:block;margin-block-end:18px}`,
+  `.rcta__p{color:var(--ink-soft);max-width:58ch}`,
+  `.rcta__btns{display:flex;flex-wrap:wrap;gap:12px;margin-block-start:26px}`,
+  `.rcta__btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;font:500 16px var(--body);text-decoration:none;padding:15px 26px;border-radius:2px;border:1px solid transparent;cursor:pointer;transition:background .18s,color .18s,border-color .18s}`,
+  `.rcta__btn--wa{background:var(--verified);color:#fff}`,
+  `.rcta__btn--wa:hover{background:var(--ink)}`,
+  `.rcta__btn--mail{border-color:var(--ink);color:var(--ink)}`,
+  `.rcta__btn--mail:hover{background:var(--ink);color:var(--paper)}`,
+  `.rcta__docs{border:1px solid var(--rule);background:#fff;border-radius:3px;box-shadow:0 1px 0 var(--rule);padding:26px 26px 22px}`,
+  `.rcta__docs-k{font:500 10.5px/1.5 var(--data);letter-spacing:.17em;text-transform:uppercase;color:var(--muted);display:block;margin-block-end:12px;padding-block-end:12px;border-block-end:1px solid var(--rule)}`,
+  `.rcta__docs-list{margin:0;padding:0;list-style:none}`,
+  `.rcta__docs-list li{display:flex;align-items:flex-start;gap:12px;padding-block:11px;border-block-end:1px dotted var(--rule);color:var(--ink-soft);font-size:15.5px;line-height:1.5}`,
+  `.rcta__docs-list li:last-child{border-block-end:0;padding-block-end:0}`,
+  `.rcta__docs-list li::before{content:"";flex:0 0 6px;width:6px;height:6px;border-radius:50%;background:var(--seal);margin-block-start:8px}`,
+  `@media(width<=920px){.rcta__grid{grid-template-columns:1fr;gap:30px}}`,
+  `@media(width<=480px){.rcta__btns{display:grid;grid-template-columns:1fr}}`,
 ].join("");
 
 const MEGA_CSS = [
@@ -298,6 +344,12 @@ const TREATMENT_CONTENT_CSS = [
 
 export default function PageHTML({ page }: { page: Page }) {
   const isTreatment = page.route.startsWith("/treatments/");
+  const pageCss = page.styles.join("");
+  const hasFaqAccordion = page.body.includes('class="faq__item');
+  const hasFaqCss = isTreatment || pageCss.includes(".faq__item{");
+  const hasFaqScript =
+    page.body.includes("querySelectorAll('.faq__item')") ||
+    page.headScripts.includes("faq__item");
   const bodyHtml =
     (page.headScripts ? `<script>${page.headScripts}</script>` : "") +
     injectHeaderContact(fixSvgDimensions(useSharedHeader(page.body)));
@@ -307,6 +359,9 @@ export default function PageHTML({ page }: { page: Page }) {
         <style key={i} dangerouslySetInnerHTML={{ __html: css }} />
       ))}
       <style dangerouslySetInnerHTML={{ __html: SHARED_CHROME_CSS }} />
+      <style dangerouslySetInnerHTML={{ __html: REPORTS_CTA_CSS }} />
+      {hasFaqAccordion && !hasFaqCss && <style dangerouslySetInnerHTML={{ __html: FAQ_ACCORDION_CSS }} />}
+      {hasFaqAccordion && !hasFaqScript && <script dangerouslySetInnerHTML={{ __html: FAQ_TOGGLE_JS }} />}
       {isTreatment && <style dangerouslySetInnerHTML={{ __html: TREATMENT_CONTENT_CSS }} />}
       <style dangerouslySetInnerHTML={{ __html: MEGA_CSS }} />
       {isTreatment && <script dangerouslySetInnerHTML={{ __html: `(function(){if(typeof IntersectionObserver==='undefined')return;var o=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting){x.target.classList.add('visible');o.unobserve(x.target)}})},{threshold:.12});document.querySelectorAll('.rise').forEach(function(el){o.observe(el)})})()` }} />}
