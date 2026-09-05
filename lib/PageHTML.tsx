@@ -16,6 +16,16 @@ function injectHeaderContact(html: string): string {
   return html.replace(/<a class="btn btn--wa"[^>]*>WhatsApp<\/a>/, (match) => match + button);
 }
 
+function wrapRelatedSection(html: string): string {
+  return html.replace(
+    /(<div class="prose"[^>]*>)\s*<div class="rel__head">/g,
+    '$1<div class="rel"><div class="rel__head">'
+  ).replace(
+    /(<\/a>)\s*(<\/div>\s*<\/div>\s*<\/section>)/g,
+    '$1</div>$2'
+  );
+}
+
 function fixSvgDimensions(html: string): string {
   return html.replace(
     /<svg(?![^>]*\swidth=)([^>]*?)(viewBox="[^"]*")([^>]*)>/gi,
@@ -105,6 +115,23 @@ const SHARED_CHROME_CSS = [
   `@media(width<=680px){.foot__lang,.foot__legal{gap:8px 12px}}`,
   `@media(width<=600px){.foot__top{grid-template-columns:1fr;gap:30px}}`,
   `@media(prefers-reduced-motion:reduce){.mega{transition:opacity 10ms}}`,
+  `.rel{border:1px solid var(--rule);background:#fff;margin-block-start:30px}`,
+  `.band--tone .rel{background:var(--paper)}`,
+  `.rel__head{display:flex;justify-content:space-between;padding:13px 22px;border-block-end:1px solid var(--rule);font-family:var(--data);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted)}`,
+  `.rel a{position:relative;display:flex;align-items:center;gap:15px;padding:14px 22px;text-decoration:none;border-block-end:1px dotted var(--rule);transition:background .2s ease;animation:tibRise .5s ease var(--d,0ms) both}`,
+  `.rel a:last-child{border-block-end:0}`,
+  `.rel a::before{content:"";position:absolute;inset-block:0;inset-inline-start:0;width:0;background:var(--c,var(--seal));transition:width .25s ease}`,
+  `.rel a:hover::before{width:3px}`,
+  `.rel a:hover{background:color-mix(in srgb,var(--c,var(--seal)) 6%,transparent)}`,
+  `.rel__ic{position:relative;flex:0 0 38px;width:38px;height:38px;border-radius:3px;display:grid;place-items:center;overflow:hidden}`,
+  `.rel__ic::before{content:"";position:absolute;inset:0;background:var(--c,var(--seal));opacity:.11;transition:opacity .25s ease}`,
+  `.rel__ic svg{position:relative;width:20px;height:20px;stroke:var(--c,var(--seal));fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;transition:stroke .25s ease}`,
+  `.rel a:hover .rel__ic::before{opacity:1}`,
+  `.rel a:hover .rel__ic svg{stroke:#fff}`,
+  `.rel__n{flex:1;font-size:16.5px}`,
+  `.rel a:hover .rel__n{color:var(--c,var(--seal))}`,
+  `.rel__go{font-family:var(--data);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);white-space:nowrap;transition:color .2s ease,transform .25s ease}`,
+  `.rel a:hover .rel__go{color:var(--c,var(--seal));transform:translateX(4px)}`,
 ].join("");
 
 const FAQ_ACCORDION_CSS = [
@@ -150,6 +177,55 @@ const REPORTS_CTA_CSS = [
   `.rcta__docs-list li::before{content:"";flex:0 0 6px;width:6px;height:6px;border-radius:50%;background:var(--seal);margin-block-start:8px}`,
   `@media(width<=920px){.rcta__grid{grid-template-columns:1fr;gap:30px}}`,
   `@media(width<=480px){.rcta__btns{display:grid;grid-template-columns:1fr}}`,
+].join("");
+
+const CONDITION_TOC_CSS = [
+  `@media (width >= 768px) {`,
+  `  .hero .toc { margin-block-start: 48px; }`,
+  `  .hero .toc ol {`,
+  `    display: grid;`,
+  `    grid-template-columns: 1fr 1fr;`,
+  `    gap: 16px 40px;`,
+  `    padding-left: 0;`,
+  `    counter-reset: toc;`,
+  `  }`,
+  `  .hero .toc li {`,
+  `    padding-inline-start: 0;`,
+  `    counter-increment: toc;`,
+  `  }`,
+  `  .hero .toc li::marker {`,
+  `    content: counter(toc) ".";`,
+  `    font-family: var(--data);`,
+  `    font-size: 10.5px;`,
+  `    letter-spacing: .15em;`,
+  `    text-transform: uppercase;`,
+  `    color: var(--muted);`,
+  `    padding-inline-end: 12px;`,
+  `  }`,
+  `}`,
+  `@media (width <= 767px) {`,
+  `  .hero .toc { margin-block-start: 32px; }`,
+  `  .hero .toc ol {`,
+  `    display: grid;`,
+  `    grid-template-columns: 1fr;`,
+  `    gap: 10px;`,
+  `    padding-left: 0;`,
+  `    counter-reset: toc;`,
+  `  }`,
+  `  .hero .toc li {`,
+  `    padding-inline-start: 0;`,
+  `    counter-increment: toc;`,
+  `  }`,
+  `  .hero .toc li::marker {`,
+  `    content: counter(toc) ".";`,
+  `    font-family: var(--data);`,
+  `    font-size: 10.5px;`,
+  `    letter-spacing: .15em;`,
+  `    text-transform: uppercase;`,
+  `    color: var(--muted);`,
+  `    padding-inline-end: 12px;`,
+  `  }`,
+  `}`,
 ].join("");
 
 const MEGA_CSS = [
@@ -216,7 +292,7 @@ const TREATMENT_CONTENT_CSS = [
   `.lede{color:var(--ink-soft);max-width:65ch;font-size:clamp(18px,2vw,21px);line-height:1.6}`,
   `.toc{border:1px solid var(--rule);background:#fff;padding:22px 26px;margin-block-start:20px}`,
   `.toc__k{font:500 10px/1.5 var(--data);letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-block-end:12px;display:block}`,
-  `.toc ol{margin:0;padding-left:18px;counter-reset:toc}`,
+  `.toc ol{margin:0;padding-left:18px;counter-reset:toc;list-style-type:decimal}`,
   `.toc li{font-size:15px;line-height:1.7;color:var(--ink-soft)}`,
   `.toc a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid transparent;transition:color .18s,border-color .18s}`,
   `.toc a:hover{color:var(--seal);border-color:var(--seal)}`,
@@ -345,6 +421,7 @@ const TREATMENT_CONTENT_CSS = [
 
 export default function PageHTML({ page }: { page: Page }) {
   const isTreatment = page.route.startsWith("/treatments/");
+  const isCondition = page.route.startsWith("/conditions/");
   const pageCss = page.styles.join("");
   const hasFaqAccordion = page.body.includes('class="faq__item');
   const hasFaqCss = isTreatment || pageCss.includes(".faq__item{");
@@ -353,7 +430,7 @@ export default function PageHTML({ page }: { page: Page }) {
     page.headScripts.includes("faq__item");
   const bodyHtml =
     (page.headScripts ? `<script>${page.headScripts}</script>` : "") +
-    injectHeaderContact(fixSvgDimensions(useSharedHeader(page.body)));
+    injectHeaderContact(fixSvgDimensions(wrapRelatedSection(useSharedHeader(page.body))));
   return (
     <>
       {page.styles.map((css, i) => (
@@ -364,6 +441,7 @@ export default function PageHTML({ page }: { page: Page }) {
       {hasFaqAccordion && !hasFaqCss && <style dangerouslySetInnerHTML={{ __html: FAQ_ACCORDION_CSS }} />}
       {hasFaqAccordion && !hasFaqScript && <script dangerouslySetInnerHTML={{ __html: FAQ_TOGGLE_JS }} />}
       {isTreatment && <style dangerouslySetInnerHTML={{ __html: TREATMENT_CONTENT_CSS }} />}
+      {isCondition && <style dangerouslySetInnerHTML={{ __html: CONDITION_TOC_CSS }} />}
       <style dangerouslySetInnerHTML={{ __html: MEGA_CSS }} />
       {isTreatment && <script dangerouslySetInnerHTML={{ __html: `(function(){if(typeof IntersectionObserver==='undefined')return;var o=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting){x.target.classList.add('visible');o.unobserve(x.target)}})},{threshold:.12});document.querySelectorAll('.rise').forEach(function(el){o.observe(el)})})()` }} />}
       {page.jsonLd.map((json, i) => (
