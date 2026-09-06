@@ -328,8 +328,8 @@ const MEGA_CSS = [
   `.mega__note{color:var(--muted);max-width:46ch;margin:0;font-size:13px}`,
   `.mega .mega__all{font:11px var(--data);letter-spacing:.1em;text-transform:uppercase;color:var(--seal);white-space:nowrap;margin:0;padding:0;text-decoration:none}`,
   `.mega .mega__all:hover{color:var(--ink)}`,
-  `@media(width<=1080px){.mega--wide .mega__grid{width:100%;max-width:100%}.mega--mid .mega__grid{width:100%;max-width:100%}.mega--single .mega__grid{width:100%;max-width:100%}.mega a{padding:10px 10px}.mega__t{font-size:14.5px}.mega__d{font-size:12px}}`,
-  `@media(width<=768px){.mega{padding:20px}.mega__k{font-size:9.5px}.mega a{padding:8px 8px}.mega__t{font-size:14px}.mega__d{font-size:11.5px}.mega__grid{gap:20px}}`,
+  `@media (max-width: 1080px){.mega--wide .mega__grid{width:100%;max-width:100%}.mega--mid .mega__grid{width:100%;max-width:100%}.mega--single .mega__grid{width:100%;max-width:100%}.mega a{padding:10px 10px}.mega__t{font-size:14.5px}.mega__d{font-size:12px}}`,
+  `@media (max-width: 768px){.mega{padding:20px}.mega__k{font-size:9.5px}.mega a{padding:8px 8px}.mega__t{font-size:14px}.mega__d{font-size:11.5px}.mega__grid{gap:20px}}`,
 ].join("");
 
 const TREATMENT_CONTENT_CSS = [
