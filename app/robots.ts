@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://tibhind.com/sitemap.xml",
+    sitemap: "https://www.tibhind.com/sitemap.xml",
   };
 }

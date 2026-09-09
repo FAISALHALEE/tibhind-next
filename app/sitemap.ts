@@ -3,13 +3,24 @@ import { listPages } from "@/lib/pages";
 
 export const dynamic = "force-static";
 
+const BASE_URL = "https://www.tibhind.com";
+const LAST_MODIFIED = new Date("2026-08-15");
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  return listPages()
-    .filter((p) => p.robots !== "noindex")
-    .map((p) => ({
-      url: p.canonical ?? `https://tibhind.com${p.route}`,
-      lastModified: new Date("2026-08-15"),
-      changeFrequency: p.route === "/" ? "weekly" : "monthly",
-      priority: p.route === "/" ? 1 : p.route.split("/").filter(Boolean).length <= 1 ? 0.8 : 0.6,
-    }));
+  const seen = new Set<string>();
+  const entries: MetadataRoute.Sitemap = [];
+  for (const page of listPages()) {
+    if ((page.robots ?? "").includes("noindex")) continue;
+    const url = `${BASE_URL}${page.route}`;
+    if (seen.has(url)) continue;
+    seen.add(url);
+    const depth = page.route.split("/").filter(Boolean).length;
+    entries.push({
+      url,
+      lastModified: LAST_MODIFIED,
+      changeFrequency: page.route === "/" ? "weekly" : "monthly",
+      priority: page.route === "/" ? 1 : depth <= 1 ? 0.8 : 0.6,
+    });
+  }
+  return entries;
 }
