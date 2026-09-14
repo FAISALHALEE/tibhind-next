@@ -277,7 +277,7 @@ const MEGA_CSS = [
   `.mega__note{color:var(--muted);max-width:46ch;margin:0;font-size:13px}`,
   `.mega .mega__all{font:11px var(--data);letter-spacing:.1em;text-transform:uppercase;color:var(--seal);white-space:nowrap;margin:0;padding:0;text-decoration:none}`,
   `.mega .mega__all:hover{color:var(--ink)}`,
-  `@media (max-width: 1080px){.mega{opacity:1;visibility:visible;box-shadow:none;background:0 0;border:0;max-height:0;padding:0 0 12px;transition:max-height .3s;position:static;overflow:hidden;transform:none}.nav__item:hover .mega,.nav__item:focus-within .mega,.nav__item.open .mega{max-height:none;transform:none}.nav__item.open .nav__top svg{transform:rotate(180deg)}}`,
+  `@media (max-width: 1080px){.mega{opacity:1;visibility:visible;box-shadow:none;background:0 0;border:0;max-height:0;padding:0 0 12px;transition:max-height .3s;position:static;overflow:hidden;transform:none}.nav__item:hover .mega,.nav__item:focus-within .mega,.nav__item.open .mega{max-height:none;transform:none}.nav__item.open .nav__top svg{transform:rotate(180deg)}.nav .mega .mega__grid{grid-template-columns:1fr;gap:18px;width:auto;min-width:0}.nav .mega .mega__grid>div{min-width:0}.nav .mega .mega__t,.nav .mega .mega__d{overflow-wrap:break-word}.nav .mega .mega__foot{flex-wrap:wrap;gap:10px 16px}.nav .mega .mega__all{white-space:normal}}`,
 ].join("");
 
 const TREATMENT_CONTENT_CSS = [
