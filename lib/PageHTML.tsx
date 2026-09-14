@@ -40,6 +40,23 @@ function fixSvgDimensions(html: string): string {
   );
 }
 
+const PRIMARY_EMAIL = "tibhind@gmail.com";
+const ADDITIONAL_EMAIL_TO = process.env.ADDITIONAL_EMAIL_TO ?? "info@tibhind.com";
+
+function addEmailCopy(html: string): string {
+  if (!ADDITIONAL_EMAIL_TO) return html;
+  const cc = encodeURIComponent(ADDITIONAL_EMAIL_TO);
+  return html
+    .replace(
+      new RegExp(`mailto:(${PRIMARY_EMAIL.replace(/\./g, "\\.")})\\?`, "g"),
+      `mailto:$1?cc=${cc}&`
+    )
+    .replace(
+      new RegExp(`mailto:(${PRIMARY_EMAIL.replace(/\./g, "\\.")})(?![?&\\w])`, "g"),
+      `mailto:$1?cc=${cc}`
+    );
+}
+
 const SHARED_CHROME_CSS = [
   `.wrap{max-width:var(--wrap);margin:auto;padding-inline:24px}`,
   `.top{z-index:60;background:var(--paper);border-bottom:1px solid var(--rule);-webkit-backdrop-filter:none;backdrop-filter:none;position:sticky;top:0}`,
@@ -61,6 +78,7 @@ const SHARED_CHROME_CSS = [
   `.btn--ct svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex:none}`,
   `.btn--ct:hover{background:var(--ink)}`,
   `.navtoggle,.burger{display:none}`,
+  `.doctor-avatar img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top center;display:block}`,
   `.burger{border:1px solid var(--rule);cursor:pointer;background:0 0;border-radius:3px;margin-inline-start:auto;padding:9px 11px}`,
   `.burger svg{width:18px;height:18px;stroke:var(--ink);fill:none;stroke-width:1.8px;stroke-linecap:round}`,
   `.foot{background:var(--ink);color:#c9d6d1;margin:0;padding:46px 0 0}`,
@@ -110,7 +128,7 @@ const SHARED_CHROME_CSS = [
   `.disc__i p{color:#9fb2ac;margin:0;font-size:13px;line-height:1.55}`,
   `.disc__copy{color:#7b918b;max-width:100ch;margin:0;font-size:13px;line-height:1.6}`,
   `.disc__copy strong{color:#9fb2ac;font-weight:500}`,
-  `@media (max-width: 1239px){.burger{display:block}.nav{background:var(--paper);border-inline-start:1px solid var(--rule);flex-direction:column;align-items:stretch;gap:0;width:min(90vw,380px);margin:0;padding:74px 22px 30px;transition:transform .32s cubic-bezier(.4,0,.2,1);position:fixed;inset-block:0;inset-inline-end:0;transform:translateX(100%);z-index:80;overflow-y:auto}.navtoggle:checked~.nav{transform:none}.nav__item{border-bottom:1px dotted var(--rule)}.nav__top{justify-content:space-between;width:100%;padding:15px 4px;font-size:17px}.mega{opacity:1;visibility:visible;box-shadow:none;background:0 0;border:0;max-height:0;padding:0 0 12px;transition:max-height .3s;position:static;overflow:hidden;transform:none}.nav__item:hover .mega,.nav__item:focus-within .mega{max-height:1500px;transform:none}.mega--wide .mega__grid,.mega--mid .mega__grid,.mega--single .mega__grid{grid-template-columns:1fr;gap:18px;width:auto}.nav a{display:flex}.langs{display:flex!important;margin:18px 0 0}.btn--wa{text-align:center;margin:14px 0 0;display:inline-flex!important}.btn--ct{text-align:center;margin:14px 0 0;display:inline-flex!important}}`,
+  `@media (max-width: 1080px){.burger{display:block}.nav{background:var(--paper);border-inline-start:1px solid var(--rule);flex-direction:column;align-items:stretch;gap:0;width:min(90vw,380px);margin:0;padding:74px 22px 30px;transition:transform .32s cubic-bezier(.4,0,.2,1);position:fixed;inset-block:0;inset-inline-end:0;transform:translateX(100%);z-index:80;overflow-y:auto}.navtoggle:checked~.nav{transform:none}.nav__item{border-bottom:1px dotted var(--rule)}.nav__top{justify-content:space-between;width:100%;padding:15px 4px;font-size:17px}.mega{opacity:1;visibility:visible;box-shadow:none;background:0 0;border:0;max-height:0;padding:0 0 12px;transition:max-height .3s;position:static;overflow:hidden;transform:none}.nav__item:hover .mega,.nav__item:focus-within .mega,.nav__item.open .mega{max-height:none;transform:none}.nav__item.open .nav__top svg{transform:rotate(180deg)}.mega--wide .mega__grid,.mega--mid .mega__grid,.mega--single .mega__grid{grid-template-columns:1fr;gap:18px;width:auto}.nav a{display:flex}.nav a:not(.wa){display:flex}.langs{display:flex!important;margin:18px 0 0}.btn--wa{text-align:center;margin:14px 0 0;display:inline-flex!important}.btn--ct{text-align:center;margin:14px 0 0;display:inline-flex!important}}`,
   `@media (max-width: 1000px){.foot__top{grid-template-columns:1fr 1fr;gap:24px}.foot__id{grid-column:1/-1}.foot__tag{max-width:none}}`,
   `@media (max-width: 680px){.foot__lang,.foot__legal{gap:8px 12px}.foot__lang{justify-content:center;text-align:center}.foot__soc{margin-inline-start:0;justify-content:center}}`,
   `@media (max-width: 480px){.foot__lang{gap:8px}.foot__lang span{display:block;width:100%}.foot__lang a{padding:4px 8px;font-size:13px}}`,
@@ -158,6 +176,10 @@ const FAQ_ACCORDION_CSS = [
 ].join("");
 
 const FAQ_TOGGLE_JS = `(function(){document.querySelectorAll('.faq__item').forEach(function(item){var btn=item.querySelector('.faq__q');if(!btn||btn.dataset.faqBound)return;btn.dataset.faqBound='1';btn.addEventListener('click',function(){var open=item.classList.toggle('open');btn.setAttribute('aria-expanded',open);});});})()`;
+
+const NAV_TOGGLE_JS = `(function(){function tibNavBind(){var items=document.querySelectorAll('.nav__item');for(var i=0;i<items.length;i++){var item=items[i];var top=item.querySelector('.nav__top');if(!top||top.tagName!=='A'||!top.getAttribute('href')||top.dataset.tibNavBound||!item.querySelector('.mega'))continue;top.dataset.tibNavBound='1';(function(item,top){top.addEventListener('click',function(e){if(!window.matchMedia('(max-width:1080px)').matches)return;if(item.classList.contains('open'))return;e.preventDefault();var open=document.querySelectorAll('.nav__item.open');for(var j=0;j<open.length;j++){if(open[j]!==item){open[j].classList.remove('open');var t=open[j].querySelector('.nav__top');if(t)t.setAttribute('aria-expanded','false');}}item.classList.add('open');top.setAttribute('aria-expanded','true');});})(item,top);}}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',tibNavBind);}else{tibNavBind();}})();`;
+
+const REPORT_FORM_JS = `(function(){function tibReportBind(){var btns=document.querySelectorAll('button[type="button"]');for(var i=0;i<btns.length;i++){var btn=btns[i];if(btn.textContent.trim()!=='Send to Dr. Varughese'||btn.dataset.tibReportBound)continue;btn.dataset.tibReportBound='1';(function(btn){var wrap=btn.closest('.form');if(!wrap)return;var note=wrap.querySelector('.form__note');var status=document.createElement('p');status.className='form__note';status.style.display='none';status.setAttribute('role','status');status.setAttribute('aria-live','polite');if(note&&note.parentNode){note.parentNode.insertBefore(status,note.nextSibling);}else{btn.parentNode.appendChild(status);}function show(msg,color){status.textContent=msg;status.style.display='block';status.style.color=color;}btn.addEventListener('click',function(){var els=wrap.querySelectorAll('input,select,textarea');var firstInvalid=null;for(var j=0;j<els.length;j++){if(!els[j].checkValidity()){firstInvalid=els[j];break;}}if(firstInvalid){try{firstInvalid.reportValidity();}catch(e){firstInvalid.focus();}return;}var items=[];for(var k=0;k<els.length;k++){var el=els[k];var lab=wrap.querySelector('label[for="'+el.id+'"]');items.push({id:el.id,label:lab?lab.textContent.trim():'',value:el.value});}btn.disabled=true;show('Sending your report…','#556');fetch('/api/send-report',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({page:location.pathname,items:items})}).then(function(r){return r.json().then(function(j){return{ok:r.ok&&j&&j.ok,err:j&&j.error};});}).then(function(res){if(res.ok){show('Thank you — your report has been sent to our medical team. We will contact you on the number you provided.','#1e7a46');}else{show(res.err||'We could not send your report right now. Please try again or contact us on WhatsApp.','#a03d33');}}).catch(function(){show('We could not send your report right now. Please check your connection and try again, or contact us on WhatsApp.','#a03d33');}).then(function(){btn.disabled=false;});});})(btn);}}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',tibReportBind);}else{tibReportBind();}})();`;
 
 const REPORTS_CTA_CSS = [
   `.rcta{background:var(--tone);border-block:1px solid var(--rule);padding-block:clamp(56px,7vw,104px)}`,
@@ -255,7 +277,7 @@ const MEGA_CSS = [
   `.mega__note{color:var(--muted);max-width:46ch;margin:0;font-size:13px}`,
   `.mega .mega__all{font:11px var(--data);letter-spacing:.1em;text-transform:uppercase;color:var(--seal);white-space:nowrap;margin:0;padding:0;text-decoration:none}`,
   `.mega .mega__all:hover{color:var(--ink)}`,
-  `@media (max-width: 1239px){.mega{opacity:1;visibility:visible;box-shadow:none;background:0 0;border:0;max-height:0;padding:0 0 12px;transition:max-height .3s;position:static;overflow:hidden;transform:none}.nav__item:hover .mega,.nav__item:focus-within .mega{max-height:1500px;transform:none}.mega--wide .mega__grid,.mega--mid .mega__grid,.mega--single .mega__grid{grid-template-columns:1fr;gap:18px;width:auto}}`,
+  `@media (max-width: 1080px){.mega{opacity:1;visibility:visible;box-shadow:none;background:0 0;border:0;max-height:0;padding:0 0 12px;transition:max-height .3s;position:static;overflow:hidden;transform:none}.nav__item:hover .mega,.nav__item:focus-within .mega,.nav__item.open .mega{max-height:none;transform:none}.nav__item.open .nav__top svg{transform:rotate(180deg)}}`,
 ].join("");
 
 const TREATMENT_CONTENT_CSS = [
@@ -430,9 +452,10 @@ export default function PageHTML({ page }: { page: Page }) {
   const hasFaqScript =
     page.body.includes("querySelectorAll('.faq__item')") ||
     page.headScripts.includes("faq__item");
+  const hasReportForm = page.body.includes("Send to Dr. Varughese");
   const bodyHtml =
     (page.headScripts ? `<script>${page.headScripts}</script>` : "") +
-    injectHeaderContact(fixSvgDimensions(wrapRelatedSection(useSharedHeader(page.body))));
+    addEmailCopy(injectHeaderContact(fixSvgDimensions(wrapRelatedSection(useSharedHeader(page.body)))));
   return (
     <>
       {page.styles.map((css, i) => (
@@ -445,6 +468,7 @@ export default function PageHTML({ page }: { page: Page }) {
       {isTreatment && <style dangerouslySetInnerHTML={{ __html: TREATMENT_CONTENT_CSS }} />}
       {isCondition && <style dangerouslySetInnerHTML={{ __html: CONDITION_TOC_CSS }} />}
       <style dangerouslySetInnerHTML={{ __html: MEGA_CSS }} />
+      <script dangerouslySetInnerHTML={{ __html: NAV_TOGGLE_JS }} />
       {isTreatment && <script dangerouslySetInnerHTML={{ __html: `(function(){if(typeof IntersectionObserver==='undefined')return;var o=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting){x.target.classList.add('visible');o.unobserve(x.target)}})},{threshold:.12});document.querySelectorAll('.rise').forEach(function(el){o.observe(el)})})()` }} />}
       {page.jsonLd.map((json, i) => (
         <script
@@ -454,6 +478,7 @@ export default function PageHTML({ page }: { page: Page }) {
         />
       ))}
       <div dangerouslySetInnerHTML={{ __html: bodyHtml }} suppressHydrationWarning />
+      {hasReportForm && <script dangerouslySetInnerHTML={{ __html: REPORT_FORM_JS }} />}
     </>
   );
 }

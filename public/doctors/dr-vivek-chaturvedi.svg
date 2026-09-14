@@ -9,7 +9,7 @@
 
 
 
-<path d="M124 116 q6 34 36 34 t36-34 q-4 44-36 44 t-36-44z" fill="undefined" opacity=".85"/>
+<path d="M124 116 q6 34 36 34 t36-34 q-4 44-36 44 t-36-44z" fill="#24211e" opacity=".85"/>
 <circle cx="140" cy="100" r="4.5" fill="#20242b"/>
 <circle cx="180" cy="100" r="4.5" fill="#20242b"/>
 <path d="M130 86 q10-6 20-2" stroke="#20242b" stroke-width="3" fill="none" stroke-linecap="round"/>
